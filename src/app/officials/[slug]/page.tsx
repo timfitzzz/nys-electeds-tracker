@@ -8,6 +8,7 @@ import { ContactTracker } from "@/components/ContactTracker";
 import { getOfficial, getOfficials, getResponseRates } from "@/lib/data";
 import { mapsUrl, num, officeAddressLine, officeKindLabel, partyClass, yelpUrl } from "@/lib/format";
 import { officeMetrics } from "@/lib/metrics";
+import { latestByLine, latestForOffice, phoneOutcomes, phoneStatus, toneClass } from "@/lib/phone";
 
 export async function generateStaticParams() {
   return (await getOfficials()).map((o) => ({ slug: o.slug }));
@@ -45,6 +46,7 @@ export default async function OfficialPage({ params }: PageProps<"/officials/[sl
   const o = official;
   const m = officeMetrics(o);
   const c = o.contact;
+  const phone = phoneStatus(o);
   const inArea = o.offices.filter((f) => f.kind !== "capitol");
   const capitol = o.offices.filter((f) => f.kind === "capitol");
 
@@ -134,6 +136,17 @@ export default async function OfficialPage({ params }: PageProps<"/officials/[sl
                       {f.phone}
                     </a>
                   )}
+                  {f.phone &&
+                    (() => {
+                      const check = latestForOffice(o.phoneChecks, f.slug);
+                      if (!check) return <span className="text-slate-400">untested</span>;
+                      const outcome = phoneOutcomes[check.outcome];
+                      return (
+                        <span className={toneClass[outcome.tone]} title={check.notes ?? undefined}>
+                          {outcome.label} ({check.checkedAt.slice(0, 10)})
+                        </span>
+                      );
+                    })()}
                   {f.hours && <span className="text-slate-500">{f.hours}</span>}
                   {f.kind !== "mailing" && (
                     <a href={mapsUrl(f)} target="_blank" rel="noreferrer" className="text-slate-500 underline">
@@ -173,7 +186,26 @@ export default async function OfficialPage({ params }: PageProps<"/officials/[sl
             </dd>
             <dt className="text-slate-500">Phone</dt>
             <dd>
-              <Availability value={c.phone} yes="Yes, numbers under Offices" />
+              <span className={toneClass[phone.tone]}>{phone.label}</span>
+              {phone.latest ? (
+                <ul className="mt-1 space-y-1 text-xs text-slate-500">
+                  {latestByLine(o.phoneChecks).map((p, i) => (
+                    <li key={i}>
+                      {p.checkedAt.slice(0, 10)} ·{" "}
+                      {p.officeSlug
+                        ? (o.offices.find((f) => f.slug === p.officeSlug)?.name ?? p.officeSlug)
+                        : "office not recorded"}
+                      : {phoneOutcomes[p.outcome].label}
+                      {p.inSession === false && ", during recess"}
+                      {p.notes && <span>. {p.notes}</span>}
+                    </li>
+                  ))}
+                </ul>
+              ) : (
+                <div className="text-xs text-slate-500">
+                  {c.phone ? "Numbers are listed under Offices, but no call has been logged yet." : null}
+                </div>
+              )}
             </dd>
             <dt className="text-slate-500">In person</dt>
             <dd>

@@ -12,7 +12,8 @@ First pass: New York's 2 U.S. senators and 26 U.S. House members. State, county 
 | --- | --- |
 | Number of in-area offices (excluding DC) | Live |
 | Offices per 1,000 sq mi and per 100,000 residents | Live |
-| Contact by email, phone, web form, in person | Live |
+| Contact by email, web form, in person | Live |
+| Phone responsiveness per office line (answered, voicemail, no voicemail, line off during recess) | Live; logged in `data/phone-checks.json` |
 | Publishes daily schedule, last 10 meetings | Live (no NY member publishes one as of Oct 2026) |
 | Good-government scorecards | Live (links to GovTrack, Vote Smart, OpenSecrets, Ballotpedia, Bioguide) |
 | Reviews | Links to Google Maps and Yelp per office; ratings not pulled in |
@@ -40,6 +41,7 @@ data/research/<BIOGUIDE>.json       per-member facts checked against official we
 data/districts.json                 land area (Census TIGERweb) and population (2020 Census) per district
 data/status-notes.json              retirements, primary losses
 data/display-names.json             common names ("Chuck Schumer")
+data/phone-checks.json              calls to office lines and what happened
         │  npm run data:build
         ▼
 src/data/seed.json                  what the app and the seed script read

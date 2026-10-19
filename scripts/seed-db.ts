@@ -4,11 +4,12 @@
 // Usage: DATABASE_URL=... npm run db:seed
 import { drizzle } from "drizzle-orm/postgres-js";
 import postgres from "postgres";
-import { eq } from "drizzle-orm";
+import { and, eq } from "drizzle-orm";
 import * as t from "../src/db/schema";
 import seed from "../src/data/seed.json";
 
 type OfficeKind = (typeof t.officeKind.enumValues)[number];
+type PhoneCheckOutcome = (typeof t.phoneCheckOutcome.enumValues)[number];
 type JurisdictionType = (typeof t.jurisdictionType.enumValues)[number];
 
 async function main() {
@@ -82,6 +83,26 @@ async function main() {
       }
       for (const existing of await tx.select().from(t.offices).where(eq(t.offices.officialId, id))) {
         if (!keep.has(existing.slug)) await tx.delete(t.offices).where(eq(t.offices.id, existing.id));
+      }
+
+      // Curated phone checks are replaced wholesale; user reports and call-through rows are kept.
+      await tx.delete(t.phoneChecks).where(and(eq(t.phoneChecks.officialId, id), eq(t.phoneChecks.source, "curated")));
+      if (o.phoneChecks.length) {
+        const officeIds = new Map(
+          (await tx.select().from(t.offices).where(eq(t.offices.officialId, id))).map((f) => [f.slug, f.id]),
+        );
+        await tx.insert(t.phoneChecks).values(
+          o.phoneChecks.map((p) => ({
+            officialId: id,
+            officeId: p.officeSlug ? officeIds.get(p.officeSlug)! : null,
+            phoneNumber: p.phoneNumber,
+            checkedAt: new Date(p.checkedAt),
+            outcome: p.outcome as PhoneCheckOutcome,
+            inSession: p.inSession,
+            source: "curated",
+            notes: p.notes,
+          })),
+        );
       }
 
       const contact = { officialId: id, ...o.contact };

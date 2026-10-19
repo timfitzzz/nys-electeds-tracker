@@ -19,7 +19,7 @@ export interface TableRow {
   landAreaSqMi: number;
   population: number;
   email: boolean | null;
-  phone: boolean | null;
+  phone: { label: string; className: string; title: string };
   webform: boolean | null;
   inPerson: boolean | null;
   callbackRate: number | null;
@@ -114,7 +114,9 @@ export function OfficialsTable({ rows }: { rows: TableRow[] }) {
                 {header("perHundredThousand", "per 100k people", "In-area offices per 100,000 residents")}
               </th>
               <th className="text-left font-semibold">Email</th>
-              <th className="text-left font-semibold">Phone</th>
+              <th className="text-left font-semibold" title="What happened the last time someone called">
+                Phone
+              </th>
               <th className="text-left font-semibold">Web form</th>
               <th className="text-left font-semibold">In person</th>
               <th className="text-right font-semibold" title="Share of calls through this site that got a callback">
@@ -160,7 +162,9 @@ export function OfficialsTable({ rows }: { rows: TableRow[] }) {
                   <Availability value={r.email} yes="Public address" no="Form only" />
                 </td>
                 <td>
-                  <Availability value={r.phone} />
+                  <span className={r.phone.className} title={r.phone.title}>
+                    {r.phone.label}
+                  </span>
                 </td>
                 <td>
                   <Availability value={r.webform} />

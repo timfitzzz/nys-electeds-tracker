@@ -1,0 +1,14 @@
+{
+  "_comment": "Curated calls to office lines. office is the office name in data/research/<BIOGUIDE>.json, or null if the report didn't say which office. outcome is one of: answered_live, voicemail, voicemail_full, recorded_message, redirected, no_voicemail, line_off, busy.",
+  "checks": [
+    {
+      "bioguide": "S000148",
+      "office": null,
+      "phone": null,
+      "checked_at": "2026-10-19",
+      "outcome": "line_off",
+      "in_session": false,
+      "notes": "Phone turned off and no voicemail box while the Senate is out of session. Reported by the site's maintainer; which office was called wasn't recorded."
+    }
+  ]
+}
