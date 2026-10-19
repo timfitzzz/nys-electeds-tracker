@@ -1,0 +1,53 @@
+{
+ "bioguide": "K000402",
+ "name": "Tim Kennedy",
+ "verified_at": "2026-10-19",
+ "offices": [
+  {
+   "name": "Buffalo",
+   "address": "726 Exchange Street",
+   "suite": "Suite 601",
+   "city": "Buffalo",
+   "zip": "14210",
+   "phone": "716-852-3501",
+   "hours": "Mon-Fri 9-5",
+   "kind": "district",
+   "latitude": 42.8746006,
+   "longitude": -78.8495612
+  },
+  {
+   "name": "Niagara Falls",
+   "address": "800 Main Street",
+   "suite": "Suite 3C",
+   "city": "Niagara Falls",
+   "zip": "14301",
+   "phone": "716-282-1274",
+   "hours": "Mon and Fri 9-5",
+   "kind": "district",
+   "latitude": 43.0967124,
+   "longitude": -79.0554131
+  }
+ ],
+ "contact": {
+  "email_public": null,
+  "webform_url": "https://kennedy.house.gov/contact",
+  "webform_requires_zip_verification": true,
+  "phone": true,
+  "meeting_request_url": "https://kennedy.house.gov/forms/meetingrequest",
+  "in_person": true,
+  "in_person_notes": "District offices open; telephone town halls and district events held",
+  "mobile_office_hours": null,
+  "casework_url": "https://kennedy.house.gov/forms/casework"
+ },
+ "schedule": {
+  "publishes_daily_schedule": false,
+  "schedule_url": "https://kennedy.house.gov/calendar",
+  "notes": "Public calendar page exists but is an events calendar with only two entries (Mar 2025 telephone town hall; Oct 2024 Service Academy Night); not a daily meeting schedule."
+ },
+ "scorecards_extra": [],
+ "sources": [
+  "https://kennedy.house.gov/contact",
+  "https://kennedy.house.gov/calendar"
+ ],
+ "notes": "Offices confirmed. Casework also at https://kennedy.house.gov/services/help-federal-agency.htm."
+}

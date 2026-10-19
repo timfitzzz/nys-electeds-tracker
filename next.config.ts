@@ -1,9 +1,12 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
   cacheComponents: true,
   partialPrefetching: true,
+  images: {
+    // Official portraits from the unitedstates/images project (public domain).
+    remotePatterns: [{ protocol: "https", hostname: "unitedstates.github.io", pathname: "/images/congress/**" }],
+  },
   turbopack: {
     rules: {
       "*.css": {

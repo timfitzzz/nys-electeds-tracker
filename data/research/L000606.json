@@ -1,0 +1,54 @@
+{
+ "bioguide": "L000606",
+ "name": "George Latimer",
+ "verified_at": "2026-10-19",
+ "offices": [
+  {
+   "name": "White Plains",
+   "address": "222 Mamaroneck Ave",
+   "suite": "Suite 312",
+   "city": "White Plains",
+   "zip": "10605",
+   "phone": "914-323-5550",
+   "hours": null,
+   "kind": "district",
+   "latitude": 40.9501344,
+   "longitude": -73.7364686
+  },
+  {
+   "name": "Bronx",
+   "address": "177 Dreiser Loop",
+   "suite": "Room 3",
+   "city": "Bronx",
+   "zip": "10475",
+   "phone": "718-530-7888",
+   "hours": null,
+   "kind": "district",
+   "latitude": 40.876579,
+   "longitude": -73.8287211
+  }
+ ],
+ "contact": {
+  "email_public": null,
+  "webform_url": "https://latimer.house.gov/contact/email-me",
+  "webform_requires_zip_verification": null,
+  "phone": true,
+  "meeting_request_url": null,
+  "in_person": true,
+  "in_person_notes": "Hours/appointment policy not stated on pages fetched.",
+  "mobile_office_hours": null,
+  "casework_url": "https://latimer.house.gov/services/help-federal-agency"
+ },
+ "schedule": {
+  "publishes_daily_schedule": false,
+  "schedule_url": null,
+  "notes": "No public daily schedule page found on the contact page; not exhaustively searched. Events page exists (https://latimer.house.gov/about/events) but is not a schedule. Appearance request: https://latimer.house.gov/contact/request-an-appearance",
+  "recent_meetings": []
+ },
+ "scorecards_extra": [],
+ "sources": [
+  "https://latimer.house.gov/contact",
+  "https://latimer.house.gov/contact/office-contact-information"
+ ],
+ "notes": "Official site lists only phone numbers for district offices (no addresses); addresses/suites kept from base data and not re-verified. Office locations page could not be parsed. Member serving as of fetch; all seven listed as current NY representatives (not independently checked for post-2026-primary changes). Fetched via WebFetch of house.gov pages; webform ZIP requirement null unless stated."
+}

@@ -1,0 +1,55 @@
+{
+ "bioguide": "S001196",
+ "name": "Elise Stefanik",
+ "verified_at": "2026-10-19",
+ "offices": [
+  {
+   "name": "Schuylerville",
+   "address": "12 Spring Street",
+   "suite": "Suite 102",
+   "city": "Schuylerville",
+   "zip": "12871",
+   "phone": "518-242-4707",
+   "hours": null,
+   "kind": "district",
+   "latitude": null,
+   "longitude": null
+  },
+  {
+   "name": "Ogdensburg",
+   "address": "330 Ford Street",
+   "suite": "Suite B8",
+   "city": "Ogdensburg",
+   "zip": "13669",
+   "phone": "315-541-2670",
+   "hours": null,
+   "kind": "district",
+   "latitude": 44.6983667,
+   "longitude": -75.4920571
+  }
+ ],
+ "contact": {
+  "email_public": null,
+  "webform_url": "https://stefanik.house.gov/email-me",
+  "webform_requires_zip_verification": null,
+  "phone": true,
+  "meeting_request_url": "https://stefanik.house.gov/request-an-appearance",
+  "in_person": true,
+  "in_person_notes": "District offices; walk-in/appointment policy not stated on site",
+  "mobile_office_hours": null,
+  "casework_url": "https://stefanik.house.gov/help-with-a-federal-agency"
+ },
+ "schedule": {
+  "publishes_daily_schedule": false,
+  "schedule_url": null,
+  "notes": "No public daily schedule found on site."
+ },
+ "scorecards_extra": [],
+ "sources": [
+  "https://stefanik.house.gov/contact",
+  "https://stefanik.house.gov/offices",
+  "https://www.cbsnews.com/tag/elise-stefanik",
+  "https://www.aol.com/articles/rep-elise-stefanik-ends-her-212715307.html"
+ ],
+ "notes": "NOTABLE: Stefanik ended her NY governor bid and announced she will not seek reelection (news results); she remains in office through the end of the term (Jan 2027) as far as verified. Her site now lists only Schuylerville and Ogdensburg; base.json's Plattsburgh and Herkimer offices are NOT on the current site (dropped, could not confirm closure otherwise). Schuylerville is new (lat/long null). The request-an-appearance URL is for events/appearances and used as the closest meeting-request page."
+}

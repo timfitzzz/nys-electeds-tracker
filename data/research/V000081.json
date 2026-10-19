@@ -1,0 +1,55 @@
+{
+ "bioguide": "V000081",
+ "name": "Nydia M. Velázquez",
+ "verified_at": "2026-10-19",
+ "offices": [
+  {
+   "name": "Brooklyn",
+   "address": "266 Broadway",
+   "suite": "Suite 201",
+   "city": "Brooklyn",
+   "zip": "11211",
+   "phone": "718-599-3658",
+   "hours": null,
+   "kind": "district",
+   "latitude": 40.7085893,
+   "longitude": -73.9592284
+  },
+  {
+   "name": "Sunnyside",
+   "address": "39-16 47th Avenue",
+   "suite": null,
+   "city": "Sunnyside",
+   "zip": "11104",
+   "phone": "718-340-6244",
+   "hours": null,
+   "kind": "district",
+   "latitude": null,
+   "longitude": null
+  }
+ ],
+ "contact": {
+  "email_public": null,
+  "webform_url": "https://velazquez.house.gov/contact",
+  "webform_requires_zip_verification": null,
+  "phone": true,
+  "meeting_request_url": "https://velazquez.house.gov/contact/request-an-appearance",
+  "in_person": true,
+  "in_person_notes": "Two district offices; hours not published.",
+  "mobile_office_hours": null,
+  "casework_url": "https://velazquez.house.gov/services/help-with-a-federal-agency"
+ },
+ "schedule": {
+  "publishes_daily_schedule": false,
+  "schedule_url": null,
+  "notes": "No schedule found.",
+  "recent_meetings": []
+ },
+ "scorecards_extra": [],
+ "sources": [
+  "https://velazquez.house.gov/contact",
+  "https://velazquez.house.gov/contact/offices",
+  "https://abc7ny.com/amp/post/new-york-congresswoman-nydia-velzquezwill-not-seek-reelection-year/18181969/"
+ ],
+ "notes": "Fetched official site pages via WebFetch (curl blocked by proxy). Office hours are generally not published on the site. Velázquez announced in Nov 2025 she will not seek reelection; she remains in office until Jan 2027 (successor not verified). Sunnyside lat/long not in base (null). Request-an-appearance form is for events, treated as meeting request."
+}

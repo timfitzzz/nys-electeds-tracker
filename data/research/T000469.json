@@ -1,0 +1,52 @@
+{
+ "bioguide": "T000469",
+ "name": "Paul Tonko",
+ "verified_at": "2026-10-19",
+ "offices": [
+  {
+   "name": "Albany",
+   "address": "19 Dove Street",
+   "suite": "Suite 302",
+   "city": "Albany",
+   "zip": "12210",
+   "phone": "518-465-0700",
+   "hours": null,
+   "kind": "district",
+   "latitude": 42.6553643,
+   "longitude": -73.7615981
+  },
+  {
+   "name": "Saratoga Springs",
+   "address": "433 Broadway",
+   "suite": "Suite 201",
+   "city": "Saratoga Springs",
+   "zip": "12866",
+   "phone": "518-374-4547",
+   "hours": null,
+   "kind": "district",
+   "latitude": 43.0823082,
+   "longitude": -73.78542680000001
+  }
+ ],
+ "contact": {
+  "email_public": null,
+  "webform_url": "https://tonko.house.gov/contact",
+  "webform_requires_zip_verification": true,
+  "phone": true,
+  "meeting_request_url": "https://tonko.house.gov/contact",
+  "in_person": true,
+  "in_person_notes": "District offices; walk-in/appointment policy not stated on site",
+  "mobile_office_hours": null,
+  "casework_url": null
+ },
+ "schedule": {
+  "publishes_daily_schedule": false,
+  "schedule_url": null,
+  "notes": "No public daily schedule found on site."
+ },
+ "scorecards_extra": [],
+ "sources": [
+  "https://tonko.house.gov/contact"
+ ],
+ "notes": "Offices match base.json (site lists 'Unit 302' for Albany). Site fetch of /contact/offices failed; /contact worked. Meeting request page exists but exact URL not captured (set to contact page); casework URL not captured. Hours, mobile office hours not listed. Still in office per base data; not independently checked beyond that."
+}

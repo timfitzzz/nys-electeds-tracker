@@ -1,0 +1,3689 @@
+{
+  "officials": [
+    {
+      "slug": "kirsten-gillibrand",
+      "bioguide": "G000555",
+      "name": "Kirsten Gillibrand",
+      "fullName": "Kirsten E. Gillibrand",
+      "level": "federal",
+      "chamber": "us_senate",
+      "title": "U.S. Senator",
+      "district": null,
+      "party": "Democrat",
+      "websiteUrl": "https://www.gillibrand.senate.gov",
+      "photoUrl": "https://unitedstates.github.io/images/congress/225x275/G000555.jpg",
+      "statusNote": null,
+      "jurisdiction": {
+        "key": "NY",
+        "name": "New York State",
+        "type": "state",
+        "geoid": "36",
+        "landAreaSqMi": 47123.5,
+        "population": 20201249,
+        "areaSource": "Sum of the 26 congressional district land areas, U.S. Census Bureau TIGERweb (119th Congress)",
+        "populationSource": "2020 Census resident population (P.L. 94-171)",
+        "sources": [
+          "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+          "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+        ]
+      },
+      "offices": [
+        {
+          "slug": "albany",
+          "name": "Albany",
+          "kind": "district",
+          "address": "11A Clinton Avenue",
+          "suite": "Room 821",
+          "city": "Albany",
+          "state": "NY",
+          "zip": "12207",
+          "phone": "518-431-0120",
+          "hours": null,
+          "latitude": 42.655222,
+          "longitude": -73.7492819
+        },
+        {
+          "slug": "buffalo",
+          "name": "Buffalo",
+          "kind": "district",
+          "address": "726 Exchange St.",
+          "suite": "Suite 511",
+          "city": "Buffalo",
+          "state": "NY",
+          "zip": "14210",
+          "phone": "716-854-9725",
+          "hours": null,
+          "latitude": 42.8747911,
+          "longitude": -78.851165
+        },
+        {
+          "slug": "lowville",
+          "name": "Lowville",
+          "kind": "mailing",
+          "address": "PO Box 273",
+          "suite": null,
+          "city": "Lowville",
+          "state": "NY",
+          "zip": "13367",
+          "phone": "315-376-6118",
+          "hours": null,
+          "latitude": 43.7880969,
+          "longitude": -75.4938177
+        },
+        {
+          "slug": "new-york",
+          "name": "New York",
+          "kind": "district",
+          "address": "885 Third Avenue",
+          "suite": "Suite 2402",
+          "city": "New York",
+          "state": "NY",
+          "zip": "10022",
+          "phone": "212-688-6262",
+          "hours": null,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "slug": "melville",
+          "name": "Melville",
+          "kind": "district",
+          "address": "155 Pinelawn Rd.",
+          "suite": "Suite 250 North",
+          "city": "Melville",
+          "state": "NY",
+          "zip": "11747",
+          "phone": "631-249-2825",
+          "hours": null,
+          "latitude": 40.7707877,
+          "longitude": -73.41024759999999
+        },
+        {
+          "slug": "rochester",
+          "name": "Rochester",
+          "kind": "district",
+          "address": "100 State St.",
+          "suite": "Room 4195",
+          "city": "Rochester",
+          "state": "NY",
+          "zip": "14614",
+          "phone": "585-263-6250",
+          "hours": null,
+          "latitude": 43.1576631,
+          "longitude": -77.613515
+        },
+        {
+          "slug": "syracuse",
+          "name": "Syracuse",
+          "kind": "district",
+          "address": "100 S. Clinton St.",
+          "suite": "Room 1470",
+          "city": "Syracuse",
+          "state": "NY",
+          "zip": "13261",
+          "phone": "315-448-0470",
+          "hours": null,
+          "latitude": 43.0501042,
+          "longitude": -76.1543204
+        },
+        {
+          "slug": "yonkers",
+          "name": "Yonkers",
+          "kind": "mailing",
+          "address": "PO Box 749",
+          "suite": null,
+          "city": "Yonkers",
+          "state": "NY",
+          "zip": "10710-0749",
+          "phone": "845-875-4585",
+          "hours": null,
+          "latitude": 40.9188505,
+          "longitude": -73.8596689
+        },
+        {
+          "slug": "washington-dc",
+          "name": "Washington, DC",
+          "kind": "capitol",
+          "address": "478 Russell Senate Office Building Washington DC 20510",
+          "suite": null,
+          "city": null,
+          "state": null,
+          "zip": null,
+          "phone": "202-224-4451",
+          "hours": null,
+          "latitude": null,
+          "longitude": null
+        }
+      ],
+      "contact": {
+        "emailPublic": null,
+        "webformUrl": "https://www.gillibrand.senate.gov/contact/email-me/",
+        "webformRequiresZip": null,
+        "phone": true,
+        "meetingRequestUrl": "https://www.gillibrand.senate.gov/help/scheduling-request/",
+        "inPerson": null,
+        "inPersonNotes": "Hours/walk-in policy not published on office page; call ahead. No mobile office hours listed.",
+        "mobileOfficeHours": null,
+        "caseworkUrl": "https://www.gillibrand.senate.gov/help/help-for-new-yorkers/"
+      },
+      "schedule": {
+        "publishesDailySchedule": false,
+        "scheduleUrl": null,
+        "notes": "Gillibrand historically published schedules (2009 Sunlight Foundation report), but the current contact and help pages list only a Scheduling Request form (meeting/event invite), no public calendar. No public/daily schedule page found linked from the member's contact/help pages; could not exhaustively verify (no dedicated search of the site). ",
+        "recentMeetings": []
+      },
+      "scorecards": [
+        {
+          "org": "GovTrack",
+          "title": "Report cards, ideology and leadership scores",
+          "url": "https://www.govtrack.us/congress/members/412223"
+        },
+        {
+          "org": "Vote Smart",
+          "title": "Interest group ratings (aggregated)",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/65147"
+        },
+        {
+          "org": "OpenSecrets",
+          "title": "Campaign finance and lobbying",
+          "url": "https://www.opensecrets.org/members-of-congress/summary?cid=N00027658"
+        },
+        {
+          "org": "Ballotpedia",
+          "title": "Profile, elections and key votes",
+          "url": "https://ballotpedia.org/Kirsten_Gillibrand"
+        },
+        {
+          "org": "Biographical Directory of Congress",
+          "title": "Official biography",
+          "url": "https://bioguide.congress.gov/search/bio/G000555"
+        }
+      ],
+      "sources": [
+        "https://www.gillibrand.senate.gov/office-locations/",
+        "https://www.gillibrand.senate.gov/contact",
+        "https://www.gillibrand.senate.gov/help",
+        "https://www.gillibrand.senate.gov/?p=517",
+        "https://sunlightfoundation.com/2009/04/02/gillibrands-sunlight-report-pulls-back-the-curtain/",
+        "https://github.com/unitedstates/congress-legislators",
+        "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+        "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+      ],
+      "researchNotes": "Still in office status not independently confirmed by a dedicated source; official website live and listing offices as of fetch. Senate site blocked direct fetch at some URLs (/contact/offices/); used /office-locations/ which worked. NYC office: site lists 885 Third Ave Suite 2402 (10022) but its directions link and base.json use 780 Third Ave Suite 2601 (10017); used site text, lat/long null, confirm by phone (212-688-6262). Yonkers and Lowville are PO boxes (listed as satellite); Yonkers directions link points to 941 McLean Ave, Yonkers. Hours not listed for any office.",
+      "verifiedAt": "2026-10-19"
+    },
+    {
+      "slug": "chuck-schumer",
+      "bioguide": "S000148",
+      "name": "Chuck Schumer",
+      "fullName": "Charles E. Schumer",
+      "level": "federal",
+      "chamber": "us_senate",
+      "title": "U.S. Senator",
+      "district": null,
+      "party": "Democrat",
+      "websiteUrl": "https://www.schumer.senate.gov",
+      "photoUrl": "https://unitedstates.github.io/images/congress/225x275/S000148.jpg",
+      "statusNote": null,
+      "jurisdiction": {
+        "key": "NY",
+        "name": "New York State",
+        "type": "state",
+        "geoid": "36",
+        "landAreaSqMi": 47123.5,
+        "population": 20201249,
+        "areaSource": "Sum of the 26 congressional district land areas, U.S. Census Bureau TIGERweb (119th Congress)",
+        "populationSource": "2020 Census resident population (P.L. 94-171)",
+        "sources": [
+          "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+          "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+        ]
+      },
+      "offices": [
+        {
+          "slug": "rochester",
+          "name": "Rochester",
+          "kind": "district",
+          "address": "100 State St.",
+          "suite": "Room 3040",
+          "city": "Rochester",
+          "state": "NY",
+          "zip": "14614",
+          "phone": "585-263-5866",
+          "hours": null,
+          "latitude": 43.1576631,
+          "longitude": -77.613515
+        },
+        {
+          "slug": "binghamton",
+          "name": "Binghamton",
+          "kind": "district",
+          "address": "15 Henry St.",
+          "suite": "Room. 100 A-F",
+          "city": "Binghamton",
+          "state": "NY",
+          "zip": "13901",
+          "phone": "607-772-6792",
+          "hours": null,
+          "latitude": 42.1008749,
+          "longitude": -75.9123579
+        },
+        {
+          "slug": "buffalo",
+          "name": "Buffalo",
+          "kind": "district",
+          "address": "130 S. Elmwood Ave.",
+          "suite": "#660",
+          "city": "Buffalo",
+          "state": "NY",
+          "zip": "14202",
+          "phone": "716-846-4111",
+          "hours": null,
+          "latitude": 42.88902849999999,
+          "longitude": -78.87954189999999
+        },
+        {
+          "slug": "new-york",
+          "name": "New York",
+          "kind": "district",
+          "address": "780 Third Ave.",
+          "suite": "Suite 2301",
+          "city": "New York",
+          "state": "NY",
+          "zip": "10017",
+          "phone": "212-486-4430",
+          "hours": null,
+          "latitude": 40.7550353,
+          "longitude": -73.97185879999999
+        },
+        {
+          "slug": "peekskill",
+          "name": "Peekskill",
+          "kind": "district",
+          "address": "One Park Place",
+          "suite": "Suite 100",
+          "city": "Peekskill",
+          "state": "NY",
+          "zip": "10566",
+          "phone": "914-734-1532",
+          "hours": null,
+          "latitude": 41.29051020000001,
+          "longitude": -73.91672969999999
+        },
+        {
+          "slug": "syracuse",
+          "name": "Syracuse",
+          "kind": "district",
+          "address": "100 S. Clinton St.",
+          "suite": "Room 841",
+          "city": "Syracuse",
+          "state": "NY",
+          "zip": "13261",
+          "phone": "315-423-5471",
+          "hours": null,
+          "latitude": 43.0501042,
+          "longitude": -76.1543204
+        },
+        {
+          "slug": "albany",
+          "name": "Albany",
+          "kind": "district",
+          "address": "1 Clinton Ave.",
+          "suite": "Room 827",
+          "city": "Albany",
+          "state": "NY",
+          "zip": "12207",
+          "phone": "518-431-4070",
+          "hours": null,
+          "latitude": 42.6551412,
+          "longitude": -73.7491677
+        },
+        {
+          "slug": "melville",
+          "name": "Melville",
+          "kind": "district",
+          "address": "145 Pinelawn Road",
+          "suite": "#300N",
+          "city": "Melville",
+          "state": "NY",
+          "zip": "11747",
+          "phone": "631-753-0978",
+          "hours": null,
+          "latitude": 40.7707082,
+          "longitude": -73.4086234
+        },
+        {
+          "slug": "washington-dc",
+          "name": "Washington, DC",
+          "kind": "capitol",
+          "address": "322 Hart Senate Office Building Washington DC 20510",
+          "suite": null,
+          "city": null,
+          "state": null,
+          "zip": null,
+          "phone": "202-224-6542",
+          "hours": null,
+          "latitude": null,
+          "longitude": null
+        }
+      ],
+      "contact": {
+        "emailPublic": null,
+        "webformUrl": "https://www.schumer.senate.gov/contact/message-chuck",
+        "webformRequiresZip": null,
+        "phone": true,
+        "meetingRequestUrl": "https://www.schumer.senate.gov/contact/scheduling-requests",
+        "inPerson": null,
+        "inPersonNotes": "Hours/walk-in policy not published; call ahead.",
+        "mobileOfficeHours": null,
+        "caseworkUrl": "https://www.schumer.senate.gov/services#help"
+      },
+      "schedule": {
+        "publishesDailySchedule": false,
+        "scheduleUrl": null,
+        "notes": "No public/daily schedule page found linked from the member's contact/help pages; could not exhaustively verify (no dedicated search of the site). ",
+        "recentMeetings": []
+      },
+      "scorecards": [
+        {
+          "org": "GovTrack",
+          "title": "Report cards, ideology and leadership scores",
+          "url": "https://www.govtrack.us/congress/members/300087"
+        },
+        {
+          "org": "Vote Smart",
+          "title": "Interest group ratings (aggregated)",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/26976"
+        },
+        {
+          "org": "OpenSecrets",
+          "title": "Campaign finance and lobbying",
+          "url": "https://www.opensecrets.org/members-of-congress/summary?cid=N00001093"
+        },
+        {
+          "org": "Ballotpedia",
+          "title": "Profile, elections and key votes",
+          "url": "https://ballotpedia.org/Chuck_Schumer"
+        },
+        {
+          "org": "Biographical Directory of Congress",
+          "title": "Official biography",
+          "url": "https://bioguide.congress.gov/search/bio/S000148"
+        }
+      ],
+      "sources": [
+        "https://www.schumer.senate.gov/contact",
+        "https://www.schumer.senate.gov/contact/message-chuck",
+        "https://github.com/unitedstates/congress-legislators",
+        "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+        "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+      ],
+      "researchNotes": "Still in office status not independently confirmed by a dedicated source; official website live and listing offices as of fetch. All 8 base.json NY offices confirmed on contact page (addresses/phones match). Hours not listed. Direct /contact/office-locations fetch failed; /contact worked.",
+      "verifiedAt": "2026-10-19"
+    },
+    {
+      "slug": "nick-lalota",
+      "bioguide": "L000598",
+      "name": "Nick LaLota",
+      "fullName": "Nick LaLota",
+      "level": "federal",
+      "chamber": "us_house",
+      "title": "U.S. Representative, NY-1",
+      "district": 1,
+      "party": "Republican",
+      "websiteUrl": "https://lalota.house.gov",
+      "photoUrl": "https://unitedstates.github.io/images/congress/225x275/L000598.jpg",
+      "statusNote": null,
+      "jurisdiction": {
+        "key": "NY-1",
+        "name": "New York's 1st congressional district",
+        "type": "congressional_district",
+        "geoid": "3601",
+        "landAreaSqMi": 663.5,
+        "population": 776971,
+        "areaSource": "Land area (AREALAND), U.S. Census Bureau TIGERweb, 119th Congressional Districts",
+        "populationSource": "2020 Census ideal district population (20,201,249 / 26). NY's 2024 plan has districts within one person of this",
+        "sources": [
+          "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+          "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+        ]
+      },
+      "offices": [
+        {
+          "slug": "rocky-point",
+          "name": "Rocky Point",
+          "kind": "mobile",
+          "address": "109 King Road",
+          "suite": null,
+          "city": "Rocky Point",
+          "state": "NY",
+          "zip": "11778",
+          "phone": "631-289-1097",
+          "hours": "Thu 1:00pm-5:00pm",
+          "latitude": 40.9503111,
+          "longitude": -72.92281419999999
+        },
+        {
+          "slug": "hauppauge",
+          "name": "Hauppauge",
+          "kind": "district",
+          "address": "515 Hauppauge Road",
+          "suite": "Suite 3B",
+          "city": "Hauppauge",
+          "state": "NY",
+          "zip": "11788",
+          "phone": "631-289-1097",
+          "hours": null,
+          "latitude": 40.8279143,
+          "longitude": -73.1980726
+        },
+        {
+          "slug": "washington-dc",
+          "name": "Washington, DC",
+          "kind": "capitol",
+          "address": "122 Cannon House Office Building Washington DC 20515-3201",
+          "suite": null,
+          "city": null,
+          "state": null,
+          "zip": null,
+          "phone": "202-225-3826",
+          "hours": null,
+          "latitude": null,
+          "longitude": null
+        }
+      ],
+      "contact": {
+        "emailPublic": null,
+        "webformUrl": "https://lalota.house.gov/contact",
+        "webformRequiresZip": true,
+        "phone": true,
+        "meetingRequestUrl": "https://lalota.house.gov/contact/request-an-appearance",
+        "inPerson": true,
+        "inPersonNotes": "Rocky Point VFW post hosts mobile office hours Thursdays 1-5pm (not an active mailbox); Hauppauge walk-in policy not published.",
+        "mobileOfficeHours": true,
+        "caseworkUrl": "https://lalota.house.gov/services/help-federal-agency"
+      },
+      "schedule": {
+        "publishesDailySchedule": false,
+        "scheduleUrl": null,
+        "notes": "No public/daily schedule page found linked from the member's contact/help pages; could not exhaustively verify (no dedicated search of the site). ",
+        "recentMeetings": []
+      },
+      "scorecards": [
+        {
+          "org": "GovTrack",
+          "title": "Report cards, ideology and leadership scores",
+          "url": "https://www.govtrack.us/congress/members/456920"
+        },
+        {
+          "org": "Vote Smart",
+          "title": "Interest group ratings (aggregated)",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/191957"
+        },
+        {
+          "org": "OpenSecrets",
+          "title": "Campaign finance and lobbying",
+          "url": "https://www.opensecrets.org/members-of-congress/summary?cid=N00050419"
+        },
+        {
+          "org": "Ballotpedia",
+          "title": "Profile, elections and key votes",
+          "url": "https://ballotpedia.org/Nicholas_J._LaLota"
+        },
+        {
+          "org": "Biographical Directory of Congress",
+          "title": "Official biography",
+          "url": "https://bioguide.congress.gov/search/bio/L000598"
+        }
+      ],
+      "sources": [
+        "https://lalota.house.gov/contact",
+        "https://lalota.house.gov/contact/offices/hauppauge-district-office",
+        "https://github.com/unitedstates/congress-legislators",
+        "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+        "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+      ],
+      "researchNotes": "Still in office status not independently confirmed by a dedicated source; official website live and listing offices as of fetch. Rocky Point is labeled Mobile Office Hours on the site (kept as kind=mobile). Hours not listed on office page. Form uses USPS address lookup to verify district.",
+      "verifiedAt": "2026-10-19"
+    },
+    {
+      "slug": "andrew-garbarino",
+      "bioguide": "G000597",
+      "name": "Andrew Garbarino",
+      "fullName": "Andrew R. Garbarino",
+      "level": "federal",
+      "chamber": "us_house",
+      "title": "U.S. Representative, NY-2",
+      "district": 2,
+      "party": "Republican",
+      "websiteUrl": "https://garbarino.house.gov",
+      "photoUrl": "https://unitedstates.github.io/images/congress/225x275/G000597.jpg",
+      "statusNote": null,
+      "jurisdiction": {
+        "key": "NY-2",
+        "name": "New York's 2nd congressional district",
+        "type": "congressional_district",
+        "geoid": "3602",
+        "landAreaSqMi": 238.6,
+        "population": 776971,
+        "areaSource": "Land area (AREALAND), U.S. Census Bureau TIGERweb, 119th Congressional Districts",
+        "populationSource": "2020 Census ideal district population (20,201,249 / 26). NY's 2024 plan has districts within one person of this",
+        "sources": [
+          "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+          "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+        ]
+      },
+      "offices": [
+        {
+          "slug": "patchogue",
+          "name": "Patchogue",
+          "kind": "district",
+          "address": "31 Oak Street",
+          "suite": "Suite 20",
+          "city": "Patchogue",
+          "state": "NY",
+          "zip": "11772",
+          "phone": "631-541-4225",
+          "hours": null,
+          "latitude": 40.7671637,
+          "longitude": -73.0138226
+        },
+        {
+          "slug": "washington-dc",
+          "name": "Washington, DC",
+          "kind": "capitol",
+          "address": "2344 Rayburn House Office Building Washington DC 20515-3202",
+          "suite": null,
+          "city": null,
+          "state": null,
+          "zip": null,
+          "phone": "202-225-7896",
+          "hours": null,
+          "latitude": null,
+          "longitude": null
+        }
+      ],
+      "contact": {
+        "emailPublic": null,
+        "webformUrl": "https://garbarino.house.gov/contact",
+        "webformRequiresZip": true,
+        "phone": true,
+        "meetingRequestUrl": "https://garbarino.house.gov/contact/Meeting-Request",
+        "inPerson": null,
+        "inPersonNotes": "Walk-in/appointment policy not published.",
+        "mobileOfficeHours": null,
+        "caseworkUrl": "https://garbarino.house.gov/services/help-federal-agency"
+      },
+      "schedule": {
+        "publishesDailySchedule": false,
+        "scheduleUrl": null,
+        "notes": "No public/daily schedule page found linked from the member's contact/help pages; could not exhaustively verify (no dedicated search of the site). ",
+        "recentMeetings": []
+      },
+      "scorecards": [
+        {
+          "org": "GovTrack",
+          "title": "Report cards, ideology and leadership scores",
+          "url": "https://www.govtrack.us/congress/members/456836"
+        },
+        {
+          "org": "Vote Smart",
+          "title": "Interest group ratings (aggregated)",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/143103"
+        },
+        {
+          "org": "OpenSecrets",
+          "title": "Campaign finance and lobbying",
+          "url": "https://www.opensecrets.org/members-of-congress/summary?cid=N00046030"
+        },
+        {
+          "org": "Ballotpedia",
+          "title": "Profile, elections and key votes",
+          "url": "https://ballotpedia.org/Andrew_Garbarino"
+        },
+        {
+          "org": "Biographical Directory of Congress",
+          "title": "Official biography",
+          "url": "https://bioguide.congress.gov/search/bio/G000597"
+        }
+      ],
+      "sources": [
+        "https://garbarino.house.gov/contact",
+        "https://garbarino.house.gov/contact/offices",
+        "https://github.com/unitedstates/congress-legislators",
+        "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+        "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+      ],
+      "researchNotes": "Still in office status not independently confirmed by a dedicated source; official website live and listing offices as of fetch. Only the Patchogue district office is listed; no Bay Shore or mobile office on site. Hours not listed on office page.",
+      "verifiedAt": "2026-10-19"
+    },
+    {
+      "slug": "tom-suozzi",
+      "bioguide": "S001201",
+      "name": "Tom Suozzi",
+      "fullName": "Thomas R. Suozzi",
+      "level": "federal",
+      "chamber": "us_house",
+      "title": "U.S. Representative, NY-3",
+      "district": 3,
+      "party": "Democrat",
+      "websiteUrl": "https://suozzi.house.gov",
+      "photoUrl": "https://unitedstates.github.io/images/congress/225x275/S001201.jpg",
+      "statusNote": null,
+      "jurisdiction": {
+        "key": "NY-3",
+        "name": "New York's 3rd congressional district",
+        "type": "congressional_district",
+        "geoid": "3603",
+        "landAreaSqMi": 192.8,
+        "population": 776971,
+        "areaSource": "Land area (AREALAND), U.S. Census Bureau TIGERweb, 119th Congressional Districts",
+        "populationSource": "2020 Census ideal district population (20,201,249 / 26). NY's 2024 plan has districts within one person of this",
+        "sources": [
+          "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+          "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+        ]
+      },
+      "offices": [
+        {
+          "slug": "douglaston",
+          "name": "Douglaston",
+          "kind": "district",
+          "address": "242-09 Northern Boulevard",
+          "suite": null,
+          "city": "Douglaston",
+          "state": "NY",
+          "zip": "11363",
+          "phone": "718-631-0400",
+          "hours": "Mon, Wed, Fri 9:00am-5:30pm",
+          "latitude": 40.7656722,
+          "longitude": -73.7440153
+        },
+        {
+          "slug": "glen-cove",
+          "name": "Glen Cove",
+          "kind": "district",
+          "address": "51 Glen Street",
+          "suite": "Second Floor",
+          "city": "Glen Cove",
+          "state": "NY",
+          "zip": "11542",
+          "phone": "516-861-1070",
+          "hours": "Mon-Fri 9:00am-5:30pm",
+          "latitude": 40.86402700000001,
+          "longitude": -73.62938299999999
+        },
+        {
+          "slug": "washington-dc",
+          "name": "Washington, DC",
+          "kind": "capitol",
+          "address": "203 Cannon House Office Building Washington DC 20515-3203",
+          "suite": null,
+          "city": null,
+          "state": null,
+          "zip": null,
+          "phone": "202-225-3335",
+          "hours": null,
+          "latitude": null,
+          "longitude": null
+        }
+      ],
+      "contact": {
+        "emailPublic": null,
+        "webformUrl": "https://suozzi.house.gov/contact",
+        "webformRequiresZip": null,
+        "phone": true,
+        "meetingRequestUrl": "https://suozzi.house.gov/contact/request-an-appearance",
+        "inPerson": true,
+        "inPersonNotes": "Offices have posted weekday hours; walk-in policy not stated.",
+        "mobileOfficeHours": null,
+        "caseworkUrl": "https://suozzi.house.gov/services/help-federal-agency"
+      },
+      "schedule": {
+        "publishesDailySchedule": false,
+        "scheduleUrl": null,
+        "notes": "No public/daily schedule page found linked from the member's contact/help pages; could not exhaustively verify (no dedicated search of the site). ",
+        "recentMeetings": []
+      },
+      "scorecards": [
+        {
+          "org": "GovTrack",
+          "title": "Report cards, ideology and leadership scores",
+          "url": "https://www.govtrack.us/congress/members/412717"
+        },
+        {
+          "org": "Vote Smart",
+          "title": "Interest group ratings (aggregated)",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/92111"
+        },
+        {
+          "org": "OpenSecrets",
+          "title": "Campaign finance and lobbying",
+          "url": "https://www.opensecrets.org/members-of-congress/summary?cid=N00038742"
+        },
+        {
+          "org": "Ballotpedia",
+          "title": "Profile, elections and key votes",
+          "url": "https://ballotpedia.org/Tom_Suozzi"
+        },
+        {
+          "org": "Biographical Directory of Congress",
+          "title": "Official biography",
+          "url": "https://bioguide.congress.gov/search/bio/S001201"
+        }
+      ],
+      "sources": [
+        "https://suozzi.house.gov/contact",
+        "https://github.com/unitedstates/congress-legislators",
+        "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+        "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+      ],
+      "researchNotes": "Still in office status not independently confirmed by a dedicated source; official website live and listing offices as of fetch. Site lists Glen Cove hours as Mon-Fri 9-5:30 (base.json said 9-5); used site.",
+      "verifiedAt": "2026-10-19"
+    },
+    {
+      "slug": "laura-gillen",
+      "bioguide": "G000602",
+      "name": "Laura Gillen",
+      "fullName": "Laura Gillen",
+      "level": "federal",
+      "chamber": "us_house",
+      "title": "U.S. Representative, NY-4",
+      "district": 4,
+      "party": "Democrat",
+      "websiteUrl": "https://gillen.house.gov",
+      "photoUrl": "https://unitedstates.github.io/images/congress/225x275/G000602.jpg",
+      "statusNote": null,
+      "jurisdiction": {
+        "key": "NY-4",
+        "name": "New York's 4th congressional district",
+        "type": "congressional_district",
+        "geoid": "3604",
+        "landAreaSqMi": 114.1,
+        "population": 776971,
+        "areaSource": "Land area (AREALAND), U.S. Census Bureau TIGERweb, 119th Congressional Districts",
+        "populationSource": "2020 Census ideal district population (20,201,249 / 26). NY's 2024 plan has districts within one person of this",
+        "sources": [
+          "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+          "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+        ]
+      },
+      "offices": [
+        {
+          "slug": "garden-city",
+          "name": "Garden City",
+          "kind": "district",
+          "address": "229 7th St",
+          "suite": "Suite 102",
+          "city": "Garden City",
+          "state": "NY",
+          "zip": "11530",
+          "phone": "516-739-3008",
+          "hours": null,
+          "latitude": 40.7258464,
+          "longitude": -73.6355645
+        },
+        {
+          "slug": "washington-dc",
+          "name": "Washington, DC",
+          "kind": "capitol",
+          "address": "428 Cannon House Office Building Washington DC 20515-3204",
+          "suite": null,
+          "city": null,
+          "state": null,
+          "zip": null,
+          "phone": "202-225-5516",
+          "hours": null,
+          "latitude": null,
+          "longitude": null
+        }
+      ],
+      "contact": {
+        "emailPublic": null,
+        "webformUrl": "https://gillen.house.gov/contact/email-me",
+        "webformRequiresZip": null,
+        "phone": true,
+        "meetingRequestUrl": null,
+        "inPerson": null,
+        "inPersonNotes": "No hours or walk-in policy published.",
+        "mobileOfficeHours": null,
+        "caseworkUrl": "https://gillen.house.gov/services/help-federal-agency"
+      },
+      "schedule": {
+        "publishesDailySchedule": false,
+        "scheduleUrl": null,
+        "notes": "No public/daily schedule page found linked from the member's contact/help pages; could not exhaustively verify (no dedicated search of the site). ",
+        "recentMeetings": []
+      },
+      "scorecards": [
+        {
+          "org": "GovTrack",
+          "title": "Report cards, ideology and leadership scores",
+          "url": "https://www.govtrack.us/congress/members/457010"
+        },
+        {
+          "org": "Vote Smart",
+          "title": "Interest group ratings (aggregated)",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/208621"
+        },
+        {
+          "org": "OpenSecrets",
+          "title": "Campaign finance and lobbying",
+          "url": "https://www.opensecrets.org/members-of-congress/summary?cid=N00050425"
+        },
+        {
+          "org": "Ballotpedia",
+          "title": "Profile, elections and key votes",
+          "url": "https://ballotpedia.org/Laura_Gillen"
+        },
+        {
+          "org": "Biographical Directory of Congress",
+          "title": "Official biography",
+          "url": "https://bioguide.congress.gov/search/bio/G000602"
+        }
+      ],
+      "sources": [
+        "https://gillen.house.gov/contact",
+        "https://gillen.house.gov/contact/office-locations",
+        "https://github.com/unitedstates/congress-legislators",
+        "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+        "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+      ],
+      "researchNotes": "Still in office status not independently confirmed by a dedicated source; official website live and listing offices as of fetch. No meeting-request form found on contact page (the request-an-appearance URL guess failed to fetch, unverified). Hours not listed on office page.",
+      "verifiedAt": "2026-10-19"
+    },
+    {
+      "slug": "gregory-meeks",
+      "bioguide": "M001137",
+      "name": "Gregory Meeks",
+      "fullName": "Gregory W. Meeks",
+      "level": "federal",
+      "chamber": "us_house",
+      "title": "U.S. Representative, NY-5",
+      "district": 5,
+      "party": "Democrat",
+      "websiteUrl": "https://meeks.house.gov",
+      "photoUrl": "https://unitedstates.github.io/images/congress/225x275/M001137.jpg",
+      "statusNote": null,
+      "jurisdiction": {
+        "key": "NY-5",
+        "name": "New York's 5th congressional district",
+        "type": "congressional_district",
+        "geoid": "3605",
+        "landAreaSqMi": 47.1,
+        "population": 776971,
+        "areaSource": "Land area (AREALAND), U.S. Census Bureau TIGERweb, 119th Congressional Districts",
+        "populationSource": "2020 Census ideal district population (20,201,249 / 26). NY's 2024 plan has districts within one person of this",
+        "sources": [
+          "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+          "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+        ]
+      },
+      "offices": [
+        {
+          "slug": "arverne",
+          "name": "Arverne",
+          "kind": "district",
+          "address": "67-12 Rockaway Beach Blvd.",
+          "suite": null,
+          "city": "Arverne",
+          "state": "NY",
+          "zip": "11692",
+          "phone": "347-230-4032",
+          "hours": null,
+          "latitude": 40.5907811,
+          "longitude": -73.798273
+        },
+        {
+          "slug": "jamaica",
+          "name": "Jamaica",
+          "kind": "district",
+          "address": "153-01 Jamaica Ave.",
+          "suite": "2nd floor",
+          "city": "Jamaica",
+          "state": "NY",
+          "zip": "11432",
+          "phone": "718-725-6000",
+          "hours": null,
+          "latitude": 40.7030995,
+          "longitude": -73.80205
+        },
+        {
+          "slug": "washington-dc",
+          "name": "Washington, DC",
+          "kind": "capitol",
+          "address": "2310 Rayburn House Office Building Washington DC 20515-3205",
+          "suite": null,
+          "city": null,
+          "state": null,
+          "zip": null,
+          "phone": "202-225-3461",
+          "hours": null,
+          "latitude": null,
+          "longitude": null
+        }
+      ],
+      "contact": {
+        "emailPublic": null,
+        "webformUrl": "https://meeks.house.gov/contact",
+        "webformRequiresZip": true,
+        "phone": true,
+        "meetingRequestUrl": "https://meeks.house.gov/contact/request-an-appearance",
+        "inPerson": null,
+        "inPersonNotes": "Walk-in/appointment policy not published.",
+        "mobileOfficeHours": null,
+        "caseworkUrl": "https://meeks.house.gov/services/help-federal-agency"
+      },
+      "schedule": {
+        "publishesDailySchedule": false,
+        "scheduleUrl": null,
+        "notes": "No public/daily schedule page found linked from the member's contact/help pages; could not exhaustively verify (no dedicated search of the site). ",
+        "recentMeetings": []
+      },
+      "scorecards": [
+        {
+          "org": "GovTrack",
+          "title": "Report cards, ideology and leadership scores",
+          "url": "https://www.govtrack.us/congress/members/400271"
+        },
+        {
+          "org": "Vote Smart",
+          "title": "Interest group ratings (aggregated)",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/4360"
+        },
+        {
+          "org": "OpenSecrets",
+          "title": "Campaign finance and lobbying",
+          "url": "https://www.opensecrets.org/members-of-congress/summary?cid=N00001171"
+        },
+        {
+          "org": "Ballotpedia",
+          "title": "Profile, elections and key votes",
+          "url": "https://ballotpedia.org/Gregory_Meeks"
+        },
+        {
+          "org": "Biographical Directory of Congress",
+          "title": "Official biography",
+          "url": "https://bioguide.congress.gov/search/bio/M001137"
+        }
+      ],
+      "sources": [
+        "https://meeks.house.gov/contact",
+        "https://meeks.house.gov/contact/office-locations",
+        "https://github.com/unitedstates/congress-legislators",
+        "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+        "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+      ],
+      "researchNotes": "Still in office status not independently confirmed by a dedicated source; official website live and listing offices as of fetch. Site lists the district as NY-5 (Jamaica and Rockaway offices); base.json confirms. Hours not listed on office page.",
+      "verifiedAt": "2026-10-19"
+    },
+    {
+      "slug": "grace-meng",
+      "bioguide": "M001188",
+      "name": "Grace Meng",
+      "fullName": "Grace Meng",
+      "level": "federal",
+      "chamber": "us_house",
+      "title": "U.S. Representative, NY-6",
+      "district": 6,
+      "party": "Democrat",
+      "websiteUrl": "https://meng.house.gov",
+      "photoUrl": "https://unitedstates.github.io/images/congress/225x275/M001188.jpg",
+      "statusNote": null,
+      "jurisdiction": {
+        "key": "NY-6",
+        "name": "New York's 6th congressional district",
+        "type": "congressional_district",
+        "geoid": "3606",
+        "landAreaSqMi": 25.8,
+        "population": 776971,
+        "areaSource": "Land area (AREALAND), U.S. Census Bureau TIGERweb, 119th Congressional Districts",
+        "populationSource": "2020 Census ideal district population (20,201,249 / 26). NY's 2024 plan has districts within one person of this",
+        "sources": [
+          "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+          "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+        ]
+      },
+      "offices": [
+        {
+          "slug": "flushing",
+          "name": "Flushing",
+          "kind": "district",
+          "address": "40-13 159th St.",
+          "suite": "Suite A",
+          "city": "Flushing",
+          "state": "NY",
+          "zip": "11358",
+          "phone": "718-358-6364",
+          "hours": null,
+          "latitude": 40.76260720000001,
+          "longitude": -73.8062197
+        },
+        {
+          "slug": "forest-hills",
+          "name": "Forest Hills",
+          "kind": "district",
+          "address": "118-35 Queens Blvd",
+          "suite": "Suite 900",
+          "city": "Forest Hills",
+          "state": "NY",
+          "zip": "11375",
+          "phone": null,
+          "hours": "By appointment only",
+          "latitude": 40.7148753,
+          "longitude": -73.83085919999999
+        },
+        {
+          "slug": "washington-dc",
+          "name": "Washington, DC",
+          "kind": "capitol",
+          "address": "2468 Rayburn House Office Building Washington DC 20515-3206",
+          "suite": null,
+          "city": null,
+          "state": null,
+          "zip": null,
+          "phone": "202-225-2601",
+          "hours": null,
+          "latitude": null,
+          "longitude": null
+        }
+      ],
+      "contact": {
+        "emailPublic": null,
+        "webformUrl": "https://meng.house.gov/contact",
+        "webformRequiresZip": null,
+        "phone": true,
+        "meetingRequestUrl": "https://meng.house.gov/contact/scheduling-request",
+        "inPerson": true,
+        "inPersonNotes": "Flushing office listed with phone; Forest Hills office listed as by appointment only. Scheduling request form is for appearances/events.",
+        "mobileOfficeHours": null,
+        "caseworkUrl": "https://meng.house.gov/services/help-federal-agency"
+      },
+      "schedule": {
+        "publishesDailySchedule": false,
+        "scheduleUrl": null,
+        "notes": "No public daily schedule found on contact page; not checked beyond that.",
+        "recentMeetings": []
+      },
+      "scorecards": [
+        {
+          "org": "GovTrack",
+          "title": "Report cards, ideology and leadership scores",
+          "url": "https://www.govtrack.us/congress/members/412560"
+        },
+        {
+          "org": "Vote Smart",
+          "title": "Interest group ratings (aggregated)",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/69157"
+        },
+        {
+          "org": "OpenSecrets",
+          "title": "Campaign finance and lobbying",
+          "url": "https://www.opensecrets.org/members-of-congress/summary?cid=N00034547"
+        },
+        {
+          "org": "Ballotpedia",
+          "title": "Profile, elections and key votes",
+          "url": "https://ballotpedia.org/Grace_Meng"
+        },
+        {
+          "org": "Biographical Directory of Congress",
+          "title": "Official biography",
+          "url": "https://bioguide.congress.gov/search/bio/M001188"
+        }
+      ],
+      "sources": [
+        "https://meng.house.gov/contact/offices",
+        "https://meng.house.gov/contact/scheduling-request",
+        "https://meng.house.gov/services/help-federal-agency",
+        "https://github.com/unitedstates/congress-legislators",
+        "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+        "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+      ],
+      "researchNotes": "Fetched official site pages via WebFetch (curl blocked by proxy). Office hours are generally not published on the site. Webform ZIP verification not confirmed. Forest Hills office has no phone listed on site. Still in office as of Oct 2026 (no contrary evidence found; not independently confirmed).",
+      "verifiedAt": "2026-10-19"
+    },
+    {
+      "slug": "nydia-velazquez",
+      "bioguide": "V000081",
+      "name": "Nydia Velázquez",
+      "fullName": "Nydia M. Velázquez",
+      "level": "federal",
+      "chamber": "us_house",
+      "title": "U.S. Representative, NY-7",
+      "district": 7,
+      "party": "Democrat",
+      "websiteUrl": "https://velazquez.house.gov",
+      "photoUrl": "https://unitedstates.github.io/images/congress/225x275/V000081.jpg",
+      "statusNote": "Not seeking reelection in 2026 (announced November 2025); serves through January 3, 2027.",
+      "jurisdiction": {
+        "key": "NY-7",
+        "name": "New York's 7th congressional district",
+        "type": "congressional_district",
+        "geoid": "3607",
+        "landAreaSqMi": 21.9,
+        "population": 776971,
+        "areaSource": "Land area (AREALAND), U.S. Census Bureau TIGERweb, 119th Congressional Districts",
+        "populationSource": "2020 Census ideal district population (20,201,249 / 26). NY's 2024 plan has districts within one person of this",
+        "sources": [
+          "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+          "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+        ]
+      },
+      "offices": [
+        {
+          "slug": "brooklyn",
+          "name": "Brooklyn",
+          "kind": "district",
+          "address": "266 Broadway",
+          "suite": "Suite 201",
+          "city": "Brooklyn",
+          "state": "NY",
+          "zip": "11211",
+          "phone": "718-599-3658",
+          "hours": null,
+          "latitude": 40.7085893,
+          "longitude": -73.9592284
+        },
+        {
+          "slug": "sunnyside",
+          "name": "Sunnyside",
+          "kind": "district",
+          "address": "39-16 47th Avenue",
+          "suite": null,
+          "city": "Sunnyside",
+          "state": "NY",
+          "zip": "11104",
+          "phone": "718-340-6244",
+          "hours": null,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "slug": "washington-dc",
+          "name": "Washington, DC",
+          "kind": "capitol",
+          "address": "2302 Rayburn House Office Building Washington DC 20515-3207",
+          "suite": null,
+          "city": null,
+          "state": null,
+          "zip": null,
+          "phone": "202-225-2361",
+          "hours": null,
+          "latitude": null,
+          "longitude": null
+        }
+      ],
+      "contact": {
+        "emailPublic": null,
+        "webformUrl": "https://velazquez.house.gov/contact",
+        "webformRequiresZip": null,
+        "phone": true,
+        "meetingRequestUrl": "https://velazquez.house.gov/contact/request-an-appearance",
+        "inPerson": true,
+        "inPersonNotes": "Two district offices; hours not published.",
+        "mobileOfficeHours": null,
+        "caseworkUrl": "https://velazquez.house.gov/services/help-with-a-federal-agency"
+      },
+      "schedule": {
+        "publishesDailySchedule": false,
+        "scheduleUrl": null,
+        "notes": "No schedule found.",
+        "recentMeetings": []
+      },
+      "scorecards": [
+        {
+          "org": "GovTrack",
+          "title": "Report cards, ideology and leadership scores",
+          "url": "https://www.govtrack.us/congress/members/400416"
+        },
+        {
+          "org": "Vote Smart",
+          "title": "Interest group ratings (aggregated)",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/26975"
+        },
+        {
+          "org": "OpenSecrets",
+          "title": "Campaign finance and lobbying",
+          "url": "https://www.opensecrets.org/members-of-congress/summary?cid=N00001102"
+        },
+        {
+          "org": "Ballotpedia",
+          "title": "Profile, elections and key votes",
+          "url": "https://ballotpedia.org/Nydia_Velazquez"
+        },
+        {
+          "org": "Biographical Directory of Congress",
+          "title": "Official biography",
+          "url": "https://bioguide.congress.gov/search/bio/V000081"
+        }
+      ],
+      "sources": [
+        "https://velazquez.house.gov/contact",
+        "https://velazquez.house.gov/contact/offices",
+        "https://abc7ny.com/amp/post/new-york-congresswoman-nydia-velzquezwill-not-seek-reelection-year/18181969/",
+        "https://github.com/unitedstates/congress-legislators",
+        "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+        "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+      ],
+      "researchNotes": "Fetched official site pages via WebFetch (curl blocked by proxy). Office hours are generally not published on the site. Velázquez announced in Nov 2025 she will not seek reelection; she remains in office until Jan 2027 (successor not verified). Sunnyside lat/long not in base (null). Request-an-appearance form is for events, treated as meeting request.",
+      "verifiedAt": "2026-10-19"
+    },
+    {
+      "slug": "hakeem-jeffries",
+      "bioguide": "J000294",
+      "name": "Hakeem Jeffries",
+      "fullName": "Hakeem S. Jeffries",
+      "level": "federal",
+      "chamber": "us_house",
+      "title": "U.S. Representative, NY-8",
+      "district": 8,
+      "party": "Democrat",
+      "websiteUrl": "https://jeffries.house.gov",
+      "photoUrl": "https://unitedstates.github.io/images/congress/225x275/J000294.jpg",
+      "statusNote": null,
+      "jurisdiction": {
+        "key": "NY-8",
+        "name": "New York's 8th congressional district",
+        "type": "congressional_district",
+        "geoid": "3608",
+        "landAreaSqMi": 26.7,
+        "population": 776971,
+        "areaSource": "Land area (AREALAND), U.S. Census Bureau TIGERweb, 119th Congressional Districts",
+        "populationSource": "2020 Census ideal district population (20,201,249 / 26). NY's 2024 plan has districts within one person of this",
+        "sources": [
+          "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+          "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+        ]
+      },
+      "offices": [
+        {
+          "slug": "south-brooklyn-neptune-ave",
+          "name": "South Brooklyn (Neptune Ave)",
+          "kind": "district",
+          "address": "445 Neptune Ave",
+          "suite": "1st Floor, Community Room 2C",
+          "city": "Brooklyn",
+          "state": "NY",
+          "zip": "11224",
+          "phone": "718-373-0033",
+          "hours": "Mon–Fri 9am–5pm",
+          "latitude": 40.5809199,
+          "longitude": -73.9696891
+        },
+        {
+          "slug": "central-brooklyn-hanson-place",
+          "name": "Central Brooklyn (Hanson Place)",
+          "kind": "district",
+          "address": "55 Hanson Pl.",
+          "suite": "Suite 603",
+          "city": "Brooklyn",
+          "state": "NY",
+          "zip": "11217",
+          "phone": "718-237-2211",
+          "hours": "Mon–Fri 9am–5pm",
+          "latitude": 40.6856283,
+          "longitude": -73.97577559999999
+        },
+        {
+          "slug": "washington-dc",
+          "name": "Washington, DC",
+          "kind": "capitol",
+          "address": "2267 Rayburn House Office Building Washington DC 20515-3208",
+          "suite": null,
+          "city": null,
+          "state": null,
+          "zip": null,
+          "phone": "202-225-5936",
+          "hours": null,
+          "latitude": null,
+          "longitude": null
+        }
+      ],
+      "contact": {
+        "emailPublic": null,
+        "webformUrl": "https://jeffriesforms.house.gov/contact/",
+        "webformRequiresZip": null,
+        "phone": true,
+        "meetingRequestUrl": "https://jeffries.house.gov/contact/request-a-meeting/",
+        "inPerson": true,
+        "inPersonNotes": "Two district offices M-F 9-5; 'Congress on Your Corner' neighborhood events in 2026 (Spring Creek, Coney Island, Canarsie, Brighton Beach, Brownsville) and frequent telephone town halls.",
+        "mobileOfficeHours": null,
+        "caseworkUrl": "https://jeffries.house.gov/serving-you/help-with-a-federal-agency/"
+      },
+      "schedule": {
+        "publishesDailySchedule": false,
+        "scheduleUrl": null,
+        "notes": "Events page (https://jeffries.house.gov/events/) lists town halls and Congress on Your Corner events but no daily schedule. Town halls: telephone town hall 2026-07-06, virtual town hall 2026-01-16 (Haiti TPS), plus several in 2025.",
+        "recentMeetings": []
+      },
+      "scorecards": [
+        {
+          "org": "GovTrack",
+          "title": "Report cards, ideology and leadership scores",
+          "url": "https://www.govtrack.us/congress/members/412561"
+        },
+        {
+          "org": "Vote Smart",
+          "title": "Interest group ratings (aggregated)",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/55285"
+        },
+        {
+          "org": "OpenSecrets",
+          "title": "Campaign finance and lobbying",
+          "url": "https://www.opensecrets.org/members-of-congress/summary?cid=N00033640"
+        },
+        {
+          "org": "Ballotpedia",
+          "title": "Profile, elections and key votes",
+          "url": "https://ballotpedia.org/Hakeem_Jeffries"
+        },
+        {
+          "org": "Biographical Directory of Congress",
+          "title": "Official biography",
+          "url": "https://bioguide.congress.gov/search/bio/J000294"
+        }
+      ],
+      "sources": [
+        "https://jeffries.house.gov/contact",
+        "https://jeffries.house.gov/events/",
+        "https://github.com/unitedstates/congress-legislators",
+        "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+        "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+      ],
+      "researchNotes": "Fetched via WebFetch. Jeffries is House Democratic Leader; non-NY-8 residents are directed to democraticleader.house.gov/contact. Casework only for NY-8 residents. 'Congress on Your Corner' events are community events, not confirmed to be staff mobile office hours (mobile_office_hours left null). Still in office per site content.",
+      "verifiedAt": "2026-10-19"
+    },
+    {
+      "slug": "yvette-clarke",
+      "bioguide": "C001067",
+      "name": "Yvette Clarke",
+      "fullName": "Yvette D. Clarke",
+      "level": "federal",
+      "chamber": "us_house",
+      "title": "U.S. Representative, NY-9",
+      "district": 9,
+      "party": "Democrat",
+      "websiteUrl": "https://clarke.house.gov",
+      "photoUrl": "https://unitedstates.github.io/images/congress/225x275/C001067.jpg",
+      "statusNote": null,
+      "jurisdiction": {
+        "key": "NY-9",
+        "name": "New York's 9th congressional district",
+        "type": "congressional_district",
+        "geoid": "3609",
+        "landAreaSqMi": 15.2,
+        "population": 776971,
+        "areaSource": "Land area (AREALAND), U.S. Census Bureau TIGERweb, 119th Congressional Districts",
+        "populationSource": "2020 Census ideal district population (20,201,249 / 26). NY's 2024 plan has districts within one person of this",
+        "sources": [
+          "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+          "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+        ]
+      },
+      "offices": [
+        {
+          "slug": "brooklyn",
+          "name": "Brooklyn",
+          "kind": "district",
+          "address": "222 Lenox Rd.",
+          "suite": "Suites 1 & 2",
+          "city": "Brooklyn",
+          "state": "NY",
+          "zip": "11226",
+          "phone": "718-287-1142",
+          "hours": null,
+          "latitude": 40.6536853,
+          "longitude": -73.9516805
+        },
+        {
+          "slug": "washington-dc",
+          "name": "Washington, DC",
+          "kind": "capitol",
+          "address": "2058 Rayburn House Office Building Washington DC 20515-3209",
+          "suite": null,
+          "city": null,
+          "state": null,
+          "zip": null,
+          "phone": "202-225-6231",
+          "hours": null,
+          "latitude": null,
+          "longitude": null
+        }
+      ],
+      "contact": {
+        "emailPublic": null,
+        "webformUrl": "https://clarke.house.gov/contact/email/",
+        "webformRequiresZip": null,
+        "phone": true,
+        "meetingRequestUrl": "https://clarke.house.gov/services/meeting-request/",
+        "inPerson": true,
+        "inPersonNotes": "Single district office; hours not published.",
+        "mobileOfficeHours": null,
+        "caseworkUrl": "https://clarke.house.gov/services/correspondence-requests/"
+      },
+      "schedule": {
+        "publishesDailySchedule": false,
+        "scheduleUrl": null,
+        "notes": "No schedule found.",
+        "recentMeetings": []
+      },
+      "scorecards": [
+        {
+          "org": "GovTrack",
+          "title": "Report cards, ideology and leadership scores",
+          "url": "https://www.govtrack.us/congress/members/412221"
+        },
+        {
+          "org": "Vote Smart",
+          "title": "Interest group ratings (aggregated)",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/44741"
+        },
+        {
+          "org": "OpenSecrets",
+          "title": "Campaign finance and lobbying",
+          "url": "https://www.opensecrets.org/members-of-congress/summary?cid=N00026961"
+        },
+        {
+          "org": "Ballotpedia",
+          "title": "Profile, elections and key votes",
+          "url": "https://ballotpedia.org/Yvette_D._Clarke"
+        },
+        {
+          "org": "Biographical Directory of Congress",
+          "title": "Official biography",
+          "url": "https://bioguide.congress.gov/search/bio/C001067"
+        }
+      ],
+      "sources": [
+        "https://clarke.house.gov/contact",
+        "https://github.com/unitedstates/congress-legislators",
+        "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+        "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+      ],
+      "researchNotes": "Fetched official site pages via WebFetch (curl blocked by proxy). Office hours are generally not published on the site. Casework_url is the closest page found (Correspondence Requests), not confirmed to be a casework intake form. Fax 718-287-1223.",
+      "verifiedAt": "2026-10-19"
+    },
+    {
+      "slug": "dan-goldman",
+      "bioguide": "G000599",
+      "name": "Dan Goldman",
+      "fullName": "Daniel S. Goldman",
+      "level": "federal",
+      "chamber": "us_house",
+      "title": "U.S. Representative, NY-10",
+      "district": 10,
+      "party": "Democrat",
+      "websiteUrl": "https://goldman.house.gov",
+      "photoUrl": "https://unitedstates.github.io/images/congress/225x275/G000599.jpg",
+      "statusNote": "Lost the June 23, 2026 Democratic primary to Brad Lander; serves through January 3, 2027.",
+      "jurisdiction": {
+        "key": "NY-10",
+        "name": "New York's 10th congressional district",
+        "type": "congressional_district",
+        "geoid": "3610",
+        "landAreaSqMi": 15.3,
+        "population": 776971,
+        "areaSource": "Land area (AREALAND), U.S. Census Bureau TIGERweb, 119th Congressional Districts",
+        "populationSource": "2020 Census ideal district population (20,201,249 / 26). NY's 2024 plan has districts within one person of this",
+        "sources": [
+          "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+          "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+        ]
+      },
+      "offices": [
+        {
+          "slug": "manhattan",
+          "name": "Manhattan",
+          "kind": "district",
+          "address": "290 Broadway",
+          "suite": "Suite 291",
+          "city": "New York",
+          "state": "NY",
+          "zip": "10007",
+          "phone": "212-822-7878",
+          "hours": null,
+          "latitude": 40.71506309999999,
+          "longitude": -74.0053199
+        },
+        {
+          "slug": "brooklyn-industry-city",
+          "name": "Brooklyn (Industry City)",
+          "kind": "district",
+          "address": "254 36 Street",
+          "suite": "B-329",
+          "city": "Brooklyn",
+          "state": "NY",
+          "zip": "11232",
+          "phone": "718-312-7575",
+          "hours": null,
+          "latitude": 40.6564675,
+          "longitude": -74.0067606
+        },
+        {
+          "slug": "washington-dc",
+          "name": "Washington, DC",
+          "kind": "capitol",
+          "address": "245 Cannon House Office Building Washington DC 20515-3210",
+          "suite": null,
+          "city": null,
+          "state": null,
+          "zip": null,
+          "phone": "202-225-7944",
+          "hours": null,
+          "latitude": null,
+          "longitude": null
+        }
+      ],
+      "contact": {
+        "emailPublic": null,
+        "webformUrl": "https://goldman.house.gov/contact",
+        "webformRequiresZip": null,
+        "phone": true,
+        "meetingRequestUrl": "https://goldman.house.gov/contact/submit-scheduling-request",
+        "inPerson": true,
+        "inPersonNotes": "Two district offices; hours not published; town halls held (Sept 2025 virtual).",
+        "mobileOfficeHours": null,
+        "caseworkUrl": "https://goldman.house.gov/services/help-federal-agency"
+      },
+      "schedule": {
+        "publishesDailySchedule": false,
+        "scheduleUrl": null,
+        "notes": "Events page https://goldman.house.gov/about/events lists past town halls only (no upcoming); no daily schedule.",
+        "recentMeetings": []
+      },
+      "scorecards": [
+        {
+          "org": "GovTrack",
+          "title": "Report cards, ideology and leadership scores",
+          "url": "https://www.govtrack.us/congress/members/456923"
+        },
+        {
+          "org": "Vote Smart",
+          "title": "Interest group ratings (aggregated)",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/208627"
+        },
+        {
+          "org": "OpenSecrets",
+          "title": "Campaign finance and lobbying",
+          "url": "https://www.opensecrets.org/members-of-congress/summary?cid=N00051424"
+        },
+        {
+          "org": "Ballotpedia",
+          "title": "Profile, elections and key votes",
+          "url": "https://ballotpedia.org/Daniel_Goldman"
+        },
+        {
+          "org": "Biographical Directory of Congress",
+          "title": "Official biography",
+          "url": "https://bioguide.congress.gov/search/bio/G000599"
+        }
+      ],
+      "sources": [
+        "https://goldman.house.gov/contact",
+        "https://goldman.house.gov/about/events",
+        "https://news.ballotpedia.org/2026/06/24/brad-lander-d-defeated-incumbent-daniel-goldman-d-in-the-democratic-primary-for-new-yorks-10th-congressional-district/",
+        "https://politicsny.com/2026/06/23/brad-lander-wins-democratic-nomination-in-ny-10-defeats-incumbent-dan-goldman/",
+        "https://github.com/unitedstates/congress-legislators",
+        "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+        "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+      ],
+      "researchNotes": "NOTABLE: Goldman LOST the June 23, 2026 Democratic primary to Brad Lander (per Ballotpedia, PoliticsNY, News12 headlines). He remains in office as a lame duck until Jan 3, 2027 unless he left early (not checked). Fetched official site pages via WebFetch (curl blocked by proxy). Office hours are generally not published on the site. ",
+      "verifiedAt": "2026-10-19"
+    },
+    {
+      "slug": "nicole-malliotakis",
+      "bioguide": "M000317",
+      "name": "Nicole Malliotakis",
+      "fullName": "Nicole Malliotakis",
+      "level": "federal",
+      "chamber": "us_house",
+      "title": "U.S. Representative, NY-11",
+      "district": 11,
+      "party": "Republican",
+      "websiteUrl": "https://malliotakis.house.gov",
+      "photoUrl": "https://unitedstates.github.io/images/congress/225x275/M000317.jpg",
+      "statusNote": null,
+      "jurisdiction": {
+        "key": "NY-11",
+        "name": "New York's 11th congressional district",
+        "type": "congressional_district",
+        "geoid": "3611",
+        "landAreaSqMi": 64.2,
+        "population": 776971,
+        "areaSource": "Land area (AREALAND), U.S. Census Bureau TIGERweb, 119th Congressional Districts",
+        "populationSource": "2020 Census ideal district population (20,201,249 / 26). NY's 2024 plan has districts within one person of this",
+        "sources": [
+          "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+          "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+        ]
+      },
+      "offices": [
+        {
+          "slug": "staten-island",
+          "name": "Staten Island",
+          "kind": "district",
+          "address": "1698 Victory Blvd",
+          "suite": "Suite 2L",
+          "city": "Staten Island",
+          "state": "NY",
+          "zip": "10314",
+          "phone": "718-568-2870",
+          "hours": null,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "slug": "brooklyn-bay-ridge",
+          "name": "Brooklyn (Bay Ridge)",
+          "kind": "district",
+          "address": "7716 Third Avenue",
+          "suite": null,
+          "city": "Brooklyn",
+          "state": "NY",
+          "zip": "11209",
+          "phone": "718-306-1620",
+          "hours": null,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "slug": "washington-dc",
+          "name": "Washington, DC",
+          "kind": "capitol",
+          "address": "1124 Longworth House Office Building Washington DC 20515-3211",
+          "suite": null,
+          "city": null,
+          "state": null,
+          "zip": null,
+          "phone": "202-225-3371",
+          "hours": null,
+          "latitude": null,
+          "longitude": null
+        }
+      ],
+      "contact": {
+        "emailPublic": null,
+        "webformUrl": "https://malliotakis.house.gov/contact",
+        "webformRequiresZip": true,
+        "phone": true,
+        "meetingRequestUrl": "https://malliotakis.house.gov/contact/request-an-appearance",
+        "inPerson": true,
+        "inPersonNotes": "Two district offices; hours not published on offices page.",
+        "mobileOfficeHours": null,
+        "caseworkUrl": "https://malliotakis.house.gov/services/help-federal-agency"
+      },
+      "schedule": {
+        "publishesDailySchedule": false,
+        "scheduleUrl": null,
+        "notes": "No schedule found.",
+        "recentMeetings": []
+      },
+      "scorecards": [
+        {
+          "org": "GovTrack",
+          "title": "Report cards, ideology and leadership scores",
+          "url": "https://www.govtrack.us/congress/members/456837"
+        },
+        {
+          "org": "Vote Smart",
+          "title": "Interest group ratings (aggregated)",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/127929"
+        },
+        {
+          "org": "OpenSecrets",
+          "title": "Campaign finance and lobbying",
+          "url": "https://www.opensecrets.org/members-of-congress/summary?cid=N00044040"
+        },
+        {
+          "org": "Ballotpedia",
+          "title": "Profile, elections and key votes",
+          "url": "https://ballotpedia.org/Nicole_Malliotakis"
+        },
+        {
+          "org": "Biographical Directory of Congress",
+          "title": "Official biography",
+          "url": "https://bioguide.congress.gov/search/bio/M000317"
+        }
+      ],
+      "sources": [
+        "https://malliotakis.house.gov/contact",
+        "https://malliotakis.house.gov/contact/offices",
+        "https://github.com/unitedstates/congress-legislators",
+        "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+        "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+      ],
+      "researchNotes": "Fetched official site pages via WebFetch (curl blocked by proxy). Office hours are generally not published on the site. Contact page asks for ZIP before email form. Constituent services page: https://malliotakis.house.gov/about/constituent-services. Brooklyn office lat/long not in base (null). Re-election status not checked.",
+      "verifiedAt": "2026-10-19"
+    },
+    {
+      "slug": "jerry-nadler",
+      "bioguide": "N000002",
+      "name": "Jerry Nadler",
+      "fullName": "Jerrold Nadler",
+      "level": "federal",
+      "chamber": "us_house",
+      "title": "U.S. Representative, NY-12",
+      "district": 12,
+      "party": "Democrat",
+      "websiteUrl": "https://nadler.house.gov",
+      "photoUrl": "https://unitedstates.github.io/images/congress/225x275/N000002.jpg",
+      "statusNote": "Not seeking reelection in 2026 (announced September 2025); serves through January 3, 2027.",
+      "jurisdiction": {
+        "key": "NY-12",
+        "name": "New York's 12th congressional district",
+        "type": "congressional_district",
+        "geoid": "3612",
+        "landAreaSqMi": 9.6,
+        "population": 776971,
+        "areaSource": "Land area (AREALAND), U.S. Census Bureau TIGERweb, 119th Congressional Districts",
+        "populationSource": "2020 Census ideal district population (20,201,249 / 26). NY's 2024 plan has districts within one person of this",
+        "sources": [
+          "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+          "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+        ]
+      },
+      "offices": [
+        {
+          "slug": "manhattan",
+          "name": "Manhattan",
+          "kind": "district",
+          "address": "201 Varick St.",
+          "suite": "Suite 669",
+          "city": "New York",
+          "state": "NY",
+          "zip": "10014",
+          "phone": "212-367-7350",
+          "hours": null,
+          "latitude": 40.7283398,
+          "longitude": -74.00622109999999
+        },
+        {
+          "slug": "washington-dc",
+          "name": "Washington, DC",
+          "kind": "capitol",
+          "address": "2132 Rayburn House Office Building Washington DC 20515-3212",
+          "suite": null,
+          "city": null,
+          "state": null,
+          "zip": null,
+          "phone": "202-225-5635",
+          "hours": null,
+          "latitude": null,
+          "longitude": null
+        }
+      ],
+      "contact": {
+        "emailPublic": null,
+        "webformUrl": "https://nadler.house.gov/contact",
+        "webformRequiresZip": true,
+        "phone": true,
+        "meetingRequestUrl": null,
+        "inPerson": true,
+        "inPersonNotes": "Single Manhattan office; hours not published; no meeting request process listed.",
+        "mobileOfficeHours": null,
+        "caseworkUrl": "https://nadler.house.gov/serving-you/casework/casework-zip-authentication.htm"
+      },
+      "schedule": {
+        "publishesDailySchedule": false,
+        "scheduleUrl": null,
+        "notes": "No schedule listed.",
+        "recentMeetings": []
+      },
+      "scorecards": [
+        {
+          "org": "GovTrack",
+          "title": "Report cards, ideology and leadership scores",
+          "url": "https://www.govtrack.us/congress/members/400289"
+        },
+        {
+          "org": "Vote Smart",
+          "title": "Interest group ratings (aggregated)",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/26980"
+        },
+        {
+          "org": "OpenSecrets",
+          "title": "Campaign finance and lobbying",
+          "url": "https://www.opensecrets.org/members-of-congress/summary?cid=N00000939"
+        },
+        {
+          "org": "Ballotpedia",
+          "title": "Profile, elections and key votes",
+          "url": "https://ballotpedia.org/Jerrold_Nadler"
+        },
+        {
+          "org": "Biographical Directory of Congress",
+          "title": "Official biography",
+          "url": "https://bioguide.congress.gov/search/bio/N000002"
+        }
+      ],
+      "sources": [
+        "https://nadler.house.gov/contact",
+        "https://www.notus.org/new-york/jerry-nadler-retirement",
+        "https://news.ballotpedia.org/?p=43081",
+        "https://github.com/unitedstates/congress-legislators",
+        "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+        "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+      ],
+      "researchNotes": "Nadler announced Sept 2, 2025 he will not seek reelection in 2026; remains in office until Jan 2027. Fetched official site pages via WebFetch (curl blocked by proxy). Office hours are generally not published on the site. Webform requires name + ZIP; non-residents are redirected.",
+      "verifiedAt": "2026-10-19"
+    },
+    {
+      "slug": "adriano-espaillat",
+      "bioguide": "E000297",
+      "name": "Adriano Espaillat",
+      "fullName": "Adriano Espaillat",
+      "level": "federal",
+      "chamber": "us_house",
+      "title": "U.S. Representative, NY-13",
+      "district": 13,
+      "party": "Democrat",
+      "websiteUrl": "https://espaillat.house.gov",
+      "photoUrl": "https://unitedstates.github.io/images/congress/225x275/E000297.jpg",
+      "statusNote": null,
+      "jurisdiction": {
+        "key": "NY-13",
+        "name": "New York's 13th congressional district",
+        "type": "congressional_district",
+        "geoid": "3613",
+        "landAreaSqMi": 11,
+        "population": 776971,
+        "areaSource": "Land area (AREALAND), U.S. Census Bureau TIGERweb, 119th Congressional Districts",
+        "populationSource": "2020 Census ideal district population (20,201,249 / 26). NY's 2024 plan has districts within one person of this",
+        "sources": [
+          "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+          "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+        ]
+      },
+      "offices": [
+        {
+          "slug": "harlem",
+          "name": "Harlem",
+          "kind": "district",
+          "address": "163 West 125th Street",
+          "suite": "#508 (Harlem State Office Building)",
+          "city": "New York",
+          "state": "NY",
+          "zip": "10027",
+          "phone": "212-663-3900",
+          "hours": null,
+          "latitude": 40.8091589,
+          "longitude": -73.9473251
+        },
+        {
+          "slug": "washington-heights",
+          "name": "Washington Heights",
+          "kind": "district",
+          "address": "720 West 181st Street",
+          "suite": "Suite 2",
+          "city": "New York",
+          "state": "NY",
+          "zip": "10033",
+          "phone": "212-497-5959",
+          "hours": null,
+          "latitude": 40.8502935,
+          "longitude": -73.9368293
+        },
+        {
+          "slug": "bronx",
+          "name": "Bronx",
+          "kind": "district",
+          "address": "3107 Kingsbridge Avenue",
+          "suite": null,
+          "city": "Bronx",
+          "state": "NY",
+          "zip": "10463",
+          "phone": "646-740-3632",
+          "hours": "By appointment only",
+          "latitude": 40.8801727,
+          "longitude": -73.9090502
+        },
+        {
+          "slug": "washington-dc",
+          "name": "Washington, DC",
+          "kind": "capitol",
+          "address": "2332 Rayburn House Office Building Washington DC 20515-3213",
+          "suite": null,
+          "city": null,
+          "state": null,
+          "zip": null,
+          "phone": "202-225-4365",
+          "hours": null,
+          "latitude": null,
+          "longitude": null
+        }
+      ],
+      "contact": {
+        "emailPublic": null,
+        "webformUrl": "https://espaillat.house.gov/email",
+        "webformRequiresZip": null,
+        "phone": true,
+        "meetingRequestUrl": null,
+        "inPerson": true,
+        "inPersonNotes": "Bronx office by appointment only; other offices' hours not listed.",
+        "mobileOfficeHours": null,
+        "caseworkUrl": "https://espaillat.house.gov/services/help-federal-agency"
+      },
+      "schedule": {
+        "publishesDailySchedule": false,
+        "scheduleUrl": null,
+        "notes": "No public daily schedule page found on the contact page; not exhaustively searched. No meeting request form; only 'Invite Me to Speak' (https://espaillat.house.gov/contact/request-appearance).",
+        "recentMeetings": []
+      },
+      "scorecards": [
+        {
+          "org": "GovTrack",
+          "title": "Report cards, ideology and leadership scores",
+          "url": "https://www.govtrack.us/congress/members/412718"
+        },
+        {
+          "org": "Vote Smart",
+          "title": "Interest group ratings (aggregated)",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/14379"
+        },
+        {
+          "org": "OpenSecrets",
+          "title": "Campaign finance and lobbying",
+          "url": "https://www.opensecrets.org/members-of-congress/summary?cid=N00034549"
+        },
+        {
+          "org": "Ballotpedia",
+          "title": "Profile, elections and key votes",
+          "url": "https://ballotpedia.org/Adriano_Espaillat"
+        },
+        {
+          "org": "Biographical Directory of Congress",
+          "title": "Official biography",
+          "url": "https://bioguide.congress.gov/search/bio/E000297"
+        }
+      ],
+      "sources": [
+        "https://espaillat.house.gov/contact",
+        "https://github.com/unitedstates/congress-legislators",
+        "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+        "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+      ],
+      "researchNotes": "Site lists Bronx office as 'Bronx, NY 10463' with no street; street address 3107 Kingsbridge Ave kept from congress-legislators base data (unconfirmed on site). Member serving as of fetch; all seven listed as current NY representatives (not independently checked for post-2026-primary changes). Fetched via WebFetch of house.gov pages; webform ZIP requirement null unless stated.",
+      "verifiedAt": "2026-10-19"
+    },
+    {
+      "slug": "alexandria-ocasio-cortez",
+      "bioguide": "O000172",
+      "name": "Alexandria Ocasio-Cortez",
+      "fullName": "Alexandria Ocasio-Cortez",
+      "level": "federal",
+      "chamber": "us_house",
+      "title": "U.S. Representative, NY-14",
+      "district": 14,
+      "party": "Democrat",
+      "websiteUrl": "https://ocasio-cortez.house.gov",
+      "photoUrl": "https://unitedstates.github.io/images/congress/225x275/O000172.jpg",
+      "statusNote": null,
+      "jurisdiction": {
+        "key": "NY-14",
+        "name": "New York's 14th congressional district",
+        "type": "congressional_district",
+        "geoid": "3614",
+        "landAreaSqMi": 29.4,
+        "population": 776971,
+        "areaSource": "Land area (AREALAND), U.S. Census Bureau TIGERweb, 119th Congressional Districts",
+        "populationSource": "2020 Census ideal district population (20,201,249 / 26). NY's 2024 plan has districts within one person of this",
+        "sources": [
+          "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+          "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+        ]
+      },
+      "offices": [
+        {
+          "slug": "hunts-point-bronx",
+          "name": "Hunts Point (Bronx)",
+          "kind": "district",
+          "address": "1231 Lafayette Ave",
+          "suite": "Ste L-610 (4th floor)",
+          "city": "Bronx",
+          "state": "NY",
+          "zip": "10474",
+          "phone": "718-662-5970",
+          "hours": "Mon-Thu 9am-5pm; walk-ins accepted",
+          "latitude": 40.8167566,
+          "longitude": -73.8906092
+        },
+        {
+          "slug": "astoria-queens",
+          "name": "Astoria (Queens)",
+          "kind": "district",
+          "address": "30-83 31st St",
+          "suite": null,
+          "city": "Queens",
+          "state": "NY",
+          "zip": "11102",
+          "phone": "718-662-5970",
+          "hours": "By appointment only",
+          "latitude": 40.7647481,
+          "longitude": -73.9253722
+        },
+        {
+          "slug": "washington-dc",
+          "name": "Washington, DC",
+          "kind": "capitol",
+          "address": "250 Cannon House Office Building Washington DC 20515-3214",
+          "suite": null,
+          "city": null,
+          "state": null,
+          "zip": null,
+          "phone": "202-225-3965",
+          "hours": null,
+          "latitude": null,
+          "longitude": null
+        }
+      ],
+      "contact": {
+        "emailPublic": null,
+        "webformUrl": "https://ocasiocortezforms.house.gov/contact/?skin=blank",
+        "webformRequiresZip": true,
+        "phone": true,
+        "meetingRequestUrl": "https://ocasio-cortez.house.gov/contact/scheduling-request",
+        "inPerson": true,
+        "inPersonNotes": "Hunts Point office accepts walk-ins Mon-Thu; Astoria by appointment.",
+        "mobileOfficeHours": null,
+        "caseworkUrl": "https://ocasio-cortez.house.gov/services/help-federal-agency"
+      },
+      "schedule": {
+        "publishesDailySchedule": false,
+        "scheduleUrl": null,
+        "notes": "No public daily schedule page found on the contact page; not exhaustively searched. ",
+        "recentMeetings": []
+      },
+      "scorecards": [
+        {
+          "org": "GovTrack",
+          "title": "Report cards, ideology and leadership scores",
+          "url": "https://www.govtrack.us/congress/members/412804"
+        },
+        {
+          "org": "Vote Smart",
+          "title": "Interest group ratings (aggregated)",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/180416"
+        },
+        {
+          "org": "OpenSecrets",
+          "title": "Campaign finance and lobbying",
+          "url": "https://www.opensecrets.org/members-of-congress/summary?cid=N00041162"
+        },
+        {
+          "org": "Ballotpedia",
+          "title": "Profile, elections and key votes",
+          "url": "https://ballotpedia.org/Alexandria_Ocasio-Cortez"
+        },
+        {
+          "org": "Biographical Directory of Congress",
+          "title": "Official biography",
+          "url": "https://bioguide.congress.gov/search/bio/O000172"
+        }
+      ],
+      "sources": [
+        "https://ocasio-cortez.house.gov/contact",
+        "https://ocasio-cortez.house.gov/contact/offices",
+        "https://github.com/unitedstates/congress-legislators",
+        "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+        "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+      ],
+      "researchNotes": "Single constituent phone 718-662-5970 for both offices. Mobile office hours not checked. Member serving as of fetch; all seven listed as current NY representatives (not independently checked for post-2026-primary changes). Fetched via WebFetch of house.gov pages; webform ZIP requirement null unless stated.",
+      "verifiedAt": "2026-10-19"
+    },
+    {
+      "slug": "ritchie-torres",
+      "bioguide": "T000486",
+      "name": "Ritchie Torres",
+      "fullName": "Ritchie Torres",
+      "level": "federal",
+      "chamber": "us_house",
+      "title": "U.S. Representative, NY-15",
+      "district": 15,
+      "party": "Democrat",
+      "websiteUrl": "https://ritchietorres.house.gov",
+      "photoUrl": "https://unitedstates.github.io/images/congress/225x275/T000486.jpg",
+      "statusNote": null,
+      "jurisdiction": {
+        "key": "NY-15",
+        "name": "New York's 15th congressional district",
+        "type": "congressional_district",
+        "geoid": "3615",
+        "landAreaSqMi": 18.6,
+        "population": 776971,
+        "areaSource": "Land area (AREALAND), U.S. Census Bureau TIGERweb, 119th Congressional Districts",
+        "populationSource": "2020 Census ideal district population (20,201,249 / 26). NY's 2024 plan has districts within one person of this",
+        "sources": [
+          "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+          "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+        ]
+      },
+      "offices": [
+        {
+          "slug": "bronx",
+          "name": "Bronx",
+          "kind": "district",
+          "address": "540 E Fordham Rd.",
+          "suite": "Suite 2A",
+          "city": "Bronx",
+          "state": "NY",
+          "zip": "10458",
+          "phone": "718-503-9610",
+          "hours": "Mon-Fri 10am-4pm; by appointment only (no walk-ins)",
+          "latitude": 40.8591989,
+          "longitude": -73.8870801
+        },
+        {
+          "slug": "washington-dc",
+          "name": "Washington, DC",
+          "kind": "capitol",
+          "address": "1414 Longworth House Office Building Washington DC 20515-3215",
+          "suite": null,
+          "city": null,
+          "state": null,
+          "zip": null,
+          "phone": "202-225-4361",
+          "hours": null,
+          "latitude": null,
+          "longitude": null
+        }
+      ],
+      "contact": {
+        "emailPublic": null,
+        "webformUrl": "https://ritchietorres.house.gov/contact",
+        "webformRequiresZip": null,
+        "phone": true,
+        "meetingRequestUrl": null,
+        "inPerson": true,
+        "inPersonNotes": "No walk-ins; call for assistance; appointments only.",
+        "mobileOfficeHours": null,
+        "caseworkUrl": "https://ritchietorres.house.gov/agencies"
+      },
+      "schedule": {
+        "publishesDailySchedule": false,
+        "scheduleUrl": null,
+        "notes": "No public daily schedule page found on the contact page; not exhaustively searched. ",
+        "recentMeetings": []
+      },
+      "scorecards": [
+        {
+          "org": "GovTrack",
+          "title": "Report cards, ideology and leadership scores",
+          "url": "https://www.govtrack.us/congress/members/456838"
+        },
+        {
+          "org": "Vote Smart",
+          "title": "Interest group ratings (aggregated)",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/161718"
+        },
+        {
+          "org": "OpenSecrets",
+          "title": "Campaign finance and lobbying",
+          "url": "https://www.opensecrets.org/members-of-congress/summary?cid=N00044346"
+        },
+        {
+          "org": "Ballotpedia",
+          "title": "Profile, elections and key votes",
+          "url": "https://ballotpedia.org/Ritchie_Torres"
+        },
+        {
+          "org": "Biographical Directory of Congress",
+          "title": "Official biography",
+          "url": "https://bioguide.congress.gov/search/bio/T000486"
+        }
+      ],
+      "sources": [
+        "https://ritchietorres.house.gov/contact",
+        "https://github.com/unitedstates/congress-legislators",
+        "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+        "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+      ],
+      "researchNotes": "No meeting request form found; tour request form exists at https://ritchietorres.house.gov/tour-request. Member serving as of fetch; all seven listed as current NY representatives (not independently checked for post-2026-primary changes). Fetched via WebFetch of house.gov pages; webform ZIP requirement null unless stated.",
+      "verifiedAt": "2026-10-19"
+    },
+    {
+      "slug": "george-latimer",
+      "bioguide": "L000606",
+      "name": "George Latimer",
+      "fullName": "George Latimer",
+      "level": "federal",
+      "chamber": "us_house",
+      "title": "U.S. Representative, NY-16",
+      "district": 16,
+      "party": "Democrat",
+      "websiteUrl": "https://latimer.house.gov",
+      "photoUrl": "https://unitedstates.github.io/images/congress/225x275/L000606.jpg",
+      "statusNote": null,
+      "jurisdiction": {
+        "key": "NY-16",
+        "name": "New York's 16th congressional district",
+        "type": "congressional_district",
+        "geoid": "3616",
+        "landAreaSqMi": 124,
+        "population": 776971,
+        "areaSource": "Land area (AREALAND), U.S. Census Bureau TIGERweb, 119th Congressional Districts",
+        "populationSource": "2020 Census ideal district population (20,201,249 / 26). NY's 2024 plan has districts within one person of this",
+        "sources": [
+          "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+          "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+        ]
+      },
+      "offices": [
+        {
+          "slug": "white-plains",
+          "name": "White Plains",
+          "kind": "district",
+          "address": "222 Mamaroneck Ave",
+          "suite": "Suite 312",
+          "city": "White Plains",
+          "state": "NY",
+          "zip": "10605",
+          "phone": "914-323-5550",
+          "hours": null,
+          "latitude": 40.9501344,
+          "longitude": -73.7364686
+        },
+        {
+          "slug": "bronx",
+          "name": "Bronx",
+          "kind": "district",
+          "address": "177 Dreiser Loop",
+          "suite": "Room 3",
+          "city": "Bronx",
+          "state": "NY",
+          "zip": "10475",
+          "phone": "718-530-7888",
+          "hours": null,
+          "latitude": 40.876579,
+          "longitude": -73.8287211
+        },
+        {
+          "slug": "washington-dc",
+          "name": "Washington, DC",
+          "kind": "capitol",
+          "address": "1507 Longworth House Office Building Washington DC 20515-3216",
+          "suite": null,
+          "city": null,
+          "state": null,
+          "zip": null,
+          "phone": "202-225-2464",
+          "hours": null,
+          "latitude": null,
+          "longitude": null
+        }
+      ],
+      "contact": {
+        "emailPublic": null,
+        "webformUrl": "https://latimer.house.gov/contact/email-me",
+        "webformRequiresZip": null,
+        "phone": true,
+        "meetingRequestUrl": null,
+        "inPerson": true,
+        "inPersonNotes": "Hours/appointment policy not stated on pages fetched.",
+        "mobileOfficeHours": null,
+        "caseworkUrl": "https://latimer.house.gov/services/help-federal-agency"
+      },
+      "schedule": {
+        "publishesDailySchedule": false,
+        "scheduleUrl": null,
+        "notes": "No public daily schedule page found on the contact page; not exhaustively searched. Events page exists (https://latimer.house.gov/about/events) but is not a schedule. Appearance request: https://latimer.house.gov/contact/request-an-appearance",
+        "recentMeetings": []
+      },
+      "scorecards": [
+        {
+          "org": "GovTrack",
+          "title": "Report cards, ideology and leadership scores",
+          "url": "https://www.govtrack.us/congress/members/457011"
+        },
+        {
+          "org": "Vote Smart",
+          "title": "Interest group ratings (aggregated)",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/44173"
+        },
+        {
+          "org": "OpenSecrets",
+          "title": "Campaign finance and lobbying",
+          "url": "https://www.opensecrets.org/members-of-congress/summary?cid=N00054136"
+        },
+        {
+          "org": "Ballotpedia",
+          "title": "Profile, elections and key votes",
+          "url": "https://ballotpedia.org/George_Latimer_(New_York)"
+        },
+        {
+          "org": "Biographical Directory of Congress",
+          "title": "Official biography",
+          "url": "https://bioguide.congress.gov/search/bio/L000606"
+        }
+      ],
+      "sources": [
+        "https://latimer.house.gov/contact",
+        "https://latimer.house.gov/contact/office-contact-information",
+        "https://github.com/unitedstates/congress-legislators",
+        "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+        "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+      ],
+      "researchNotes": "Official site lists only phone numbers for district offices (no addresses); addresses/suites kept from base data and not re-verified. Office locations page could not be parsed. Member serving as of fetch; all seven listed as current NY representatives (not independently checked for post-2026-primary changes). Fetched via WebFetch of house.gov pages; webform ZIP requirement null unless stated.",
+      "verifiedAt": "2026-10-19"
+    },
+    {
+      "slug": "mike-lawler",
+      "bioguide": "L000599",
+      "name": "Mike Lawler",
+      "fullName": "Michael Lawler",
+      "level": "federal",
+      "chamber": "us_house",
+      "title": "U.S. Representative, NY-17",
+      "district": 17,
+      "party": "Republican",
+      "websiteUrl": "https://lawler.house.gov",
+      "photoUrl": "https://unitedstates.github.io/images/congress/225x275/L000599.jpg",
+      "statusNote": null,
+      "jurisdiction": {
+        "key": "NY-17",
+        "name": "New York's 17th congressional district",
+        "type": "congressional_district",
+        "geoid": "3617",
+        "landAreaSqMi": 824.7,
+        "population": 776971,
+        "areaSource": "Land area (AREALAND), U.S. Census Bureau TIGERweb, 119th Congressional Districts",
+        "populationSource": "2020 Census ideal district population (20,201,249 / 26). NY's 2024 plan has districts within one person of this",
+        "sources": [
+          "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+          "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+        ]
+      },
+      "offices": [
+        {
+          "slug": "carmel-mahopac",
+          "name": "Carmel/Mahopac",
+          "kind": "district",
+          "address": "60 McAlpin Ave",
+          "suite": null,
+          "city": "Mahopac",
+          "state": "NY",
+          "zip": "10541",
+          "phone": "845-743-7130",
+          "hours": "By appointment only",
+          "latitude": 41.3774662,
+          "longitude": -73.7236307
+        },
+        {
+          "slug": "pearl-river",
+          "name": "Pearl River",
+          "kind": "district",
+          "address": "One Blue Hill Plaza",
+          "suite": "Third Floor (P.O. Box 1645)",
+          "city": "Pearl River",
+          "state": "NY",
+          "zip": "10965",
+          "phone": "845-201-2060",
+          "hours": "By appointment only",
+          "latitude": 41.0468845,
+          "longitude": -74.0076878
+        },
+        {
+          "slug": "washington-dc",
+          "name": "Washington, DC",
+          "kind": "capitol",
+          "address": "324 Cannon House Office Building Washington DC 20515-3217",
+          "suite": null,
+          "city": null,
+          "state": null,
+          "zip": null,
+          "phone": "202-225-6506",
+          "hours": null,
+          "latitude": null,
+          "longitude": null
+        }
+      ],
+      "contact": {
+        "emailPublic": null,
+        "webformUrl": "https://lawler.house.gov/contact",
+        "webformRequiresZip": true,
+        "phone": true,
+        "meetingRequestUrl": "https://lawler.house.gov/forms/meetingrequest/",
+        "inPerson": true,
+        "inPersonNotes": "Both district offices by appointment only.",
+        "mobileOfficeHours": null,
+        "caseworkUrl": "https://lawler.house.gov/forms/casework/"
+      },
+      "schedule": {
+        "publishesDailySchedule": false,
+        "scheduleUrl": null,
+        "notes": "No public daily schedule page found on the contact page; not exhaustively searched. ",
+        "recentMeetings": []
+      },
+      "scorecards": [
+        {
+          "org": "GovTrack",
+          "title": "Report cards, ideology and leadership scores",
+          "url": "https://www.govtrack.us/congress/members/456924"
+        },
+        {
+          "org": "Vote Smart",
+          "title": "Interest group ratings (aggregated)",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/192271"
+        },
+        {
+          "org": "OpenSecrets",
+          "title": "Campaign finance and lobbying",
+          "url": "https://www.opensecrets.org/members-of-congress/summary?cid=N00051208"
+        },
+        {
+          "org": "Ballotpedia",
+          "title": "Profile, elections and key votes",
+          "url": "https://ballotpedia.org/Michael_Lawler_(New_York)"
+        },
+        {
+          "org": "Biographical Directory of Congress",
+          "title": "Official biography",
+          "url": "https://bioguide.congress.gov/search/bio/L000599"
+        }
+      ],
+      "sources": [
+        "https://lawler.house.gov/contact",
+        "https://lawler.house.gov/forms/meetingrequest/",
+        "https://github.com/unitedstates/congress-legislators",
+        "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+        "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+      ],
+      "researchNotes": "Site calls the Mahopac office the 'Carmel Office'. Meeting form's location option lists 'DC District'. Member serving as of fetch; all seven listed as current NY representatives (not independently checked for post-2026-primary changes). Fetched via WebFetch of house.gov pages; webform ZIP requirement null unless stated.",
+      "verifiedAt": "2026-10-19"
+    },
+    {
+      "slug": "pat-ryan",
+      "bioguide": "R000579",
+      "name": "Pat Ryan",
+      "fullName": "Patrick Ryan",
+      "level": "federal",
+      "chamber": "us_house",
+      "title": "U.S. Representative, NY-18",
+      "district": 18,
+      "party": "Democrat",
+      "websiteUrl": "https://patryan.house.gov",
+      "photoUrl": "https://unitedstates.github.io/images/congress/225x275/R000579.jpg",
+      "statusNote": null,
+      "jurisdiction": {
+        "key": "NY-18",
+        "name": "New York's 18th congressional district",
+        "type": "congressional_district",
+        "geoid": "3618",
+        "landAreaSqMi": 1862.9,
+        "population": 776971,
+        "areaSource": "Land area (AREALAND), U.S. Census Bureau TIGERweb, 119th Congressional Districts",
+        "populationSource": "2020 Census ideal district population (20,201,249 / 26). NY's 2024 plan has districts within one person of this",
+        "sources": [
+          "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+          "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+        ]
+      },
+      "offices": [
+        {
+          "slug": "poughkeepsie",
+          "name": "Poughkeepsie",
+          "kind": "district",
+          "address": "29 N Hamilton Street",
+          "suite": "Suites 112 and 113",
+          "city": "Poughkeepsie",
+          "state": "NY",
+          "zip": "12601",
+          "phone": "845-443-2930",
+          "hours": null,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "slug": "newburgh",
+          "name": "Newburgh",
+          "kind": "district",
+          "address": "245 Liberty Street",
+          "suite": null,
+          "city": "Newburgh",
+          "state": "NY",
+          "zip": "12550",
+          "phone": "845-275-6390",
+          "hours": "By appointment only",
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "slug": "kingston",
+          "name": "Kingston",
+          "kind": "district",
+          "address": "20 Broadway",
+          "suite": "Second Floor",
+          "city": "Kingston",
+          "state": "NY",
+          "zip": "12401",
+          "phone": "845-443-2980",
+          "hours": "By appointment only",
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "slug": "washington-dc",
+          "name": "Washington, DC",
+          "kind": "capitol",
+          "address": "1708 Longworth House Office Building Washington DC 20515-3218",
+          "suite": null,
+          "city": null,
+          "state": null,
+          "zip": null,
+          "phone": "202-225-5614",
+          "hours": null,
+          "latitude": null,
+          "longitude": null
+        }
+      ],
+      "contact": {
+        "emailPublic": null,
+        "webformUrl": "https://patryan.house.gov/contact/email-me",
+        "webformRequiresZip": true,
+        "phone": true,
+        "meetingRequestUrl": "https://patryan.house.gov/meeting-request",
+        "inPerson": true,
+        "inPersonNotes": "Newburgh and Kingston by appointment only.",
+        "mobileOfficeHours": null,
+        "caseworkUrl": "https://patryan.house.gov/services/help-federal-agency"
+      },
+      "schedule": {
+        "publishesDailySchedule": false,
+        "scheduleUrl": null,
+        "notes": "No public daily schedule page found on the contact page; not exhaustively searched. ",
+        "recentMeetings": []
+      },
+      "scorecards": [
+        {
+          "org": "GovTrack",
+          "title": "Report cards, ideology and leadership scores",
+          "url": "https://www.govtrack.us/congress/members/456871"
+        },
+        {
+          "org": "Vote Smart",
+          "title": "Interest group ratings (aggregated)",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/180314"
+        },
+        {
+          "org": "OpenSecrets",
+          "title": "Campaign finance and lobbying",
+          "url": "https://www.opensecrets.org/members-of-congress/summary?cid=N00041165"
+        },
+        {
+          "org": "Ballotpedia",
+          "title": "Profile, elections and key votes",
+          "url": "https://ballotpedia.org/Pat_Ryan_(New_York)"
+        },
+        {
+          "org": "Biographical Directory of Congress",
+          "title": "Official biography",
+          "url": "https://bioguide.congress.gov/search/bio/R000579"
+        }
+      ],
+      "sources": [
+        "https://patryan.house.gov/contact",
+        "https://patryan.house.gov/contact/offices",
+        "https://github.com/unitedstates/congress-legislators",
+        "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+        "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+      ],
+      "researchNotes": "All three offices moved from base.json addresses (307 Wall St Kingston, 605 Broadway Newburgh, 12 Raymond Ave Poughkeepsie); new addresses from official site, lat/long null. ZIP requirement inferred from site wording. Member serving as of fetch; all seven listed as current NY representatives (not independently checked for post-2026-primary changes). Fetched via WebFetch of house.gov pages; webform ZIP requirement null unless stated.",
+      "verifiedAt": "2026-10-19"
+    },
+    {
+      "slug": "josh-riley",
+      "bioguide": "R000622",
+      "name": "Josh Riley",
+      "fullName": "Josh Riley",
+      "level": "federal",
+      "chamber": "us_house",
+      "title": "U.S. Representative, NY-19",
+      "district": 19,
+      "party": "Democrat",
+      "websiteUrl": "https://riley.house.gov",
+      "photoUrl": "https://unitedstates.github.io/images/congress/225x275/R000622.jpg",
+      "statusNote": null,
+      "jurisdiction": {
+        "key": "NY-19",
+        "name": "New York's 19th congressional district",
+        "type": "congressional_district",
+        "geoid": "3619",
+        "landAreaSqMi": 8225.4,
+        "population": 776971,
+        "areaSource": "Land area (AREALAND), U.S. Census Bureau TIGERweb, 119th Congressional Districts",
+        "populationSource": "2020 Census ideal district population (20,201,249 / 26). NY's 2024 plan has districts within one person of this",
+        "sources": [
+          "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+          "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+        ]
+      },
+      "offices": [
+        {
+          "slug": "binghamton",
+          "name": "Binghamton",
+          "kind": "district",
+          "address": "49 Court St",
+          "suite": "Suite 210",
+          "city": "Binghamton",
+          "state": "NY",
+          "zip": "13901",
+          "phone": "607-242-0200",
+          "hours": null,
+          "latitude": 42.0989488,
+          "longitude": -75.9155213
+        },
+        {
+          "slug": "leeds",
+          "name": "Leeds",
+          "kind": "district",
+          "address": "49 Gilfeather Park Rd",
+          "suite": "Unit 1",
+          "city": "Leeds",
+          "state": "NY",
+          "zip": "12451",
+          "phone": "518-625-2100",
+          "hours": "By appointment",
+          "latitude": 42.2548652,
+          "longitude": -73.9051562
+        },
+        {
+          "slug": "delhi",
+          "name": "Delhi",
+          "kind": "district",
+          "address": "74 Main Street",
+          "suite": "Suite E",
+          "city": "Delhi",
+          "state": "NY",
+          "zip": "13753",
+          "phone": "607-242-0201",
+          "hours": "By appointment only",
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "slug": "washington-dc",
+          "name": "Washington, DC",
+          "kind": "capitol",
+          "address": "128 Cannon House Office Building Washington DC 20515-3219",
+          "suite": null,
+          "city": null,
+          "state": null,
+          "zip": null,
+          "phone": "202-225-5441",
+          "hours": null,
+          "latitude": null,
+          "longitude": null
+        }
+      ],
+      "contact": {
+        "emailPublic": null,
+        "webformUrl": "https://riley.house.gov/contact/email-josh/",
+        "webformRequiresZip": null,
+        "phone": true,
+        "meetingRequestUrl": "https://riley.house.gov/contact/contact-request-an-appearance/",
+        "inPerson": true,
+        "inPersonNotes": "Mobile office hours held across district; Leeds and Delhi by appointment.",
+        "mobileOfficeHours": true,
+        "caseworkUrl": "https://riley.house.gov/services/help-with-federal-agency/"
+      },
+      "schedule": {
+        "publishesDailySchedule": false,
+        "scheduleUrl": null,
+        "notes": "No public daily schedule page found on the contact page; not exhaustively searched. Events page lists mobile office hours (Feb 2026 dates seen): https://riley.house.gov/contact/events/",
+        "recentMeetings": []
+      },
+      "scorecards": [
+        {
+          "org": "GovTrack",
+          "title": "Report cards, ideology and leadership scores",
+          "url": "https://www.govtrack.us/congress/members/457012"
+        },
+        {
+          "org": "Vote Smart",
+          "title": "Interest group ratings (aggregated)",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/205997"
+        },
+        {
+          "org": "OpenSecrets",
+          "title": "Campaign finance and lobbying",
+          "url": "https://www.opensecrets.org/members-of-congress/summary?cid=N00049916"
+        },
+        {
+          "org": "Ballotpedia",
+          "title": "Profile, elections and key votes",
+          "url": "https://ballotpedia.org/Josh_Riley"
+        },
+        {
+          "org": "Biographical Directory of Congress",
+          "title": "Official biography",
+          "url": "https://bioguide.congress.gov/search/bio/R000622"
+        }
+      ],
+      "sources": [
+        "https://riley.house.gov/contact",
+        "https://riley.house.gov/contact/events/",
+        "https://github.com/unitedstates/congress-legislators",
+        "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+        "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+      ],
+      "researchNotes": "Delhi office is new vs base.json. Request-an-appearance form is the closest to a meeting request. Member serving as of fetch; all seven listed as current NY representatives (not independently checked for post-2026-primary changes). Fetched via WebFetch of house.gov pages; webform ZIP requirement null unless stated.",
+      "verifiedAt": "2026-10-19"
+    },
+    {
+      "slug": "paul-tonko",
+      "bioguide": "T000469",
+      "name": "Paul Tonko",
+      "fullName": "Paul Tonko",
+      "level": "federal",
+      "chamber": "us_house",
+      "title": "U.S. Representative, NY-20",
+      "district": 20,
+      "party": "Democrat",
+      "websiteUrl": "https://tonko.house.gov",
+      "photoUrl": "https://unitedstates.github.io/images/congress/225x275/T000469.jpg",
+      "statusNote": null,
+      "jurisdiction": {
+        "key": "NY-20",
+        "name": "New York's 20th congressional district",
+        "type": "congressional_district",
+        "geoid": "3620",
+        "landAreaSqMi": 1366,
+        "population": 776971,
+        "areaSource": "Land area (AREALAND), U.S. Census Bureau TIGERweb, 119th Congressional Districts",
+        "populationSource": "2020 Census ideal district population (20,201,249 / 26). NY's 2024 plan has districts within one person of this",
+        "sources": [
+          "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+          "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+        ]
+      },
+      "offices": [
+        {
+          "slug": "albany",
+          "name": "Albany",
+          "kind": "district",
+          "address": "19 Dove Street",
+          "suite": "Suite 302",
+          "city": "Albany",
+          "state": "NY",
+          "zip": "12210",
+          "phone": "518-465-0700",
+          "hours": null,
+          "latitude": 42.6553643,
+          "longitude": -73.7615981
+        },
+        {
+          "slug": "saratoga-springs",
+          "name": "Saratoga Springs",
+          "kind": "district",
+          "address": "433 Broadway",
+          "suite": "Suite 201",
+          "city": "Saratoga Springs",
+          "state": "NY",
+          "zip": "12866",
+          "phone": "518-374-4547",
+          "hours": null,
+          "latitude": 43.0823082,
+          "longitude": -73.78542680000001
+        },
+        {
+          "slug": "washington-dc",
+          "name": "Washington, DC",
+          "kind": "capitol",
+          "address": "2269 Rayburn House Office Building Washington DC 20515-3220",
+          "suite": null,
+          "city": null,
+          "state": null,
+          "zip": null,
+          "phone": "202-225-5076",
+          "hours": null,
+          "latitude": null,
+          "longitude": null
+        }
+      ],
+      "contact": {
+        "emailPublic": null,
+        "webformUrl": "https://tonko.house.gov/contact",
+        "webformRequiresZip": true,
+        "phone": true,
+        "meetingRequestUrl": "https://tonko.house.gov/contact",
+        "inPerson": true,
+        "inPersonNotes": "District offices; walk-in/appointment policy not stated on site",
+        "mobileOfficeHours": null,
+        "caseworkUrl": null
+      },
+      "schedule": {
+        "publishesDailySchedule": false,
+        "scheduleUrl": null,
+        "notes": "No public daily schedule found on site.",
+        "recentMeetings": []
+      },
+      "scorecards": [
+        {
+          "org": "GovTrack",
+          "title": "Report cards, ideology and leadership scores",
+          "url": "https://www.govtrack.us/congress/members/412319"
+        },
+        {
+          "org": "Vote Smart",
+          "title": "Interest group ratings (aggregated)",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/4403"
+        },
+        {
+          "org": "OpenSecrets",
+          "title": "Campaign finance and lobbying",
+          "url": "https://www.opensecrets.org/members-of-congress/summary?cid=N00030196"
+        },
+        {
+          "org": "Ballotpedia",
+          "title": "Profile, elections and key votes",
+          "url": "https://ballotpedia.org/Paul_Tonko"
+        },
+        {
+          "org": "Biographical Directory of Congress",
+          "title": "Official biography",
+          "url": "https://bioguide.congress.gov/search/bio/T000469"
+        }
+      ],
+      "sources": [
+        "https://tonko.house.gov/contact",
+        "https://github.com/unitedstates/congress-legislators",
+        "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+        "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+      ],
+      "researchNotes": "Offices match base.json (site lists 'Unit 302' for Albany). Site fetch of /contact/offices failed; /contact worked. Meeting request page exists but exact URL not captured (set to contact page); casework URL not captured. Hours, mobile office hours not listed. Still in office per base data; not independently checked beyond that.",
+      "verifiedAt": "2026-10-19"
+    },
+    {
+      "slug": "elise-stefanik",
+      "bioguide": "S001196",
+      "name": "Elise Stefanik",
+      "fullName": "Elise M. Stefanik",
+      "level": "federal",
+      "chamber": "us_house",
+      "title": "U.S. Representative, NY-21",
+      "district": 21,
+      "party": "Republican",
+      "websiteUrl": "https://stefanik.house.gov",
+      "photoUrl": "https://unitedstates.github.io/images/congress/225x275/S001196.jpg",
+      "statusNote": "Not seeking reelection in 2026; serves through January 3, 2027.",
+      "jurisdiction": {
+        "key": "NY-21",
+        "name": "New York's 21st congressional district",
+        "type": "congressional_district",
+        "geoid": "3621",
+        "landAreaSqMi": 16288.9,
+        "population": 776971,
+        "areaSource": "Land area (AREALAND), U.S. Census Bureau TIGERweb, 119th Congressional Districts",
+        "populationSource": "2020 Census ideal district population (20,201,249 / 26). NY's 2024 plan has districts within one person of this",
+        "sources": [
+          "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+          "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+        ]
+      },
+      "offices": [
+        {
+          "slug": "schuylerville",
+          "name": "Schuylerville",
+          "kind": "district",
+          "address": "12 Spring Street",
+          "suite": "Suite 102",
+          "city": "Schuylerville",
+          "state": "NY",
+          "zip": "12871",
+          "phone": "518-242-4707",
+          "hours": null,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "slug": "ogdensburg",
+          "name": "Ogdensburg",
+          "kind": "district",
+          "address": "330 Ford Street",
+          "suite": "Suite B8",
+          "city": "Ogdensburg",
+          "state": "NY",
+          "zip": "13669",
+          "phone": "315-541-2670",
+          "hours": null,
+          "latitude": 44.6983667,
+          "longitude": -75.4920571
+        },
+        {
+          "slug": "washington-dc",
+          "name": "Washington, DC",
+          "kind": "capitol",
+          "address": "2211 Rayburn House Office Building Washington DC 20515-3221",
+          "suite": null,
+          "city": null,
+          "state": null,
+          "zip": null,
+          "phone": "202-225-4611",
+          "hours": null,
+          "latitude": null,
+          "longitude": null
+        }
+      ],
+      "contact": {
+        "emailPublic": null,
+        "webformUrl": "https://stefanik.house.gov/email-me",
+        "webformRequiresZip": null,
+        "phone": true,
+        "meetingRequestUrl": "https://stefanik.house.gov/request-an-appearance",
+        "inPerson": true,
+        "inPersonNotes": "District offices; walk-in/appointment policy not stated on site",
+        "mobileOfficeHours": null,
+        "caseworkUrl": "https://stefanik.house.gov/help-with-a-federal-agency"
+      },
+      "schedule": {
+        "publishesDailySchedule": false,
+        "scheduleUrl": null,
+        "notes": "No public daily schedule found on site.",
+        "recentMeetings": []
+      },
+      "scorecards": [
+        {
+          "org": "GovTrack",
+          "title": "Report cards, ideology and leadership scores",
+          "url": "https://www.govtrack.us/congress/members/412648"
+        },
+        {
+          "org": "Vote Smart",
+          "title": "Interest group ratings (aggregated)",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/152539"
+        },
+        {
+          "org": "OpenSecrets",
+          "title": "Campaign finance and lobbying",
+          "url": "https://www.opensecrets.org/members-of-congress/summary?cid=N00035523"
+        },
+        {
+          "org": "Ballotpedia",
+          "title": "Profile, elections and key votes",
+          "url": "https://ballotpedia.org/Elise_Stefanik"
+        },
+        {
+          "org": "Biographical Directory of Congress",
+          "title": "Official biography",
+          "url": "https://bioguide.congress.gov/search/bio/S001196"
+        }
+      ],
+      "sources": [
+        "https://stefanik.house.gov/contact",
+        "https://stefanik.house.gov/offices",
+        "https://www.cbsnews.com/tag/elise-stefanik",
+        "https://www.aol.com/articles/rep-elise-stefanik-ends-her-212715307.html",
+        "https://github.com/unitedstates/congress-legislators",
+        "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+        "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+      ],
+      "researchNotes": "NOTABLE: Stefanik ended her NY governor bid and announced she will not seek reelection (news results); she remains in office through the end of the term (Jan 2027) as far as verified. Her site now lists only Schuylerville and Ogdensburg; base.json's Plattsburgh and Herkimer offices are NOT on the current site (dropped, could not confirm closure otherwise). Schuylerville is new (lat/long null). The request-an-appearance URL is for events/appearances and used as the closest meeting-request page.",
+      "verifiedAt": "2026-10-19"
+    },
+    {
+      "slug": "john-mannion",
+      "bioguide": "M001231",
+      "name": "John Mannion",
+      "fullName": "John W. Mannion",
+      "level": "federal",
+      "chamber": "us_house",
+      "title": "U.S. Representative, NY-22",
+      "district": 22,
+      "party": "Democrat",
+      "websiteUrl": "https://mannion.house.gov",
+      "photoUrl": "https://unitedstates.github.io/images/congress/225x275/M001231.jpg",
+      "statusNote": null,
+      "jurisdiction": {
+        "key": "NY-22",
+        "name": "New York's 22nd congressional district",
+        "type": "congressional_district",
+        "geoid": "3622",
+        "landAreaSqMi": 2421.9,
+        "population": 776971,
+        "areaSource": "Land area (AREALAND), U.S. Census Bureau TIGERweb, 119th Congressional Districts",
+        "populationSource": "2020 Census ideal district population (20,201,249 / 26). NY's 2024 plan has districts within one person of this",
+        "sources": [
+          "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+          "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+        ]
+      },
+      "offices": [
+        {
+          "slug": "syracuse",
+          "name": "Syracuse",
+          "kind": "district",
+          "address": "440 South Warren Street",
+          "suite": "Suite 706",
+          "city": "Syracuse",
+          "state": "NY",
+          "zip": "13202",
+          "phone": "315-233-4333",
+          "hours": null,
+          "latitude": 43.0460543,
+          "longitude": -76.1543099
+        },
+        {
+          "slug": "utica",
+          "name": "Utica",
+          "kind": "district",
+          "address": "207 Genesee Street",
+          "suite": "Suite 405",
+          "city": "Utica",
+          "state": "NY",
+          "zip": "13501",
+          "phone": "315-732-0713",
+          "hours": null,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "slug": "washington-dc",
+          "name": "Washington, DC",
+          "kind": "capitol",
+          "address": "1516 Longworth House Office Building Washington DC 20515-3222",
+          "suite": null,
+          "city": null,
+          "state": null,
+          "zip": null,
+          "phone": "202-225-3701",
+          "hours": null,
+          "latitude": null,
+          "longitude": null
+        }
+      ],
+      "contact": {
+        "emailPublic": null,
+        "webformUrl": "https://mannion.house.gov/contact/email-me",
+        "webformRequiresZip": null,
+        "phone": true,
+        "meetingRequestUrl": "https://mannion.house.gov/contact/meeting-request",
+        "inPerson": true,
+        "inPersonNotes": "District offices; walk-in/appointment policy not stated on site",
+        "mobileOfficeHours": null,
+        "caseworkUrl": "https://mannion.house.gov/services/help-federal-agency"
+      },
+      "schedule": {
+        "publishesDailySchedule": false,
+        "scheduleUrl": null,
+        "notes": "Events page (https://mannion.house.gov/about/events) lists events the member hosts; not a daily schedule.",
+        "recentMeetings": []
+      },
+      "scorecards": [
+        {
+          "org": "GovTrack",
+          "title": "Report cards, ideology and leadership scores",
+          "url": "https://www.govtrack.us/congress/members/457013"
+        },
+        {
+          "org": "Vote Smart",
+          "title": "Interest group ratings (aggregated)",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/185053"
+        },
+        {
+          "org": "OpenSecrets",
+          "title": "Campaign finance and lobbying",
+          "url": "https://www.opensecrets.org/members-of-congress/summary?cid=N00053112"
+        },
+        {
+          "org": "Ballotpedia",
+          "title": "Profile, elections and key votes",
+          "url": "https://ballotpedia.org/John_Mannion"
+        },
+        {
+          "org": "Biographical Directory of Congress",
+          "title": "Official biography",
+          "url": "https://bioguide.congress.gov/search/bio/M001231"
+        }
+      ],
+      "sources": [
+        "https://mannion.house.gov/contact",
+        "https://mannion.house.gov/contact/office-locations",
+        "https://github.com/unitedstates/congress-legislators",
+        "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+        "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+      ],
+      "researchNotes": "Utica office is new vs base.json (lat/long null). Hours not listed on site.",
+      "verifiedAt": "2026-10-19"
+    },
+    {
+      "slug": "nick-langworthy",
+      "bioguide": "L000600",
+      "name": "Nick Langworthy",
+      "fullName": "Nicholas A. Langworthy",
+      "level": "federal",
+      "chamber": "us_house",
+      "title": "U.S. Representative, NY-23",
+      "district": 23,
+      "party": "Republican",
+      "websiteUrl": "https://langworthy.house.gov",
+      "photoUrl": "https://unitedstates.github.io/images/congress/225x275/L000600.jpg",
+      "statusNote": null,
+      "jurisdiction": {
+        "key": "NY-23",
+        "name": "New York's 23rd congressional district",
+        "type": "congressional_district",
+        "geoid": "3623",
+        "landAreaSqMi": 6458.2,
+        "population": 776971,
+        "areaSource": "Land area (AREALAND), U.S. Census Bureau TIGERweb, 119th Congressional Districts",
+        "populationSource": "2020 Census ideal district population (20,201,249 / 26). NY's 2024 plan has districts within one person of this",
+        "sources": [
+          "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+          "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+        ]
+      },
+      "offices": [
+        {
+          "slug": "clarence-williamsville",
+          "name": "Clarence (Williamsville)",
+          "kind": "district",
+          "address": "8201 Main Street",
+          "suite": "Suite 13",
+          "city": "Williamsville",
+          "state": "NY",
+          "zip": "14221",
+          "phone": "716-547-6844",
+          "hours": null,
+          "latitude": 42.9633987,
+          "longitude": -78.6889872
+        },
+        {
+          "slug": "jamestown",
+          "name": "Jamestown",
+          "kind": "district",
+          "address": "The Fenton Building, 2-6 East Second Street",
+          "suite": "Room 208",
+          "city": "Jamestown",
+          "state": "NY",
+          "zip": "14701",
+          "phone": "716-488-8111",
+          "hours": null,
+          "latitude": 42.0949119,
+          "longitude": -79.24172089999999
+        },
+        {
+          "slug": "olean",
+          "name": "Olean",
+          "kind": "district",
+          "address": "1 Bluebird Square",
+          "suite": null,
+          "city": "Olean",
+          "state": "NY",
+          "zip": "14760",
+          "phone": "585-543-5033",
+          "hours": null,
+          "latitude": 42.0788828,
+          "longitude": -78.4306347
+        },
+        {
+          "slug": "elmira",
+          "name": "Elmira",
+          "kind": "district",
+          "address": "203 Lake St., 1st Floor (P.O. Box 588)",
+          "suite": null,
+          "city": "Elmira",
+          "state": "NY",
+          "zip": "14902",
+          "phone": "607-377-3130",
+          "hours": null,
+          "latitude": null,
+          "longitude": null
+        },
+        {
+          "slug": "washington-dc",
+          "name": "Washington, DC",
+          "kind": "capitol",
+          "address": "422 Cannon House Office Building Washington DC 20515-3223",
+          "suite": null,
+          "city": null,
+          "state": null,
+          "zip": null,
+          "phone": "202-225-3161",
+          "hours": null,
+          "latitude": null,
+          "longitude": null
+        }
+      ],
+      "contact": {
+        "emailPublic": null,
+        "webformUrl": "https://langworthy.house.gov/contact",
+        "webformRequiresZip": null,
+        "phone": true,
+        "meetingRequestUrl": "https://langworthy.house.gov/contact/request-an-appearance",
+        "inPerson": true,
+        "inPersonNotes": "District offices; walk-in/appointment policy not stated on site",
+        "mobileOfficeHours": null,
+        "caseworkUrl": "https://langworthy.house.gov/services/help-federal-agency"
+      },
+      "schedule": {
+        "publishesDailySchedule": false,
+        "scheduleUrl": null,
+        "notes": "No public daily schedule found on site.",
+        "recentMeetings": []
+      },
+      "scorecards": [
+        {
+          "org": "GovTrack",
+          "title": "Report cards, ideology and leadership scores",
+          "url": "https://www.govtrack.us/congress/members/456927"
+        },
+        {
+          "org": "Vote Smart",
+          "title": "Interest group ratings (aggregated)",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/208663"
+        },
+        {
+          "org": "OpenSecrets",
+          "title": "Campaign finance and lobbying",
+          "url": "https://www.opensecrets.org/members-of-congress/summary?cid=N00051431"
+        },
+        {
+          "org": "Ballotpedia",
+          "title": "Profile, elections and key votes",
+          "url": "https://ballotpedia.org/Nick_Langworthy"
+        },
+        {
+          "org": "Biographical Directory of Congress",
+          "title": "Official biography",
+          "url": "https://bioguide.congress.gov/search/bio/L000600"
+        }
+      ],
+      "sources": [
+        "https://langworthy.house.gov/contact",
+        "https://github.com/unitedstates/congress-legislators",
+        "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+        "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+      ],
+      "researchNotes": "Site lists Elmira (203 Lake St, PO Box 588, phone 607-377-3130) instead of base.json's Corning (89 W. Market St, same phone); Corning dropped, lat/long null for Elmira. The scheduling request URL is for appearances.",
+      "verifiedAt": "2026-10-19"
+    },
+    {
+      "slug": "claudia-tenney",
+      "bioguide": "T000478",
+      "name": "Claudia Tenney",
+      "fullName": "Claudia Tenney",
+      "level": "federal",
+      "chamber": "us_house",
+      "title": "U.S. Representative, NY-24",
+      "district": 24,
+      "party": "Republican",
+      "websiteUrl": "https://tenney.house.gov",
+      "photoUrl": "https://unitedstates.github.io/images/congress/225x275/T000478.jpg",
+      "statusNote": null,
+      "jurisdiction": {
+        "key": "NY-24",
+        "name": "New York's 24th congressional district",
+        "type": "congressional_district",
+        "geoid": "3624",
+        "landAreaSqMi": 7088.5,
+        "population": 776971,
+        "areaSource": "Land area (AREALAND), U.S. Census Bureau TIGERweb, 119th Congressional Districts",
+        "populationSource": "2020 Census ideal district population (20,201,249 / 26). NY's 2024 plan has districts within one person of this",
+        "sources": [
+          "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+          "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+        ]
+      },
+      "offices": [
+        {
+          "slug": "oswego",
+          "name": "Oswego",
+          "kind": "district",
+          "address": "46 E Bridge Street",
+          "suite": "Suite 102",
+          "city": "Oswego",
+          "state": "NY",
+          "zip": "13126",
+          "phone": "315-236-7088",
+          "hours": "Mon-Fri 9-5",
+          "latitude": 43.4575811,
+          "longitude": -76.50610979999999
+        },
+        {
+          "slug": "watertown",
+          "name": "Watertown",
+          "kind": "satellite",
+          "address": "317 Washington Street",
+          "suite": "Suite 418",
+          "city": "Watertown",
+          "state": "NY",
+          "zip": "13601",
+          "phone": null,
+          "hours": "Tuesday 9-1, appointments when available",
+          "latitude": 43.9716937,
+          "longitude": -75.9104875
+        },
+        {
+          "slug": "lockport",
+          "name": "Lockport",
+          "kind": "district",
+          "address": "169 Niagara Street",
+          "suite": null,
+          "city": "Lockport",
+          "state": "NY",
+          "zip": "14094",
+          "phone": "716-514-5130",
+          "hours": "Mon-Fri 9-5",
+          "latitude": 43.1702744,
+          "longitude": -78.7007964
+        },
+        {
+          "slug": "canandaigua",
+          "name": "Canandaigua",
+          "kind": "district",
+          "address": "2375 Rochester Road",
+          "suite": "Suite 250",
+          "city": "Canandaigua",
+          "state": "NY",
+          "zip": "14424",
+          "phone": "585-869-2060",
+          "hours": "Mon-Fri 9-5",
+          "latitude": 42.9162118,
+          "longitude": -77.3054724
+        },
+        {
+          "slug": "washington-dc",
+          "name": "Washington, DC",
+          "kind": "capitol",
+          "address": "2230 Rayburn House Office Building Washington DC 20515-3224",
+          "suite": null,
+          "city": null,
+          "state": null,
+          "zip": null,
+          "phone": "202-225-3665",
+          "hours": null,
+          "latitude": null,
+          "longitude": null
+        }
+      ],
+      "contact": {
+        "emailPublic": null,
+        "webformUrl": "https://tenney.house.gov/contact",
+        "webformRequiresZip": true,
+        "phone": true,
+        "meetingRequestUrl": "https://tenney.house.gov/services/meeting-request",
+        "inPerson": true,
+        "inPersonNotes": "Offices open Mon-Fri 9-5; Watertown satellite Tuesdays by appointment",
+        "mobileOfficeHours": null,
+        "caseworkUrl": "https://tenney.house.gov/services/help-federal-agency"
+      },
+      "schedule": {
+        "publishesDailySchedule": false,
+        "scheduleUrl": null,
+        "notes": "No public daily schedule found on site.",
+        "recentMeetings": []
+      },
+      "scorecards": [
+        {
+          "org": "GovTrack",
+          "title": "Report cards, ideology and leadership scores",
+          "url": "https://www.govtrack.us/congress/members/412720"
+        },
+        {
+          "org": "Vote Smart",
+          "title": "Interest group ratings (aggregated)",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/127668"
+        },
+        {
+          "org": "OpenSecrets",
+          "title": "Campaign finance and lobbying",
+          "url": "https://www.opensecrets.org/members-of-congress/summary?cid=N00036351"
+        },
+        {
+          "org": "Ballotpedia",
+          "title": "Profile, elections and key votes",
+          "url": "https://ballotpedia.org/Claudia_Tenney"
+        },
+        {
+          "org": "Biographical Directory of Congress",
+          "title": "Official biography",
+          "url": "https://bioguide.congress.gov/search/bio/T000478"
+        }
+      ],
+      "sources": [
+        "https://tenney.house.gov/contact",
+        "https://github.com/unitedstates/congress-legislators",
+        "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+        "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+      ],
+      "researchNotes": "All four offices confirmed. Watertown has no listed phone. Also has request-an-appearance at https://tenney.house.gov/contact/request-an-appearance.",
+      "verifiedAt": "2026-10-19"
+    },
+    {
+      "slug": "joe-morelle",
+      "bioguide": "M001206",
+      "name": "Joe Morelle",
+      "fullName": "Joseph D. Morelle",
+      "level": "federal",
+      "chamber": "us_house",
+      "title": "U.S. Representative, NY-25",
+      "district": 25,
+      "party": "Democrat",
+      "websiteUrl": "https://morelle.house.gov",
+      "photoUrl": "https://unitedstates.github.io/images/congress/225x275/M001206.jpg",
+      "statusNote": null,
+      "jurisdiction": {
+        "key": "NY-25",
+        "name": "New York's 25th congressional district",
+        "type": "congressional_district",
+        "geoid": "3625",
+        "landAreaSqMi": 707.7,
+        "population": 776971,
+        "areaSource": "Land area (AREALAND), U.S. Census Bureau TIGERweb, 119th Congressional Districts",
+        "populationSource": "2020 Census ideal district population (20,201,249 / 26). NY's 2024 plan has districts within one person of this",
+        "sources": [
+          "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+          "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+        ]
+      },
+      "offices": [
+        {
+          "slug": "rochester",
+          "name": "Rochester",
+          "kind": "district",
+          "address": "255 East Ave.",
+          "suite": "Suite 150",
+          "city": "Rochester",
+          "state": "NY",
+          "zip": "14604",
+          "phone": "585-232-4850",
+          "hours": null,
+          "latitude": 43.1556322,
+          "longitude": -77.5982307
+        },
+        {
+          "slug": "washington-dc",
+          "name": "Washington, DC",
+          "kind": "capitol",
+          "address": "570 Cannon House Office Building Washington DC 20515-3225",
+          "suite": null,
+          "city": null,
+          "state": null,
+          "zip": null,
+          "phone": "202-225-3615",
+          "hours": null,
+          "latitude": null,
+          "longitude": null
+        }
+      ],
+      "contact": {
+        "emailPublic": null,
+        "webformUrl": "https://morelleforms.house.gov/contact/?form=/contact/email-me",
+        "webformRequiresZip": null,
+        "phone": true,
+        "meetingRequestUrl": "https://morelleforms.house.gov/forms/meetingrequest/",
+        "inPerson": true,
+        "inPersonNotes": "District offices; walk-in/appointment policy not stated on site",
+        "mobileOfficeHours": null,
+        "caseworkUrl": "https://morelle.house.gov/services/help-federal-agency"
+      },
+      "schedule": {
+        "publishesDailySchedule": false,
+        "scheduleUrl": null,
+        "notes": "No public daily schedule found on site.",
+        "recentMeetings": []
+      },
+      "scorecards": [
+        {
+          "org": "GovTrack",
+          "title": "Report cards, ideology and leadership scores",
+          "url": "https://www.govtrack.us/congress/members/412749"
+        },
+        {
+          "org": "Vote Smart",
+          "title": "Interest group ratings (aggregated)",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/4362"
+        },
+        {
+          "org": "OpenSecrets",
+          "title": "Campaign finance and lobbying",
+          "url": "https://www.opensecrets.org/members-of-congress/summary?cid=N00043207"
+        },
+        {
+          "org": "Ballotpedia",
+          "title": "Profile, elections and key votes",
+          "url": "https://ballotpedia.org/Joseph_Morelle"
+        },
+        {
+          "org": "Biographical Directory of Congress",
+          "title": "Official biography",
+          "url": "https://bioguide.congress.gov/search/bio/M001206"
+        }
+      ],
+      "sources": [
+        "https://morelle.house.gov/contact",
+        "https://morelle.house.gov/contact/offices",
+        "https://github.com/unitedstates/congress-legislators",
+        "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+        "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+      ],
+      "researchNotes": "Single Rochester office confirmed. Hours not listed. Base.json fax 771-200-5554 appears on site too.",
+      "verifiedAt": "2026-10-19"
+    },
+    {
+      "slug": "tim-kennedy",
+      "bioguide": "K000402",
+      "name": "Tim Kennedy",
+      "fullName": "Timothy M. Kennedy",
+      "level": "federal",
+      "chamber": "us_house",
+      "title": "U.S. Representative, NY-26",
+      "district": 26,
+      "party": "Democrat",
+      "websiteUrl": "https://kennedy.house.gov",
+      "photoUrl": "https://unitedstates.github.io/images/congress/225x275/K000402.jpg",
+      "statusNote": null,
+      "jurisdiction": {
+        "key": "NY-26",
+        "name": "New York's 26th congressional district",
+        "type": "congressional_district",
+        "geoid": "3626",
+        "landAreaSqMi": 261.4,
+        "population": 776971,
+        "areaSource": "Land area (AREALAND), U.S. Census Bureau TIGERweb, 119th Congressional Districts",
+        "populationSource": "2020 Census ideal district population (20,201,249 / 26). NY's 2024 plan has districts within one person of this",
+        "sources": [
+          "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+          "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+        ]
+      },
+      "offices": [
+        {
+          "slug": "buffalo",
+          "name": "Buffalo",
+          "kind": "district",
+          "address": "726 Exchange Street",
+          "suite": "Suite 601",
+          "city": "Buffalo",
+          "state": "NY",
+          "zip": "14210",
+          "phone": "716-852-3501",
+          "hours": "Mon-Fri 9-5",
+          "latitude": 42.8746006,
+          "longitude": -78.8495612
+        },
+        {
+          "slug": "niagara-falls",
+          "name": "Niagara Falls",
+          "kind": "district",
+          "address": "800 Main Street",
+          "suite": "Suite 3C",
+          "city": "Niagara Falls",
+          "state": "NY",
+          "zip": "14301",
+          "phone": "716-282-1274",
+          "hours": "Mon and Fri 9-5",
+          "latitude": 43.0967124,
+          "longitude": -79.0554131
+        },
+        {
+          "slug": "washington-dc",
+          "name": "Washington, DC",
+          "kind": "capitol",
+          "address": "423 Cannon House Office Building Washington DC 20515-3226",
+          "suite": null,
+          "city": null,
+          "state": null,
+          "zip": null,
+          "phone": "202-225-3306",
+          "hours": null,
+          "latitude": null,
+          "longitude": null
+        }
+      ],
+      "contact": {
+        "emailPublic": null,
+        "webformUrl": "https://kennedy.house.gov/contact",
+        "webformRequiresZip": true,
+        "phone": true,
+        "meetingRequestUrl": "https://kennedy.house.gov/forms/meetingrequest",
+        "inPerson": true,
+        "inPersonNotes": "District offices open; telephone town halls and district events held",
+        "mobileOfficeHours": null,
+        "caseworkUrl": "https://kennedy.house.gov/forms/casework"
+      },
+      "schedule": {
+        "publishesDailySchedule": false,
+        "scheduleUrl": "https://kennedy.house.gov/calendar",
+        "notes": "Public calendar page exists but is an events calendar with only two entries (Mar 2025 telephone town hall; Oct 2024 Service Academy Night); not a daily meeting schedule.",
+        "recentMeetings": []
+      },
+      "scorecards": [
+        {
+          "org": "GovTrack",
+          "title": "Report cards, ideology and leadership scores",
+          "url": "https://www.govtrack.us/congress/members/456957"
+        },
+        {
+          "org": "Vote Smart",
+          "title": "Interest group ratings (aggregated)",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/91670"
+        },
+        {
+          "org": "OpenSecrets",
+          "title": "Campaign finance and lobbying",
+          "url": "https://www.opensecrets.org/members-of-congress/summary?cid=N00054366"
+        },
+        {
+          "org": "Ballotpedia",
+          "title": "Profile, elections and key votes",
+          "url": "https://ballotpedia.org/Timothy_M._Kennedy"
+        },
+        {
+          "org": "Biographical Directory of Congress",
+          "title": "Official biography",
+          "url": "https://bioguide.congress.gov/search/bio/K000402"
+        }
+      ],
+      "sources": [
+        "https://kennedy.house.gov/contact",
+        "https://kennedy.house.gov/calendar",
+        "https://github.com/unitedstates/congress-legislators",
+        "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+        "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+      ],
+      "researchNotes": "Offices confirmed. Casework also at https://kennedy.house.gov/services/help-federal-agency.htm.",
+      "verifiedAt": "2026-10-19"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+ "bioguide": "S001201",
+ "name": "Thomas R. Suozzi",
+ "verified_at": "2026-10-19",
+ "offices": [
+  {
+   "name": "Douglaston",
+   "address": "242-09 Northern Boulevard",
+   "suite": null,
+   "city": "Douglaston",
+   "zip": "11363",
+   "phone": "718-631-0400",
+   "hours": "Mon, Wed, Fri 9:00am-5:30pm",
+   "kind": "district",
+   "latitude": 40.7656722,
+   "longitude": -73.7440153
+  },
+  {
+   "name": "Glen Cove",
+   "address": "51 Glen Street",
+   "suite": "Second Floor",
+   "city": "Glen Cove",
+   "zip": "11542",
+   "phone": "516-861-1070",
+   "hours": "Mon-Fri 9:00am-5:30pm",
+   "kind": "district",
+   "latitude": 40.86402700000001,
+   "longitude": -73.62938299999999
+  }
+ ],
+ "contact": {
+  "email_public": null,
+  "webform_url": "https://suozzi.house.gov/contact",
+  "webform_requires_zip_verification": null,
+  "phone": true,
+  "meeting_request_url": "https://suozzi.house.gov/contact/request-an-appearance",
+  "in_person": true,
+  "in_person_notes": "Offices have posted weekday hours; walk-in policy not stated.",
+  "mobile_office_hours": null,
+  "casework_url": "https://suozzi.house.gov/services/help-federal-agency"
+ },
+ "schedule": {
+  "publishes_daily_schedule": null,
+  "schedule_url": null,
+  "notes": "No public/daily schedule page found linked from the member's contact/help pages; could not exhaustively verify (no dedicated search of the site). ",
+  "recent_meetings": []
+ },
+ "scorecards_extra": [],
+ "sources": [
+  "https://suozzi.house.gov/contact"
+ ],
+ "notes": "Still in office status not independently confirmed by a dedicated source; official website live and listing offices as of fetch. Site lists Glen Cove hours as Mon-Fri 9-5:30 (base.json said 9-5); used site."
+}

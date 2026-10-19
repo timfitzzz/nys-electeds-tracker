@@ -1,0 +1,66 @@
+{
+ "bioguide": "R000622",
+ "name": "Josh Riley",
+ "verified_at": "2026-10-19",
+ "offices": [
+  {
+   "name": "Binghamton",
+   "address": "49 Court St",
+   "suite": "Suite 210",
+   "city": "Binghamton",
+   "zip": "13901",
+   "phone": "607-242-0200",
+   "hours": null,
+   "kind": "district",
+   "latitude": 42.0989488,
+   "longitude": -75.9155213
+  },
+  {
+   "name": "Leeds",
+   "address": "49 Gilfeather Park Rd",
+   "suite": "Unit 1",
+   "city": "Leeds",
+   "zip": "12451",
+   "phone": "518-625-2100",
+   "hours": "By appointment",
+   "kind": "district",
+   "latitude": 42.2548652,
+   "longitude": -73.9051562
+  },
+  {
+   "name": "Delhi",
+   "address": "74 Main Street",
+   "suite": "Suite E",
+   "city": "Delhi",
+   "zip": "13753",
+   "phone": "607-242-0201",
+   "hours": "By appointment only",
+   "kind": "district",
+   "latitude": null,
+   "longitude": null
+  }
+ ],
+ "contact": {
+  "email_public": null,
+  "webform_url": "https://riley.house.gov/contact/email-josh/",
+  "webform_requires_zip_verification": null,
+  "phone": true,
+  "meeting_request_url": "https://riley.house.gov/contact/contact-request-an-appearance/",
+  "in_person": true,
+  "in_person_notes": "Mobile office hours held across district; Leeds and Delhi by appointment.",
+  "mobile_office_hours": true,
+  "casework_url": "https://riley.house.gov/services/help-with-federal-agency/"
+ },
+ "schedule": {
+  "publishes_daily_schedule": false,
+  "schedule_url": null,
+  "notes": "No public daily schedule page found on the contact page; not exhaustively searched. Events page lists mobile office hours (Feb 2026 dates seen): https://riley.house.gov/contact/events/",
+  "recent_meetings": []
+ },
+ "scorecards_extra": [],
+ "sources": [
+  "https://riley.house.gov/contact",
+  "https://riley.house.gov/contact/events/"
+ ],
+ "notes": "Delhi office is new vs base.json. Request-an-appearance form is the closest to a meeting request. Member serving as of fetch; all seven listed as current NY representatives (not independently checked for post-2026-primary changes). Fetched via WebFetch of house.gov pages; webform ZIP requirement null unless stated."
+}

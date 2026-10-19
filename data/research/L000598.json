@@ -1,0 +1,54 @@
+{
+ "bioguide": "L000598",
+ "name": "Nick LaLota",
+ "verified_at": "2026-10-19",
+ "offices": [
+  {
+   "name": "Rocky Point",
+   "address": "109 King Road",
+   "suite": null,
+   "city": "Rocky Point",
+   "zip": "11778",
+   "phone": "631-289-1097",
+   "hours": "Thu 1:00pm-5:00pm",
+   "kind": "mobile",
+   "latitude": 40.9503111,
+   "longitude": -72.92281419999999
+  },
+  {
+   "name": "Hauppauge",
+   "address": "515 Hauppauge Road",
+   "suite": "Suite 3B",
+   "city": "Hauppauge",
+   "zip": "11788",
+   "phone": "631-289-1097",
+   "hours": null,
+   "kind": "district",
+   "latitude": 40.8279143,
+   "longitude": -73.1980726
+  }
+ ],
+ "contact": {
+  "email_public": null,
+  "webform_url": "https://lalota.house.gov/contact",
+  "webform_requires_zip_verification": true,
+  "phone": true,
+  "meeting_request_url": "https://lalota.house.gov/contact/request-an-appearance",
+  "in_person": true,
+  "in_person_notes": "Rocky Point VFW post hosts mobile office hours Thursdays 1-5pm (not an active mailbox); Hauppauge walk-in policy not published.",
+  "mobile_office_hours": true,
+  "casework_url": "https://lalota.house.gov/services/help-federal-agency"
+ },
+ "schedule": {
+  "publishes_daily_schedule": null,
+  "schedule_url": null,
+  "notes": "No public/daily schedule page found linked from the member's contact/help pages; could not exhaustively verify (no dedicated search of the site). ",
+  "recent_meetings": []
+ },
+ "scorecards_extra": [],
+ "sources": [
+  "https://lalota.house.gov/contact",
+  "https://lalota.house.gov/contact/offices/hauppauge-district-office"
+ ],
+ "notes": "Still in office status not independently confirmed by a dedicated source; official website live and listing offices as of fetch. Rocky Point is labeled Mobile Office Hours on the site (kept as kind=mobile). Hours not listed on office page. Form uses USPS address lookup to verify district."
+}

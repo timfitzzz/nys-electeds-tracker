@@ -1,0 +1,54 @@
+{
+ "bioguide": "J000294",
+ "name": "Hakeem S. Jeffries",
+ "verified_at": "2026-10-19",
+ "offices": [
+  {
+   "name": "South Brooklyn (Neptune Ave)",
+   "address": "445 Neptune Ave",
+   "suite": "1st Floor, Community Room 2C",
+   "city": "Brooklyn",
+   "zip": "11224",
+   "phone": "718-373-0033",
+   "hours": "Mon–Fri 9am–5pm",
+   "kind": "district",
+   "latitude": 40.5809199,
+   "longitude": -73.9696891
+  },
+  {
+   "name": "Central Brooklyn (Hanson Place)",
+   "address": "55 Hanson Pl.",
+   "suite": "Suite 603",
+   "city": "Brooklyn",
+   "zip": "11217",
+   "phone": "718-237-2211",
+   "hours": "Mon–Fri 9am–5pm",
+   "kind": "district",
+   "latitude": 40.6856283,
+   "longitude": -73.97577559999999
+  }
+ ],
+ "contact": {
+  "email_public": null,
+  "webform_url": "https://jeffriesforms.house.gov/contact/",
+  "webform_requires_zip_verification": null,
+  "phone": true,
+  "meeting_request_url": "https://jeffries.house.gov/contact/request-a-meeting/",
+  "in_person": true,
+  "in_person_notes": "Two district offices M-F 9-5; 'Congress on Your Corner' neighborhood events in 2026 (Spring Creek, Coney Island, Canarsie, Brighton Beach, Brownsville) and frequent telephone town halls.",
+  "mobile_office_hours": null,
+  "casework_url": "https://jeffries.house.gov/serving-you/help-with-a-federal-agency/"
+ },
+ "schedule": {
+  "publishes_daily_schedule": false,
+  "schedule_url": null,
+  "notes": "Events page (https://jeffries.house.gov/events/) lists town halls and Congress on Your Corner events but no daily schedule. Town halls: telephone town hall 2026-07-06, virtual town hall 2026-01-16 (Haiti TPS), plus several in 2025.",
+  "recent_meetings": []
+ },
+ "scorecards_extra": [],
+ "sources": [
+  "https://jeffries.house.gov/contact",
+  "https://jeffries.house.gov/events/"
+ ],
+ "notes": "Fetched via WebFetch. Jeffries is House Democratic Leader; non-NY-8 residents are directed to democraticleader.house.gov/contact. Casework only for NY-8 residents. 'Congress on Your Corner' events are community events, not confirmed to be staff mobile office hours (mobile_office_hours left null). Still in office per site content."
+}

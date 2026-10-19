@@ -1,0 +1,42 @@
+{
+ "bioguide": "G000597",
+ "name": "Andrew R. Garbarino",
+ "verified_at": "2026-10-19",
+ "offices": [
+  {
+   "name": "Patchogue",
+   "address": "31 Oak Street",
+   "suite": "Suite 20",
+   "city": "Patchogue",
+   "zip": "11772",
+   "phone": "631-541-4225",
+   "hours": null,
+   "kind": "district",
+   "latitude": 40.7671637,
+   "longitude": -73.0138226
+  }
+ ],
+ "contact": {
+  "email_public": null,
+  "webform_url": "https://garbarino.house.gov/contact",
+  "webform_requires_zip_verification": true,
+  "phone": true,
+  "meeting_request_url": "https://garbarino.house.gov/contact/Meeting-Request",
+  "in_person": null,
+  "in_person_notes": "Walk-in/appointment policy not published.",
+  "mobile_office_hours": null,
+  "casework_url": "https://garbarino.house.gov/services/help-federal-agency"
+ },
+ "schedule": {
+  "publishes_daily_schedule": null,
+  "schedule_url": null,
+  "notes": "No public/daily schedule page found linked from the member's contact/help pages; could not exhaustively verify (no dedicated search of the site). ",
+  "recent_meetings": []
+ },
+ "scorecards_extra": [],
+ "sources": [
+  "https://garbarino.house.gov/contact",
+  "https://garbarino.house.gov/contact/offices"
+ ],
+ "notes": "Still in office status not independently confirmed by a dedicated source; official website live and listing offices as of fetch. Only the Patchogue district office is listed; no Bay Shore or mobile office on site. Hours not listed on office page."
+}

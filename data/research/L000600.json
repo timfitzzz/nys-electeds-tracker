@@ -1,0 +1,76 @@
+{
+ "bioguide": "L000600",
+ "name": "Nick Langworthy",
+ "verified_at": "2026-10-19",
+ "offices": [
+  {
+   "name": "Clarence (Williamsville)",
+   "address": "8201 Main Street",
+   "suite": "Suite 13",
+   "city": "Williamsville",
+   "zip": "14221",
+   "phone": "716-547-6844",
+   "hours": null,
+   "kind": "district",
+   "latitude": 42.9633987,
+   "longitude": -78.6889872
+  },
+  {
+   "name": "Jamestown",
+   "address": "The Fenton Building, 2-6 East Second Street",
+   "suite": "Room 208",
+   "city": "Jamestown",
+   "zip": "14701",
+   "phone": "716-488-8111",
+   "hours": null,
+   "kind": "district",
+   "latitude": 42.0949119,
+   "longitude": -79.24172089999999
+  },
+  {
+   "name": "Olean",
+   "address": "1 Bluebird Square",
+   "suite": null,
+   "city": "Olean",
+   "zip": "14760",
+   "phone": "585-543-5033",
+   "hours": null,
+   "kind": "district",
+   "latitude": 42.0788828,
+   "longitude": -78.4306347
+  },
+  {
+   "name": "Elmira",
+   "address": "203 Lake St., 1st Floor (P.O. Box 588)",
+   "suite": null,
+   "city": "Elmira",
+   "zip": "14902",
+   "phone": "607-377-3130",
+   "hours": null,
+   "kind": "district",
+   "latitude": null,
+   "longitude": null
+  }
+ ],
+ "contact": {
+  "email_public": null,
+  "webform_url": "https://langworthy.house.gov/contact",
+  "webform_requires_zip_verification": null,
+  "phone": true,
+  "meeting_request_url": "https://langworthy.house.gov/contact/request-an-appearance",
+  "in_person": true,
+  "in_person_notes": "District offices; walk-in/appointment policy not stated on site",
+  "mobile_office_hours": null,
+  "casework_url": "https://langworthy.house.gov/services/help-federal-agency"
+ },
+ "schedule": {
+  "publishes_daily_schedule": false,
+  "schedule_url": null,
+  "notes": "No public daily schedule found on site."
+ },
+ "scorecards_extra": [],
+ "sources": [
+  "https://langworthy.house.gov/contact"
+ ],
+ "notes": "Site lists Elmira (203 Lake St, PO Box 588, phone 607-377-3130) instead of base.json's Corning (89 W. Market St, same phone); Corning dropped, lat/long null for Elmira. The scheduling request URL is for appearances."
+}

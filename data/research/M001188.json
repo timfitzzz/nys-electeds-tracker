@@ -1,0 +1,55 @@
+{
+ "bioguide": "M001188",
+ "name": "Grace Meng",
+ "verified_at": "2026-10-19",
+ "offices": [
+  {
+   "name": "Flushing",
+   "address": "40-13 159th St.",
+   "suite": "Suite A",
+   "city": "Flushing",
+   "zip": "11358",
+   "phone": "718-358-6364",
+   "hours": null,
+   "kind": "district",
+   "latitude": 40.76260720000001,
+   "longitude": -73.8062197
+  },
+  {
+   "name": "Forest Hills",
+   "address": "118-35 Queens Blvd",
+   "suite": "Suite 900",
+   "city": "Forest Hills",
+   "zip": "11375",
+   "phone": null,
+   "hours": "By appointment only",
+   "kind": "district",
+   "latitude": 40.7148753,
+   "longitude": -73.83085919999999
+  }
+ ],
+ "contact": {
+  "email_public": null,
+  "webform_url": "https://meng.house.gov/contact",
+  "webform_requires_zip_verification": null,
+  "phone": true,
+  "meeting_request_url": "https://meng.house.gov/contact/scheduling-request",
+  "in_person": true,
+  "in_person_notes": "Flushing office listed with phone; Forest Hills office listed as by appointment only. Scheduling request form is for appearances/events.",
+  "mobile_office_hours": null,
+  "casework_url": "https://meng.house.gov/services/help-federal-agency"
+ },
+ "schedule": {
+  "publishes_daily_schedule": false,
+  "schedule_url": null,
+  "notes": "No public daily schedule found on contact page; not checked beyond that.",
+  "recent_meetings": []
+ },
+ "scorecards_extra": [],
+ "sources": [
+  "https://meng.house.gov/contact/offices",
+  "https://meng.house.gov/contact/scheduling-request",
+  "https://meng.house.gov/services/help-federal-agency"
+ ],
+ "notes": "Fetched official site pages via WebFetch (curl blocked by proxy). Office hours are generally not published on the site. Webform ZIP verification not confirmed. Forest Hills office has no phone listed on site. Still in office as of Oct 2026 (no contrary evidence found; not independently confirmed)."
+}

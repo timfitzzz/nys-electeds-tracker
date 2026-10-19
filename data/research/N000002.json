@@ -1,0 +1,43 @@
+{
+ "bioguide": "N000002",
+ "name": "Jerrold Nadler",
+ "verified_at": "2026-10-19",
+ "offices": [
+  {
+   "name": "Manhattan",
+   "address": "201 Varick St.",
+   "suite": "Suite 669",
+   "city": "New York",
+   "zip": "10014",
+   "phone": "212-367-7350",
+   "hours": null,
+   "kind": "district",
+   "latitude": 40.7283398,
+   "longitude": -74.00622109999999
+  }
+ ],
+ "contact": {
+  "email_public": null,
+  "webform_url": "https://nadler.house.gov/contact",
+  "webform_requires_zip_verification": true,
+  "phone": true,
+  "meeting_request_url": null,
+  "in_person": true,
+  "in_person_notes": "Single Manhattan office; hours not published; no meeting request process listed.",
+  "mobile_office_hours": null,
+  "casework_url": "https://nadler.house.gov/serving-you/casework/casework-zip-authentication.htm"
+ },
+ "schedule": {
+  "publishes_daily_schedule": false,
+  "schedule_url": null,
+  "notes": "No schedule listed.",
+  "recent_meetings": []
+ },
+ "scorecards_extra": [],
+ "sources": [
+  "https://nadler.house.gov/contact",
+  "https://www.notus.org/new-york/jerry-nadler-retirement",
+  "https://news.ballotpedia.org/?p=43081"
+ ],
+ "notes": "Nadler announced Sept 2, 2025 he will not seek reelection in 2026; remains in office until Jan 2027. Fetched official site pages via WebFetch (curl blocked by proxy). Office hours are generally not published on the site. Webform requires name + ZIP; non-residents are redirected."
+}

@@ -1,0 +1,56 @@
+{
+ "bioguide": "G000599",
+ "name": "Daniel S. Goldman",
+ "verified_at": "2026-10-19",
+ "offices": [
+  {
+   "name": "Manhattan",
+   "address": "290 Broadway",
+   "suite": "Suite 291",
+   "city": "New York",
+   "zip": "10007",
+   "phone": "212-822-7878",
+   "hours": null,
+   "kind": "district",
+   "latitude": 40.71506309999999,
+   "longitude": -74.0053199
+  },
+  {
+   "name": "Brooklyn (Industry City)",
+   "address": "254 36 Street",
+   "suite": "B-329",
+   "city": "Brooklyn",
+   "zip": "11232",
+   "phone": "718-312-7575",
+   "hours": null,
+   "kind": "district",
+   "latitude": 40.6564675,
+   "longitude": -74.0067606
+  }
+ ],
+ "contact": {
+  "email_public": null,
+  "webform_url": "https://goldman.house.gov/contact",
+  "webform_requires_zip_verification": null,
+  "phone": true,
+  "meeting_request_url": "https://goldman.house.gov/contact/submit-scheduling-request",
+  "in_person": true,
+  "in_person_notes": "Two district offices; hours not published; town halls held (Sept 2025 virtual).",
+  "mobile_office_hours": null,
+  "casework_url": "https://goldman.house.gov/services/help-federal-agency"
+ },
+ "schedule": {
+  "publishes_daily_schedule": false,
+  "schedule_url": null,
+  "notes": "Events page https://goldman.house.gov/about/events lists past town halls only (no upcoming); no daily schedule.",
+  "recent_meetings": []
+ },
+ "scorecards_extra": [],
+ "sources": [
+  "https://goldman.house.gov/contact",
+  "https://goldman.house.gov/about/events",
+  "https://news.ballotpedia.org/2026/06/24/brad-lander-d-defeated-incumbent-daniel-goldman-d-in-the-democratic-primary-for-new-yorks-10th-congressional-district/",
+  "https://politicsny.com/2026/06/23/brad-lander-wins-democratic-nomination-in-ny-10-defeats-incumbent-dan-goldman/"
+ ],
+ "notes": "NOTABLE: Goldman LOST the June 23, 2026 Democratic primary to Brad Lander (per Ballotpedia, PoliticsNY, News12 headlines). He remains in office as a lame duck until Jan 3, 2027 unless he left early (not checked). Fetched official site pages via WebFetch (curl blocked by proxy). Office hours are generally not published on the site. "
+}
