@@ -1,0 +1,41 @@
+{
+ "bioguide": "C001067",
+ "name": "Yvette D. Clarke",
+ "verified_at": "2026-10-19",
+ "offices": [
+  {
+   "name": "Brooklyn",
+   "address": "222 Lenox Rd.",
+   "suite": "Suites 1 & 2",
+   "city": "Brooklyn",
+   "zip": "11226",
+   "phone": "718-287-1142",
+   "hours": null,
+   "kind": "district",
+   "latitude": 40.6536853,
+   "longitude": -73.9516805
+  }
+ ],
+ "contact": {
+  "email_public": null,
+  "webform_url": "https://clarke.house.gov/contact/email/",
+  "webform_requires_zip_verification": null,
+  "phone": true,
+  "meeting_request_url": "https://clarke.house.gov/services/meeting-request/",
+  "in_person": true,
+  "in_person_notes": "Single district office; hours not published.",
+  "mobile_office_hours": null,
+  "casework_url": "https://clarke.house.gov/services/correspondence-requests/"
+ },
+ "schedule": {
+  "publishes_daily_schedule": false,
+  "schedule_url": null,
+  "notes": "No schedule found.",
+  "recent_meetings": []
+ },
+ "scorecards_extra": [],
+ "sources": [
+  "https://clarke.house.gov/contact"
+ ],
+ "notes": "Fetched official site pages via WebFetch (curl blocked by proxy). Office hours are generally not published on the site. Casework_url is the closest page found (Correspondence Requests), not confirmed to be a casework intake form. Fax 718-287-1223."
+}

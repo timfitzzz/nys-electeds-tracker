@@ -1,0 +1,53 @@
+{
+ "bioguide": "M001231",
+ "name": "John Mannion",
+ "verified_at": "2026-10-19",
+ "offices": [
+  {
+   "name": "Syracuse",
+   "address": "440 South Warren Street",
+   "suite": "Suite 706",
+   "city": "Syracuse",
+   "zip": "13202",
+   "phone": "315-233-4333",
+   "hours": null,
+   "kind": "district",
+   "latitude": 43.0460543,
+   "longitude": -76.1543099
+  },
+  {
+   "name": "Utica",
+   "address": "207 Genesee Street",
+   "suite": "Suite 405",
+   "city": "Utica",
+   "zip": "13501",
+   "phone": "315-732-0713",
+   "hours": null,
+   "kind": "district",
+   "latitude": null,
+   "longitude": null
+  }
+ ],
+ "contact": {
+  "email_public": null,
+  "webform_url": "https://mannion.house.gov/contact/email-me",
+  "webform_requires_zip_verification": null,
+  "phone": true,
+  "meeting_request_url": "https://mannion.house.gov/contact/meeting-request",
+  "in_person": true,
+  "in_person_notes": "District offices; walk-in/appointment policy not stated on site",
+  "mobile_office_hours": null,
+  "casework_url": "https://mannion.house.gov/services/help-federal-agency"
+ },
+ "schedule": {
+  "publishes_daily_schedule": false,
+  "schedule_url": null,
+  "notes": "Events page (https://mannion.house.gov/about/events) lists events the member hosts; not a daily schedule."
+ },
+ "scorecards_extra": [],
+ "sources": [
+  "https://mannion.house.gov/contact",
+  "https://mannion.house.gov/contact/office-locations"
+ ],
+ "notes": "Utica office is new vs base.json (lat/long null). Hours not listed on site."
+}

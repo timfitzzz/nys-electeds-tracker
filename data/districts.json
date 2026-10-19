@@ -1,0 +1,353 @@
+{
+ "NY": {
+  "name": "New York State",
+  "type": "state",
+  "geoid": "36",
+  "landAreaSqMi": 47123.5,
+  "population": 20201249,
+  "areaSource": "Sum of the 26 congressional district land areas, U.S. Census Bureau TIGERweb (119th Congress)",
+  "populationSource": "2020 Census resident population (P.L. 94-171)",
+  "sources": [
+   "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+   "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+  ]
+ },
+ "NY-1": {
+  "name": "New York's 1st congressional district",
+  "type": "congressional_district",
+  "geoid": "3601",
+  "landAreaSqMi": 663.5,
+  "population": 776971,
+  "areaSource": "Land area (AREALAND), U.S. Census Bureau TIGERweb, 119th Congressional Districts",
+  "populationSource": "2020 Census ideal district population (20,201,249 / 26). NY's 2024 plan has districts within one person of this",
+  "sources": [
+   "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+   "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+  ]
+ },
+ "NY-2": {
+  "name": "New York's 2nd congressional district",
+  "type": "congressional_district",
+  "geoid": "3602",
+  "landAreaSqMi": 238.6,
+  "population": 776971,
+  "areaSource": "Land area (AREALAND), U.S. Census Bureau TIGERweb, 119th Congressional Districts",
+  "populationSource": "2020 Census ideal district population (20,201,249 / 26). NY's 2024 plan has districts within one person of this",
+  "sources": [
+   "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+   "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+  ]
+ },
+ "NY-3": {
+  "name": "New York's 3rd congressional district",
+  "type": "congressional_district",
+  "geoid": "3603",
+  "landAreaSqMi": 192.8,
+  "population": 776971,
+  "areaSource": "Land area (AREALAND), U.S. Census Bureau TIGERweb, 119th Congressional Districts",
+  "populationSource": "2020 Census ideal district population (20,201,249 / 26). NY's 2024 plan has districts within one person of this",
+  "sources": [
+   "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+   "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+  ]
+ },
+ "NY-4": {
+  "name": "New York's 4th congressional district",
+  "type": "congressional_district",
+  "geoid": "3604",
+  "landAreaSqMi": 114.1,
+  "population": 776971,
+  "areaSource": "Land area (AREALAND), U.S. Census Bureau TIGERweb, 119th Congressional Districts",
+  "populationSource": "2020 Census ideal district population (20,201,249 / 26). NY's 2024 plan has districts within one person of this",
+  "sources": [
+   "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+   "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+  ]
+ },
+ "NY-5": {
+  "name": "New York's 5th congressional district",
+  "type": "congressional_district",
+  "geoid": "3605",
+  "landAreaSqMi": 47.1,
+  "population": 776971,
+  "areaSource": "Land area (AREALAND), U.S. Census Bureau TIGERweb, 119th Congressional Districts",
+  "populationSource": "2020 Census ideal district population (20,201,249 / 26). NY's 2024 plan has districts within one person of this",
+  "sources": [
+   "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+   "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+  ]
+ },
+ "NY-6": {
+  "name": "New York's 6th congressional district",
+  "type": "congressional_district",
+  "geoid": "3606",
+  "landAreaSqMi": 25.8,
+  "population": 776971,
+  "areaSource": "Land area (AREALAND), U.S. Census Bureau TIGERweb, 119th Congressional Districts",
+  "populationSource": "2020 Census ideal district population (20,201,249 / 26). NY's 2024 plan has districts within one person of this",
+  "sources": [
+   "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+   "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+  ]
+ },
+ "NY-7": {
+  "name": "New York's 7th congressional district",
+  "type": "congressional_district",
+  "geoid": "3607",
+  "landAreaSqMi": 21.9,
+  "population": 776971,
+  "areaSource": "Land area (AREALAND), U.S. Census Bureau TIGERweb, 119th Congressional Districts",
+  "populationSource": "2020 Census ideal district population (20,201,249 / 26). NY's 2024 plan has districts within one person of this",
+  "sources": [
+   "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+   "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+  ]
+ },
+ "NY-8": {
+  "name": "New York's 8th congressional district",
+  "type": "congressional_district",
+  "geoid": "3608",
+  "landAreaSqMi": 26.7,
+  "population": 776971,
+  "areaSource": "Land area (AREALAND), U.S. Census Bureau TIGERweb, 119th Congressional Districts",
+  "populationSource": "2020 Census ideal district population (20,201,249 / 26). NY's 2024 plan has districts within one person of this",
+  "sources": [
+   "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+   "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+  ]
+ },
+ "NY-9": {
+  "name": "New York's 9th congressional district",
+  "type": "congressional_district",
+  "geoid": "3609",
+  "landAreaSqMi": 15.2,
+  "population": 776971,
+  "areaSource": "Land area (AREALAND), U.S. Census Bureau TIGERweb, 119th Congressional Districts",
+  "populationSource": "2020 Census ideal district population (20,201,249 / 26). NY's 2024 plan has districts within one person of this",
+  "sources": [
+   "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+   "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+  ]
+ },
+ "NY-10": {
+  "name": "New York's 10th congressional district",
+  "type": "congressional_district",
+  "geoid": "3610",
+  "landAreaSqMi": 15.3,
+  "population": 776971,
+  "areaSource": "Land area (AREALAND), U.S. Census Bureau TIGERweb, 119th Congressional Districts",
+  "populationSource": "2020 Census ideal district population (20,201,249 / 26). NY's 2024 plan has districts within one person of this",
+  "sources": [
+   "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+   "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+  ]
+ },
+ "NY-11": {
+  "name": "New York's 11th congressional district",
+  "type": "congressional_district",
+  "geoid": "3611",
+  "landAreaSqMi": 64.2,
+  "population": 776971,
+  "areaSource": "Land area (AREALAND), U.S. Census Bureau TIGERweb, 119th Congressional Districts",
+  "populationSource": "2020 Census ideal district population (20,201,249 / 26). NY's 2024 plan has districts within one person of this",
+  "sources": [
+   "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+   "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+  ]
+ },
+ "NY-12": {
+  "name": "New York's 12th congressional district",
+  "type": "congressional_district",
+  "geoid": "3612",
+  "landAreaSqMi": 9.6,
+  "population": 776971,
+  "areaSource": "Land area (AREALAND), U.S. Census Bureau TIGERweb, 119th Congressional Districts",
+  "populationSource": "2020 Census ideal district population (20,201,249 / 26). NY's 2024 plan has districts within one person of this",
+  "sources": [
+   "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+   "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+  ]
+ },
+ "NY-13": {
+  "name": "New York's 13th congressional district",
+  "type": "congressional_district",
+  "geoid": "3613",
+  "landAreaSqMi": 11.0,
+  "population": 776971,
+  "areaSource": "Land area (AREALAND), U.S. Census Bureau TIGERweb, 119th Congressional Districts",
+  "populationSource": "2020 Census ideal district population (20,201,249 / 26). NY's 2024 plan has districts within one person of this",
+  "sources": [
+   "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+   "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+  ]
+ },
+ "NY-14": {
+  "name": "New York's 14th congressional district",
+  "type": "congressional_district",
+  "geoid": "3614",
+  "landAreaSqMi": 29.4,
+  "population": 776971,
+  "areaSource": "Land area (AREALAND), U.S. Census Bureau TIGERweb, 119th Congressional Districts",
+  "populationSource": "2020 Census ideal district population (20,201,249 / 26). NY's 2024 plan has districts within one person of this",
+  "sources": [
+   "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+   "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+  ]
+ },
+ "NY-15": {
+  "name": "New York's 15th congressional district",
+  "type": "congressional_district",
+  "geoid": "3615",
+  "landAreaSqMi": 18.6,
+  "population": 776971,
+  "areaSource": "Land area (AREALAND), U.S. Census Bureau TIGERweb, 119th Congressional Districts",
+  "populationSource": "2020 Census ideal district population (20,201,249 / 26). NY's 2024 plan has districts within one person of this",
+  "sources": [
+   "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+   "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+  ]
+ },
+ "NY-16": {
+  "name": "New York's 16th congressional district",
+  "type": "congressional_district",
+  "geoid": "3616",
+  "landAreaSqMi": 124.0,
+  "population": 776971,
+  "areaSource": "Land area (AREALAND), U.S. Census Bureau TIGERweb, 119th Congressional Districts",
+  "populationSource": "2020 Census ideal district population (20,201,249 / 26). NY's 2024 plan has districts within one person of this",
+  "sources": [
+   "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+   "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+  ]
+ },
+ "NY-17": {
+  "name": "New York's 17th congressional district",
+  "type": "congressional_district",
+  "geoid": "3617",
+  "landAreaSqMi": 824.7,
+  "population": 776971,
+  "areaSource": "Land area (AREALAND), U.S. Census Bureau TIGERweb, 119th Congressional Districts",
+  "populationSource": "2020 Census ideal district population (20,201,249 / 26). NY's 2024 plan has districts within one person of this",
+  "sources": [
+   "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+   "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+  ]
+ },
+ "NY-18": {
+  "name": "New York's 18th congressional district",
+  "type": "congressional_district",
+  "geoid": "3618",
+  "landAreaSqMi": 1862.9,
+  "population": 776971,
+  "areaSource": "Land area (AREALAND), U.S. Census Bureau TIGERweb, 119th Congressional Districts",
+  "populationSource": "2020 Census ideal district population (20,201,249 / 26). NY's 2024 plan has districts within one person of this",
+  "sources": [
+   "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+   "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+  ]
+ },
+ "NY-19": {
+  "name": "New York's 19th congressional district",
+  "type": "congressional_district",
+  "geoid": "3619",
+  "landAreaSqMi": 8225.4,
+  "population": 776971,
+  "areaSource": "Land area (AREALAND), U.S. Census Bureau TIGERweb, 119th Congressional Districts",
+  "populationSource": "2020 Census ideal district population (20,201,249 / 26). NY's 2024 plan has districts within one person of this",
+  "sources": [
+   "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+   "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+  ]
+ },
+ "NY-20": {
+  "name": "New York's 20th congressional district",
+  "type": "congressional_district",
+  "geoid": "3620",
+  "landAreaSqMi": 1366.0,
+  "population": 776971,
+  "areaSource": "Land area (AREALAND), U.S. Census Bureau TIGERweb, 119th Congressional Districts",
+  "populationSource": "2020 Census ideal district population (20,201,249 / 26). NY's 2024 plan has districts within one person of this",
+  "sources": [
+   "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+   "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+  ]
+ },
+ "NY-21": {
+  "name": "New York's 21st congressional district",
+  "type": "congressional_district",
+  "geoid": "3621",
+  "landAreaSqMi": 16288.9,
+  "population": 776971,
+  "areaSource": "Land area (AREALAND), U.S. Census Bureau TIGERweb, 119th Congressional Districts",
+  "populationSource": "2020 Census ideal district population (20,201,249 / 26). NY's 2024 plan has districts within one person of this",
+  "sources": [
+   "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+   "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+  ]
+ },
+ "NY-22": {
+  "name": "New York's 22nd congressional district",
+  "type": "congressional_district",
+  "geoid": "3622",
+  "landAreaSqMi": 2421.9,
+  "population": 776971,
+  "areaSource": "Land area (AREALAND), U.S. Census Bureau TIGERweb, 119th Congressional Districts",
+  "populationSource": "2020 Census ideal district population (20,201,249 / 26). NY's 2024 plan has districts within one person of this",
+  "sources": [
+   "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+   "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+  ]
+ },
+ "NY-23": {
+  "name": "New York's 23rd congressional district",
+  "type": "congressional_district",
+  "geoid": "3623",
+  "landAreaSqMi": 6458.2,
+  "population": 776971,
+  "areaSource": "Land area (AREALAND), U.S. Census Bureau TIGERweb, 119th Congressional Districts",
+  "populationSource": "2020 Census ideal district population (20,201,249 / 26). NY's 2024 plan has districts within one person of this",
+  "sources": [
+   "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+   "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+  ]
+ },
+ "NY-24": {
+  "name": "New York's 24th congressional district",
+  "type": "congressional_district",
+  "geoid": "3624",
+  "landAreaSqMi": 7088.5,
+  "population": 776971,
+  "areaSource": "Land area (AREALAND), U.S. Census Bureau TIGERweb, 119th Congressional Districts",
+  "populationSource": "2020 Census ideal district population (20,201,249 / 26). NY's 2024 plan has districts within one person of this",
+  "sources": [
+   "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+   "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+  ]
+ },
+ "NY-25": {
+  "name": "New York's 25th congressional district",
+  "type": "congressional_district",
+  "geoid": "3625",
+  "landAreaSqMi": 707.7,
+  "population": 776971,
+  "areaSource": "Land area (AREALAND), U.S. Census Bureau TIGERweb, 119th Congressional Districts",
+  "populationSource": "2020 Census ideal district population (20,201,249 / 26). NY's 2024 plan has districts within one person of this",
+  "sources": [
+   "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+   "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+  ]
+ },
+ "NY-26": {
+  "name": "New York's 26th congressional district",
+  "type": "congressional_district",
+  "geoid": "3626",
+  "landAreaSqMi": 261.4,
+  "population": 776971,
+  "areaSource": "Land area (AREALAND), U.S. Census Bureau TIGERweb, 119th Congressional Districts",
+  "populationSource": "2020 Census ideal district population (20,201,249 / 26). NY's 2024 plan has districts within one person of this",
+  "sources": [
+   "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/4",
+   "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+  ]
+ }
+}

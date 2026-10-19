@@ -1,0 +1,1536 @@
+[
+ {
+  "bioguide": "G000555",
+  "name": "Kirsten E. Gillibrand",
+  "first": "Kirsten",
+  "last": "Gillibrand",
+  "chamber": "senate",
+  "district": null,
+  "party": "Democrat",
+  "url": "https://www.gillibrand.senate.gov",
+  "contact_form": "https://www.gillibrand.senate.gov/contact/email-me",
+  "dc_address": "478 Russell Senate Office Building Washington DC 20510",
+  "dc_phone": "202-224-4451",
+  "ids": {
+   "govtrack": 412223,
+   "votesmart": 65147,
+   "opensecrets": "N00027658",
+   "ballotpedia": "Kirsten Gillibrand",
+   "wikipedia": "Kirsten Gillibrand",
+   "thomas": "01866",
+   "fec": [
+    "H6NY20167",
+    "S0NY00410"
+   ]
+  },
+  "offices": [
+   {
+    "id": "G000555-albany",
+    "address": "11A Clinton Avenue",
+    "suite": "Room 821",
+    "building": "Leo W. O’Brien Federal Office Building",
+    "city": "Albany",
+    "state": "NY",
+    "zip": "12207",
+    "latitude": 42.655222,
+    "longitude": -73.7492819,
+    "fax": "202-224-0038",
+    "phone": "518-431-0120"
+   },
+   {
+    "id": "G000555-buffalo",
+    "address": "726 Exchange St.",
+    "suite": "Suite 511",
+    "building": "Larkin At Exchange",
+    "city": "Buffalo",
+    "state": "NY",
+    "zip": "14210",
+    "latitude": 42.8747911,
+    "longitude": -78.851165,
+    "fax": "202-224-0039",
+    "phone": "716-854-9725"
+   },
+   {
+    "id": "G000555-lowville",
+    "address": "PO Box 273",
+    "city": "Lowville",
+    "state": "NY",
+    "zip": "13367",
+    "latitude": 43.7880969,
+    "longitude": -75.4938177,
+    "fax": "202-224-0055",
+    "phone": "315-376-6118"
+   },
+   {
+    "id": "G000555-new_york",
+    "address": "780 Third Ave.",
+    "suite": "Suite 2601",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10017",
+    "latitude": 40.7550353,
+    "longitude": -73.97185879999999,
+    "fax": "866-824-6340",
+    "phone": "212-688-6262"
+   },
+   {
+    "id": "G000555-melville",
+    "address": "155 Pinelawn Rd.",
+    "suite": "Suite 250 North",
+    "city": "Melville",
+    "state": "NY",
+    "zip": "11747",
+    "latitude": 40.7707877,
+    "longitude": -73.41024759999999,
+    "fax": "202-224-0044",
+    "phone": "631-249-2825"
+   },
+   {
+    "id": "G000555-rochester",
+    "address": "100 State St.",
+    "suite": "Room 4195",
+    "building": "Kenneth B. Keating Federal Office Building",
+    "city": "Rochester",
+    "state": "NY",
+    "zip": "14614",
+    "latitude": 43.1576631,
+    "longitude": -77.613515,
+    "fax": "202-224-0063",
+    "phone": "585-263-6250"
+   },
+   {
+    "id": "G000555-syracuse",
+    "address": "100 S. Clinton St.",
+    "suite": "Room 1470",
+    "building": "James M. Hanley Federal Building",
+    "city": "Syracuse",
+    "state": "NY",
+    "zip": "13261",
+    "latitude": 43.0501042,
+    "longitude": -76.1543204,
+    "fax": "202-224-0064",
+    "phone": "315-448-0470"
+   },
+   {
+    "id": "G000555-yonkers",
+    "address": "PO Box 749",
+    "city": "Yonkers",
+    "state": "NY",
+    "zip": "10710-0749",
+    "latitude": 40.9188505,
+    "longitude": -73.8596689,
+    "fax": "202-224-0052",
+    "phone": "845-875-4585"
+   }
+  ],
+  "nickname": null
+ },
+ {
+  "bioguide": "C001067",
+  "name": "Yvette D. Clarke",
+  "first": "Yvette",
+  "last": "Clarke",
+  "chamber": "house",
+  "district": 9,
+  "party": "Democrat",
+  "url": "https://clarke.house.gov",
+  "contact_form": null,
+  "dc_address": "2058 Rayburn House Office Building Washington DC 20515-3209",
+  "dc_phone": "202-225-6231",
+  "ids": {
+   "govtrack": 412221,
+   "votesmart": 44741,
+   "opensecrets": "N00026961",
+   "ballotpedia": "Yvette D. Clarke",
+   "wikipedia": "Yvette Clarke",
+   "thomas": "01864",
+   "fec": [
+    "H4NY11138"
+   ]
+  },
+  "offices": [
+   {
+    "id": "C001067-brooklyn",
+    "address": "222 Lenox Rd.",
+    "suite": "Suites 1 & 2",
+    "city": "Brooklyn",
+    "state": "NY",
+    "zip": "11226",
+    "latitude": 40.6536853,
+    "longitude": -73.9516805,
+    "fax": "718-287-1223",
+    "phone": "718-287-1142"
+   }
+  ],
+  "nickname": null
+ },
+ {
+  "bioguide": "M001137",
+  "name": "Gregory W. Meeks",
+  "first": "Gregory",
+  "last": "Meeks",
+  "chamber": "house",
+  "district": 5,
+  "party": "Democrat",
+  "url": "https://meeks.house.gov",
+  "contact_form": null,
+  "dc_address": "2310 Rayburn House Office Building Washington DC 20515-3205",
+  "dc_phone": "202-225-3461",
+  "ids": {
+   "govtrack": 400271,
+   "votesmart": 4360,
+   "opensecrets": "N00001171",
+   "ballotpedia": "Gregory Meeks",
+   "wikipedia": "Gregory Meeks",
+   "thomas": "01506",
+   "fec": [
+    "H8NY06048"
+   ]
+  },
+  "offices": [
+   {
+    "id": "M001137-arverne",
+    "address": "67-12 Rockaway Beach Blvd.",
+    "city": "Arverne",
+    "state": "NY",
+    "zip": "11692",
+    "latitude": 40.5907811,
+    "longitude": -73.798273,
+    "fax": "347-230-4045",
+    "phone": "347-230-4032"
+   },
+   {
+    "id": "M001137-jamaica",
+    "address": "153-01 Jamaica Ave.",
+    "suite": "2nd floor",
+    "city": "Jamaica",
+    "state": "NY",
+    "zip": "11432",
+    "latitude": 40.7030995,
+    "longitude": -73.80205,
+    "fax": "718-725-9868",
+    "phone": "718-725-6000"
+   }
+  ],
+  "nickname": null
+ },
+ {
+  "bioguide": "N000002",
+  "name": "Jerrold Nadler",
+  "first": "Jerrold",
+  "last": "Nadler",
+  "chamber": "house",
+  "district": 12,
+  "party": "Democrat",
+  "url": "https://nadler.house.gov",
+  "contact_form": null,
+  "dc_address": "2132 Rayburn House Office Building Washington DC 20515-3212",
+  "dc_phone": "202-225-5635",
+  "ids": {
+   "govtrack": 400289,
+   "votesmart": 26980,
+   "opensecrets": "N00000939",
+   "ballotpedia": "Jerrold Nadler",
+   "wikipedia": "Jerry Nadler",
+   "thomas": "00850",
+   "fec": [
+    "H2NY17071"
+   ]
+  },
+  "offices": [
+   {
+    "id": "N000002-new_york",
+    "address": "201 Varick St.",
+    "suite": "Suite 669",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10014",
+    "latitude": 40.7283398,
+    "longitude": -74.00622109999999,
+    "phone": "212-367-7350"
+   }
+  ],
+  "nickname": null
+ },
+ {
+  "bioguide": "S000148",
+  "name": "Charles E. Schumer",
+  "first": "Charles",
+  "last": "Schumer",
+  "chamber": "senate",
+  "district": null,
+  "party": "Democrat",
+  "url": "https://www.schumer.senate.gov",
+  "contact_form": "https://www.schumer.senate.gov/contact/email-chuck",
+  "dc_address": "322 Hart Senate Office Building Washington DC 20510",
+  "dc_phone": "202-224-6542",
+  "ids": {
+   "govtrack": 300087,
+   "votesmart": 26976,
+   "opensecrets": "N00001093",
+   "ballotpedia": "Chuck Schumer",
+   "wikipedia": "Chuck Schumer",
+   "thomas": "01036",
+   "fec": [
+    "S8NY00082",
+    "H0NY16010"
+   ]
+  },
+  "offices": [
+   {
+    "id": "S000148-rochester",
+    "address": "100 State St.",
+    "suite": "Room 3040",
+    "city": "Rochester",
+    "state": "NY",
+    "zip": "14614",
+    "latitude": 43.1576631,
+    "longitude": -77.613515,
+    "fax": "585-263-3173",
+    "phone": "585-263-5866"
+   },
+   {
+    "id": "S000148-binghamton",
+    "address": "15 Henry St.",
+    "suite": "Room. 100 A-F",
+    "city": "Binghamton",
+    "state": "NY",
+    "zip": "13901",
+    "latitude": 42.1008749,
+    "longitude": -75.9123579,
+    "fax": "607-772-8124",
+    "phone": "607-772-6792"
+   },
+   {
+    "id": "S000148-buffalo",
+    "address": "130 S. Elmwood Ave.",
+    "suite": "#660",
+    "city": "Buffalo",
+    "state": "NY",
+    "zip": "14202",
+    "latitude": 42.88902849999999,
+    "longitude": -78.87954189999999,
+    "fax": "716-846-4113",
+    "phone": "716-846-4111"
+   },
+   {
+    "id": "S000148-new_york",
+    "address": "780 Third Ave.",
+    "suite": "Suite 2301",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10017",
+    "latitude": 40.7550353,
+    "longitude": -73.97185879999999,
+    "fax": "202-228-2838",
+    "phone": "212-486-4430"
+   },
+   {
+    "id": "S000148-peekskill",
+    "address": "One Park Place",
+    "suite": "Suite 100",
+    "city": "Peekskill",
+    "state": "NY",
+    "zip": "10566",
+    "latitude": 41.29051020000001,
+    "longitude": -73.91672969999999,
+    "fax": "914-734-1673",
+    "phone": "914-734-1532"
+   },
+   {
+    "id": "S000148-syracuse",
+    "address": "100 S. Clinton St.",
+    "suite": "Room 841",
+    "city": "Syracuse",
+    "state": "NY",
+    "zip": "13261",
+    "latitude": 43.0501042,
+    "longitude": -76.1543204,
+    "fax": "315-423-5185",
+    "phone": "315-423-5471"
+   },
+   {
+    "id": "S000148-albany",
+    "address": "1 Clinton Ave.",
+    "suite": "Room 827",
+    "building": "Leo O'Brien Building",
+    "city": "Albany",
+    "state": "NY",
+    "zip": "12207",
+    "latitude": 42.6551412,
+    "longitude": -73.7491677,
+    "fax": "518-431-4076",
+    "phone": "518-431-4070"
+   },
+   {
+    "id": "S000148-melville",
+    "address": "145 Pinelawn Road",
+    "suite": "#300N",
+    "city": "Melville",
+    "state": "NY",
+    "zip": "11747",
+    "latitude": 40.7707082,
+    "longitude": -73.4086234,
+    "fax": "631-391-9068",
+    "phone": "631-753-0978"
+   }
+  ],
+  "nickname": "Chuck"
+ },
+ {
+  "bioguide": "T000469",
+  "name": "Paul Tonko",
+  "first": "Paul",
+  "last": "Tonko",
+  "chamber": "house",
+  "district": 20,
+  "party": "Democrat",
+  "url": "https://tonko.house.gov",
+  "contact_form": null,
+  "dc_address": "2269 Rayburn House Office Building Washington DC 20515-3220",
+  "dc_phone": "202-225-5076",
+  "ids": {
+   "govtrack": 412319,
+   "votesmart": 4403,
+   "opensecrets": "N00030196",
+   "ballotpedia": "Paul Tonko",
+   "wikipedia": "Paul Tonko",
+   "thomas": "01942",
+   "fec": [
+    "H8NY21203"
+   ]
+  },
+  "offices": [
+   {
+    "id": "T000469-albany",
+    "address": "19 Dove Street",
+    "suite": "Suite 302",
+    "city": "Albany",
+    "state": "NY",
+    "zip": "12210",
+    "latitude": 42.6553643,
+    "longitude": -73.7615981,
+    "fax": "518-427-5107",
+    "phone": "518-465-0700"
+   },
+   {
+    "id": "T000469-saratoga_springs",
+    "address": "433 Broadway",
+    "suite": "Suite 201",
+    "city": "Saratoga Springs",
+    "state": "NY",
+    "zip": "12866",
+    "latitude": 43.0823082,
+    "longitude": -73.78542680000001,
+    "phone": "518-374-4547"
+   }
+  ],
+  "nickname": null
+ },
+ {
+  "bioguide": "V000081",
+  "name": "Nydia M. Velázquez",
+  "first": "Nydia",
+  "last": "Velázquez",
+  "chamber": "house",
+  "district": 7,
+  "party": "Democrat",
+  "url": "https://velazquez.house.gov",
+  "contact_form": null,
+  "dc_address": "2302 Rayburn House Office Building Washington DC 20515-3207",
+  "dc_phone": "202-225-2361",
+  "ids": {
+   "govtrack": 400416,
+   "votesmart": 26975,
+   "opensecrets": "N00001102",
+   "ballotpedia": "Nydia Velazquez",
+   "wikipedia": "Nydia Velázquez",
+   "thomas": "01184",
+   "fec": [
+    "H2NY00010"
+   ]
+  },
+  "offices": [
+   {
+    "id": "V000081-brooklyn",
+    "address": "266 Broadway",
+    "suite": "Suite 201",
+    "city": "Brooklyn",
+    "state": "NY",
+    "zip": "11211",
+    "latitude": 40.7085893,
+    "longitude": -73.9592284,
+    "phone": "718-599-3658"
+   },
+   {
+    "id": "V000081-sunnyside",
+    "address": "39-16 47th Avenue",
+    "city": "Sunnyside",
+    "state": "NY",
+    "zip": "11104",
+    "phone": "718-340-6244"
+   }
+  ],
+  "nickname": null
+ },
+ {
+  "bioguide": "M001188",
+  "name": "Grace Meng",
+  "first": "Grace",
+  "last": "Meng",
+  "chamber": "house",
+  "district": 6,
+  "party": "Democrat",
+  "url": "https://meng.house.gov",
+  "contact_form": null,
+  "dc_address": "2468 Rayburn House Office Building Washington DC 20515-3206",
+  "dc_phone": "202-225-2601",
+  "ids": {
+   "govtrack": 412560,
+   "votesmart": 69157,
+   "opensecrets": "N00034547",
+   "ballotpedia": "Grace Meng",
+   "wikipedia": "Grace Meng",
+   "thomas": "02148",
+   "fec": [
+    "H2NY06116"
+   ]
+  },
+  "offices": [
+   {
+    "id": "M001188-flushing",
+    "address": "40-13 159th St.",
+    "suite": "Suite A",
+    "city": "Flushing",
+    "state": "NY",
+    "zip": "11358",
+    "latitude": 40.76260720000001,
+    "longitude": -73.8062197,
+    "fax": "718-445-7868",
+    "phone": "718-358-6364"
+   },
+   {
+    "id": "M001188-forest_hills",
+    "address": "118-35 Queens Blvd",
+    "suite": "Suite 900",
+    "city": "Forest Hills",
+    "state": "NY",
+    "zip": "11375",
+    "latitude": 40.7148753,
+    "longitude": -73.83085919999999,
+    "hours": "By appointment only"
+   }
+  ],
+  "nickname": null
+ },
+ {
+  "bioguide": "J000294",
+  "name": "Hakeem S. Jeffries",
+  "first": "Hakeem",
+  "last": "Jeffries",
+  "chamber": "house",
+  "district": 8,
+  "party": "Democrat",
+  "url": "https://jeffries.house.gov",
+  "contact_form": null,
+  "dc_address": "2267 Rayburn House Office Building Washington DC 20515-3208",
+  "dc_phone": "202-225-5936",
+  "ids": {
+   "govtrack": 412561,
+   "votesmart": 55285,
+   "opensecrets": "N00033640",
+   "ballotpedia": "Hakeem Jeffries",
+   "wikipedia": "Hakeem Jeffries",
+   "thomas": "02149",
+   "fec": [
+    "H2NY10092"
+   ]
+  },
+  "offices": [
+   {
+    "id": "J000294-brooklyn",
+    "address": "445 Neptune Ave",
+    "suite": "1st Floor, Community Room 2C",
+    "city": "Brooklyn",
+    "state": "NY",
+    "zip": "11224",
+    "latitude": 40.5809199,
+    "longitude": -73.9696891,
+    "hours": "Mon-Fri 9 am to 5pm",
+    "phone": "718-373-0033"
+   },
+   {
+    "id": "J000294-brooklyn-1",
+    "address": "55 Hanson Pl.",
+    "suite": "Suite 603",
+    "city": "Brooklyn",
+    "state": "NY",
+    "zip": "11217",
+    "latitude": 40.6856283,
+    "longitude": -73.97577559999999,
+    "hours": "M-F 9 am - 5pm",
+    "phone": "718-237-2211"
+   }
+  ],
+  "nickname": null
+ },
+ {
+  "bioguide": "S001196",
+  "name": "Elise M. Stefanik",
+  "first": "Elise",
+  "last": "Stefanik",
+  "chamber": "house",
+  "district": 21,
+  "party": "Republican",
+  "url": "https://stefanik.house.gov",
+  "contact_form": null,
+  "dc_address": "2211 Rayburn House Office Building Washington DC 20515-3221",
+  "dc_phone": "202-225-4611",
+  "ids": {
+   "govtrack": 412648,
+   "votesmart": 152539,
+   "opensecrets": "N00035523",
+   "ballotpedia": "Elise Stefanik",
+   "wikipedia": "Elise Stefanik",
+   "thomas": "02263",
+   "fec": [
+    "H4NY21079"
+   ]
+  },
+  "offices": [
+   {
+    "id": "S001196-herkimer",
+    "address": "",
+    "city": "Herkimer",
+    "state": "NY",
+    "zip": "",
+    "phone": "315-219-8005"
+   },
+   {
+    "id": "S001196-plattsburgh",
+    "address": "137 Margaret Street",
+    "suite": "Suite 100",
+    "city": "Plattsburgh",
+    "state": "NY",
+    "zip": "12901",
+    "latitude": 44.6992068,
+    "longitude": -73.4540509,
+    "fax": "518-561-2408",
+    "phone": "518-561-2324"
+   },
+   {
+    "id": "S001196-ogdensburg",
+    "address": "330 Ford Street",
+    "suite": "Suite B8",
+    "city": "Ogdensburg",
+    "state": "NY",
+    "zip": "13669",
+    "latitude": 44.6983667,
+    "longitude": -75.4920571,
+    "phone": "315-541-2670"
+   }
+  ],
+  "nickname": null
+ },
+ {
+  "bioguide": "E000297",
+  "name": "Adriano Espaillat",
+  "first": "Adriano",
+  "last": "Espaillat",
+  "chamber": "house",
+  "district": 13,
+  "party": "Democrat",
+  "url": "https://espaillat.house.gov",
+  "contact_form": null,
+  "dc_address": "2332 Rayburn House Office Building Washington DC 20515-3213",
+  "dc_phone": "202-225-4365",
+  "ids": {
+   "govtrack": 412718,
+   "votesmart": 14379,
+   "opensecrets": "N00034549",
+   "ballotpedia": "Adriano Espaillat",
+   "wikipedia": "Adriano Espaillat",
+   "thomas": null,
+   "fec": [
+    "H2NY13096"
+   ]
+  },
+  "offices": [
+   {
+    "id": "E000297-new_york",
+    "address": "163 West 125th Street",
+    "suite": "#508",
+    "building": "Harlem State Office Building",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10027",
+    "latitude": 40.8091589,
+    "longitude": -73.9473251,
+    "phone": "212-663-3900"
+   },
+   {
+    "id": "E000297-new_york-1",
+    "address": "720 West 181st Street",
+    "suite": "Suite 2",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10033",
+    "latitude": 40.8502935,
+    "longitude": -73.9368293,
+    "phone": "212-497-5959"
+   },
+   {
+    "id": "E000297-bronx",
+    "address": "3107 Kingsbridge Avenue",
+    "city": "Bronx",
+    "state": "NY",
+    "zip": "10463",
+    "latitude": 40.8801727,
+    "longitude": -73.9090502,
+    "hours": "By appointment only",
+    "phone": "646-740-3632"
+   }
+  ],
+  "nickname": null
+ },
+ {
+  "bioguide": "M001206",
+  "name": "Joseph D. Morelle",
+  "first": "Joseph",
+  "last": "Morelle",
+  "chamber": "house",
+  "district": 25,
+  "party": "Democrat",
+  "url": "https://morelle.house.gov",
+  "contact_form": null,
+  "dc_address": "570 Cannon House Office Building Washington DC 20515-3225",
+  "dc_phone": "202-225-3615",
+  "ids": {
+   "govtrack": 412749,
+   "votesmart": 4362,
+   "opensecrets": "N00043207",
+   "ballotpedia": "Joseph Morelle",
+   "wikipedia": "Joseph Morelle",
+   "thomas": null,
+   "fec": [
+    "H8NY25105"
+   ]
+  },
+  "offices": [
+   {
+    "id": "M001206-rochester",
+    "address": "255 East Ave.",
+    "suite": "Suite 150",
+    "city": "Rochester",
+    "state": "NY",
+    "zip": "14604",
+    "latitude": 43.1556322,
+    "longitude": -77.5982307,
+    "fax": "771-200-5554",
+    "phone": "585-232-4850"
+   }
+  ],
+  "nickname": null
+ },
+ {
+  "bioguide": "O000172",
+  "name": "Alexandria Ocasio-Cortez",
+  "first": "Alexandria",
+  "last": "Ocasio-Cortez",
+  "chamber": "house",
+  "district": 14,
+  "party": "Democrat",
+  "url": "https://ocasio-cortez.house.gov",
+  "contact_form": null,
+  "dc_address": "250 Cannon House Office Building Washington DC 20515-3214",
+  "dc_phone": "202-225-3965",
+  "ids": {
+   "govtrack": 412804,
+   "votesmart": 180416,
+   "opensecrets": "N00041162",
+   "ballotpedia": "Alexandria Ocasio-Cortez",
+   "wikipedia": "Alexandria Ocasio-Cortez",
+   "thomas": null,
+   "fec": [
+    "H8NY15148"
+   ]
+  },
+  "offices": [
+   {
+    "id": "O000172-bronx",
+    "address": "1231 Lafayette Ave",
+    "suite": "Suite L-610",
+    "city": "Bronx",
+    "state": "NY",
+    "zip": "10474",
+    "latitude": 40.8167566,
+    "longitude": -73.8906092,
+    "hours": "Monday - Thursday 9:00AM-5:00PM"
+   },
+   {
+    "id": "O000172-queens",
+    "address": "30-83 31st Street",
+    "city": "Queens",
+    "state": "NY",
+    "zip": "11102",
+    "latitude": 40.7647481,
+    "longitude": -73.9253722,
+    "hours": "By appointment only"
+   }
+  ],
+  "nickname": null
+ },
+ {
+  "bioguide": "G000597",
+  "name": "Andrew R. Garbarino",
+  "first": "Andrew",
+  "last": "Garbarino",
+  "chamber": "house",
+  "district": 2,
+  "party": "Republican",
+  "url": "https://garbarino.house.gov",
+  "contact_form": null,
+  "dc_address": "2344 Rayburn House Office Building Washington DC 20515-3202",
+  "dc_phone": "202-225-7896",
+  "ids": {
+   "govtrack": 456836,
+   "votesmart": 143103,
+   "opensecrets": "N00046030",
+   "ballotpedia": "Andrew Garbarino",
+   "wikipedia": "Andrew Garbarino",
+   "thomas": null,
+   "fec": [
+    "H0NY02234"
+   ]
+  },
+  "offices": [
+   {
+    "id": "G000597-patchogue",
+    "address": "31 Oak Street",
+    "suite": "Suite 20",
+    "city": "Patchogue",
+    "state": "NY",
+    "zip": "11772",
+    "latitude": 40.7671637,
+    "longitude": -73.0138226,
+    "phone": "631-541-4225"
+   }
+  ],
+  "nickname": null
+ },
+ {
+  "bioguide": "M000317",
+  "name": "Nicole Malliotakis",
+  "first": "Nicole",
+  "last": "Malliotakis",
+  "chamber": "house",
+  "district": 11,
+  "party": "Republican",
+  "url": "https://malliotakis.house.gov",
+  "contact_form": null,
+  "dc_address": "1124 Longworth House Office Building Washington DC 20515-3211",
+  "dc_phone": "202-225-3371",
+  "ids": {
+   "govtrack": 456837,
+   "votesmart": 127929,
+   "opensecrets": "N00044040",
+   "ballotpedia": "Nicole Malliotakis",
+   "wikipedia": "Nicole Malliotakis",
+   "thomas": null,
+   "fec": [
+    "H0NY11078"
+   ]
+  },
+  "offices": [
+   {
+    "id": "M000317-staten_island",
+    "address": "1698 Victory Blvd",
+    "suite": "Suite 2L",
+    "city": "Staten Island",
+    "state": "NY",
+    "zip": "10314",
+    "phone": "718-568-2870"
+   },
+   {
+    "id": "M000317-brooklyn",
+    "address": "7716 Third Avenue",
+    "city": "Brooklyn",
+    "state": "NY",
+    "zip": "11209",
+    "phone": "718-306-1620"
+   }
+  ],
+  "nickname": null
+ },
+ {
+  "bioguide": "T000486",
+  "name": "Ritchie Torres",
+  "first": "Ritchie",
+  "last": "Torres",
+  "chamber": "house",
+  "district": 15,
+  "party": "Democrat",
+  "url": "https://ritchietorres.house.gov",
+  "contact_form": null,
+  "dc_address": "1414 Longworth House Office Building Washington DC 20515-3215",
+  "dc_phone": "202-225-4361",
+  "ids": {
+   "govtrack": 456838,
+   "votesmart": 161718,
+   "opensecrets": "N00044346",
+   "ballotpedia": "Ritchie Torres",
+   "wikipedia": "Ritchie Torres",
+   "thomas": null,
+   "fec": [
+    "H0NY15160"
+   ]
+  },
+  "offices": [
+   {
+    "id": "T000486-bronx",
+    "address": "540 E Fordham Rd.",
+    "suite": "Suite 2A",
+    "city": "Bronx",
+    "state": "NY",
+    "zip": "10458",
+    "latitude": 40.8591989,
+    "longitude": -73.8870801,
+    "hours": "Mon–Fri, 10am–4pm by appointment only",
+    "phone": "718-503-9610"
+   }
+  ],
+  "nickname": null
+ },
+ {
+  "bioguide": "T000478",
+  "name": "Claudia Tenney",
+  "first": "Claudia",
+  "last": "Tenney",
+  "chamber": "house",
+  "district": 24,
+  "party": "Republican",
+  "url": "https://tenney.house.gov",
+  "contact_form": null,
+  "dc_address": "2230 Rayburn House Office Building Washington DC 20515-3224",
+  "dc_phone": "202-225-3665",
+  "ids": {
+   "govtrack": 412720,
+   "votesmart": 127668,
+   "opensecrets": "N00036351",
+   "ballotpedia": "Claudia Tenney",
+   "wikipedia": "Claudia Tenney",
+   "thomas": null,
+   "fec": [
+    "H4NY22051"
+   ]
+  },
+  "offices": [
+   {
+    "id": "T000478-oswego",
+    "address": "46 E Bridge Street",
+    "suite": "Suite 102",
+    "city": "Oswego",
+    "state": "NY",
+    "zip": "13126",
+    "latitude": 43.4575811,
+    "longitude": -76.50610979999999,
+    "hours": "Monday-Friday 9:00AM-5:00PM",
+    "phone": "315-236-7088"
+   },
+   {
+    "id": "T000478-watertown",
+    "address": "317 Washington Street",
+    "suite": "Suite 418",
+    "city": "Watertown",
+    "state": "NY",
+    "zip": "13601",
+    "latitude": 43.9716937,
+    "longitude": -75.9104875,
+    "hours": "Tuesday 9:00AM-1:00PM by appointment"
+   },
+   {
+    "id": "T000478-lockport",
+    "address": "169 Niagara Street",
+    "city": "Lockport",
+    "state": "NY",
+    "zip": "14094",
+    "latitude": 43.1702744,
+    "longitude": -78.7007964,
+    "hours": "Monday-Friday 9:00AM-5:00PM",
+    "phone": "716-514-5130"
+   },
+   {
+    "id": "T000478-canandaigua",
+    "address": "2375 Rochester Rd.",
+    "suite": "Suite 250",
+    "city": "Canandaigua",
+    "state": "NY",
+    "zip": "14424",
+    "latitude": 42.9162118,
+    "longitude": -77.3054724,
+    "hours": "Monday-Friday 9:00AM-5:00PM",
+    "phone": "585-869-2060"
+   }
+  ],
+  "nickname": null
+ },
+ {
+  "bioguide": "R000579",
+  "name": "Patrick Ryan",
+  "first": "Patrick",
+  "last": "Ryan",
+  "chamber": "house",
+  "district": 18,
+  "party": "Democrat",
+  "url": "https://patryan.house.gov",
+  "contact_form": null,
+  "dc_address": "1708 Longworth House Office Building Washington DC 20515-3218",
+  "dc_phone": "202-225-5614",
+  "ids": {
+   "govtrack": 456871,
+   "votesmart": 180314,
+   "opensecrets": "N00041165",
+   "ballotpedia": "Pat Ryan (New York)",
+   "wikipedia": "Pat Ryan (politician)",
+   "thomas": null,
+   "fec": [
+    "H8NY19223"
+   ]
+  },
+  "offices": [
+   {
+    "id": "R000579-kingston",
+    "address": "307 Wall Street",
+    "suite": "#6",
+    "city": "Kingston",
+    "state": "NY",
+    "zip": "12401",
+    "latitude": 41.9340106,
+    "longitude": -74.0199595,
+    "hours": "By appointment only",
+    "phone": "845-443-2930"
+   },
+   {
+    "id": "R000579-newburgh",
+    "address": "605 Broadway",
+    "city": "Newburgh",
+    "state": "NY",
+    "zip": "12550",
+    "latitude": 41.5014974,
+    "longitude": -74.03641379999999,
+    "phone": "845-443-2930"
+   },
+   {
+    "id": "R000579-poughkeepsie",
+    "address": "12 Raymond Avenue",
+    "suite": "Suite 105",
+    "city": "Poughkeepsie",
+    "state": "NY",
+    "zip": "12603",
+    "latitude": 41.6952666,
+    "longitude": -73.90102499999999,
+    "hours": "By appointment only",
+    "phone": "845-443-2930"
+   }
+  ],
+  "nickname": null
+ },
+ {
+  "bioguide": "L000598",
+  "name": "Nick LaLota",
+  "first": "Nicolas",
+  "last": "LaLota",
+  "chamber": "house",
+  "district": 1,
+  "party": "Republican",
+  "url": "https://lalota.house.gov",
+  "contact_form": null,
+  "dc_address": "122 Cannon House Office Building Washington DC 20515-3201",
+  "dc_phone": "202-225-3826",
+  "ids": {
+   "govtrack": 456920,
+   "votesmart": 191957,
+   "opensecrets": "N00050419",
+   "ballotpedia": "Nicholas J. LaLota",
+   "wikipedia": "Nick LaLota",
+   "thomas": null,
+   "fec": [
+    "H2NY01190"
+   ]
+  },
+  "offices": [
+   {
+    "id": "L000598-rocky_point",
+    "address": "109 King Road",
+    "building": "Rocky Point VFW Post 6249",
+    "city": "Rocky Point",
+    "state": "NY",
+    "zip": "11778",
+    "latitude": 40.9503111,
+    "longitude": -72.92281419999999,
+    "hours": "Thursdays 1:00pm-5:00pm",
+    "phone": "631-289-1097"
+   },
+   {
+    "id": "L000598-hauppauge",
+    "address": "515 Hauppauge Road",
+    "suite": "Suite 3B",
+    "city": "Hauppauge",
+    "state": "NY",
+    "zip": "11788",
+    "latitude": 40.8279143,
+    "longitude": -73.1980726,
+    "phone": "631-289-1097"
+   }
+  ],
+  "nickname": null
+ },
+ {
+  "bioguide": "G000599",
+  "name": "Daniel S. Goldman",
+  "first": "Dan",
+  "last": "Goldman",
+  "chamber": "house",
+  "district": 10,
+  "party": "Democrat",
+  "url": "https://goldman.house.gov",
+  "contact_form": null,
+  "dc_address": "245 Cannon House Office Building Washington DC 20515-3210",
+  "dc_phone": "202-225-7944",
+  "ids": {
+   "govtrack": 456923,
+   "votesmart": 208627,
+   "opensecrets": "N00051424",
+   "ballotpedia": "Daniel Goldman",
+   "wikipedia": "Dan Goldman",
+   "thomas": null,
+   "fec": [
+    "H2NY10308"
+   ]
+  },
+  "offices": [
+   {
+    "id": "G000599-new_york",
+    "address": "290 Broadway",
+    "suite": "Suite 291",
+    "building": "Ted Weiss Federal Building",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10007",
+    "latitude": 40.71506309999999,
+    "longitude": -74.0053199,
+    "phone": "212-822-7878"
+   },
+   {
+    "id": "G000599-brooklyn",
+    "address": "254 36 Street",
+    "building": "Industry City",
+    "suite": "B-329",
+    "city": "Brooklyn",
+    "state": "NY",
+    "zip": "11232",
+    "latitude": 40.6564675,
+    "longitude": -74.0067606,
+    "phone": "718-312-7575"
+   }
+  ],
+  "nickname": null
+ },
+ {
+  "bioguide": "L000599",
+  "name": "Michael Lawler",
+  "first": "Michael",
+  "last": "Lawler",
+  "chamber": "house",
+  "district": 17,
+  "party": "Republican",
+  "url": "https://lawler.house.gov",
+  "contact_form": null,
+  "dc_address": "324 Cannon House Office Building Washington DC 20515-3217",
+  "dc_phone": "202-225-6506",
+  "ids": {
+   "govtrack": 456924,
+   "votesmart": 192271,
+   "opensecrets": "N00051208",
+   "ballotpedia": "Michael Lawler (New York)",
+   "wikipedia": "Mike Lawler",
+   "thomas": null,
+   "fec": [
+    "H2NY17162"
+   ]
+  },
+  "offices": [
+   {
+    "id": "L000599-mahopac",
+    "address": "60 McAlpin Ave",
+    "city": "Mahopac",
+    "state": "NY",
+    "zip": "10541",
+    "latitude": 41.3774662,
+    "longitude": -73.7236307,
+    "hours": "By appointment only",
+    "phone": "845-743-7130"
+   },
+   {
+    "id": "L000599-pearl_river",
+    "address": "One Blue Hill Plaza",
+    "suite": "Third Floor",
+    "city": "Pearl River",
+    "state": "NY",
+    "zip": "10965",
+    "latitude": 41.0468845,
+    "longitude": -74.0076878,
+    "phone": "845-201-2060"
+   }
+  ],
+  "nickname": null
+ },
+ {
+  "bioguide": "L000600",
+  "name": "Nicholas A. Langworthy",
+  "first": "Nicholas",
+  "last": "Langworthy",
+  "chamber": "house",
+  "district": 23,
+  "party": "Republican",
+  "url": "https://langworthy.house.gov",
+  "contact_form": null,
+  "dc_address": "422 Cannon House Office Building Washington DC 20515-3223",
+  "dc_phone": "202-225-3161",
+  "ids": {
+   "govtrack": 456927,
+   "votesmart": 208663,
+   "opensecrets": "N00051431",
+   "ballotpedia": "Nick Langworthy",
+   "wikipedia": "Nick Langworthy",
+   "thomas": null,
+   "fec": [
+    "H2NY23228"
+   ]
+  },
+  "offices": [
+   {
+    "id": "L000600-williamsville",
+    "address": "8201 Main Street",
+    "suite": "Suite 13",
+    "city": "Williamsville",
+    "state": "NY",
+    "zip": "14221",
+    "latitude": 42.9633987,
+    "longitude": -78.6889872,
+    "phone": "716-547-6844"
+   },
+   {
+    "id": "L000600-jamestown",
+    "address": "2-6 East Second Street",
+    "suite": "Room 208",
+    "building": "The Fenton Building",
+    "city": "Jamestown",
+    "state": "NY",
+    "zip": "14701",
+    "latitude": 42.0949119,
+    "longitude": -79.24172089999999,
+    "phone": "716-488-8111"
+   },
+   {
+    "id": "L000600-olean",
+    "address": "1 Bluebird Square",
+    "city": "Olean",
+    "state": "NY",
+    "zip": "14760",
+    "latitude": 42.0788828,
+    "longitude": -78.4306347,
+    "phone": "585-543-5033"
+   },
+   {
+    "id": "L000600-corning",
+    "address": "89 W. Market Street",
+    "city": "Corning",
+    "state": "NY",
+    "zip": "14830",
+    "latitude": 42.1442438,
+    "longitude": -77.05804289999999,
+    "phone": "607-377-3130"
+   }
+  ],
+  "nickname": null
+ },
+ {
+  "bioguide": "S001201",
+  "name": "Thomas R. Suozzi",
+  "first": "Thomas",
+  "last": "Suozzi",
+  "chamber": "house",
+  "district": 3,
+  "party": "Democrat",
+  "url": "https://suozzi.house.gov",
+  "contact_form": null,
+  "dc_address": "203 Cannon House Office Building Washington DC 20515-3203",
+  "dc_phone": "202-225-3335",
+  "ids": {
+   "govtrack": 412717,
+   "votesmart": 92111,
+   "opensecrets": "N00038742",
+   "ballotpedia": "Tom Suozzi",
+   "wikipedia": "Tom Suozzi",
+   "thomas": null,
+   "fec": [
+    "H6NY03247"
+   ]
+  },
+  "offices": [
+   {
+    "id": "S001201-douglaston",
+    "address": "242-09 Northern Boulevard",
+    "city": "Douglaston",
+    "state": "NY",
+    "zip": "11363",
+    "latitude": 40.7656722,
+    "longitude": -73.7440153,
+    "hours": "Monday, Wednesday, Friday 9AM-5:30PM",
+    "phone": "718-631-0400"
+   },
+   {
+    "id": "S001201-glen_cove",
+    "address": "51 Glen Street",
+    "suite": "Second Floor",
+    "city": "Glen Cove",
+    "state": "NY",
+    "zip": "11542",
+    "latitude": 40.86402700000001,
+    "longitude": -73.62938299999999,
+    "hours": "Monday-Friday 9AM-5PM",
+    "phone": "516-861-1070"
+   }
+  ],
+  "nickname": null
+ },
+ {
+  "bioguide": "K000402",
+  "name": "Timothy M. Kennedy",
+  "first": "Timothy",
+  "last": "Kennedy",
+  "chamber": "house",
+  "district": 26,
+  "party": "Democrat",
+  "url": "https://kennedy.house.gov",
+  "contact_form": null,
+  "dc_address": "423 Cannon House Office Building Washington DC 20515-3226",
+  "dc_phone": "202-225-3306",
+  "ids": {
+   "govtrack": 456957,
+   "votesmart": 91670,
+   "opensecrets": "N00054366",
+   "ballotpedia": "Timothy M. Kennedy",
+   "wikipedia": "Tim Kennedy (politician)",
+   "thomas": null,
+   "fec": [
+    "H4NY26078"
+   ]
+  },
+  "offices": [
+   {
+    "id": "K000402-buffalo",
+    "address": "726 Exchange Street",
+    "suite": "Suite 601",
+    "city": "Buffalo",
+    "state": "NY",
+    "zip": "14210",
+    "latitude": 42.8746006,
+    "longitude": -78.8495612,
+    "hours": "Monday-Friday 9AM-5PM",
+    "fax": "716-852-3929",
+    "phone": "716-852-3501"
+   },
+   {
+    "id": "K000402-niagara_falls",
+    "address": "800 Main Street",
+    "suite": "Suite 3C",
+    "city": "Niagara Falls",
+    "state": "NY",
+    "zip": "14301",
+    "latitude": 43.0967124,
+    "longitude": -79.0554131,
+    "hours": "Monday and Friday 9AM-5PM",
+    "fax": "716-282-2479",
+    "phone": "716-282-1274"
+   }
+  ],
+  "nickname": null
+ },
+ {
+  "bioguide": "G000602",
+  "name": "Laura Gillen",
+  "first": "Laura",
+  "last": "Gillen",
+  "chamber": "house",
+  "district": 4,
+  "party": "Democrat",
+  "url": "https://gillen.house.gov",
+  "contact_form": null,
+  "dc_address": "428 Cannon House Office Building Washington DC 20515-3204",
+  "dc_phone": "202-225-5516",
+  "ids": {
+   "govtrack": 457010,
+   "votesmart": 208621,
+   "opensecrets": "N00050425",
+   "ballotpedia": "Laura Gillen",
+   "wikipedia": "Laura Gillen",
+   "thomas": null,
+   "fec": [
+    "H4NY04158",
+    "H2NY04244"
+   ]
+  },
+  "offices": [
+   {
+    "id": "G000602-garden_city",
+    "address": "229 7th St",
+    "suite": "Suite 102",
+    "city": "Garden City",
+    "state": "NY",
+    "zip": "11530",
+    "latitude": 40.7258464,
+    "longitude": -73.6355645,
+    "phone": "516-739-3008"
+   }
+  ],
+  "nickname": null
+ },
+ {
+  "bioguide": "L000606",
+  "name": "George Latimer",
+  "first": "George",
+  "last": "Latimer",
+  "chamber": "house",
+  "district": 16,
+  "party": "Democrat",
+  "url": "https://latimer.house.gov",
+  "contact_form": null,
+  "dc_address": "1507 Longworth House Office Building Washington DC 20515-3216",
+  "dc_phone": "202-225-2464",
+  "ids": {
+   "govtrack": 457011,
+   "votesmart": 44173,
+   "opensecrets": "N00054136",
+   "ballotpedia": "George Latimer (New York)",
+   "wikipedia": "George Latimer (New York politician)",
+   "thomas": null,
+   "fec": [
+    "H4NY16087"
+   ]
+  },
+  "offices": [
+   {
+    "id": "L000606-white_plains",
+    "address": "222 Mamaroneck Ave",
+    "suite": "Suite 312",
+    "city": "White Plains",
+    "state": "NY",
+    "zip": "10605",
+    "latitude": 40.9501344,
+    "longitude": -73.7364686,
+    "phone": "914-323-5550"
+   },
+   {
+    "id": "L000606-bronx",
+    "address": "177 Dreiser Loop",
+    "suite": "Room 3",
+    "city": "Bronx",
+    "state": "NY",
+    "zip": "10475",
+    "latitude": 40.876579,
+    "longitude": -73.8287211,
+    "phone": "718-530-7888"
+   }
+  ],
+  "nickname": null
+ },
+ {
+  "bioguide": "R000622",
+  "name": "Josh Riley",
+  "first": "Josh",
+  "last": "Riley",
+  "chamber": "house",
+  "district": 19,
+  "party": "Democrat",
+  "url": "https://riley.house.gov",
+  "contact_form": null,
+  "dc_address": "128 Cannon House Office Building Washington DC 20515-3219",
+  "dc_phone": "202-225-5441",
+  "ids": {
+   "govtrack": 457012,
+   "votesmart": 205997,
+   "opensecrets": "N00049916",
+   "ballotpedia": "Josh Riley",
+   "wikipedia": "Josh Riley",
+   "thomas": null,
+   "fec": [
+    "H8NY22177"
+   ]
+  },
+  "offices": [
+   {
+    "id": "R000622-binghamton",
+    "address": "49 Court St",
+    "suite": "Suite 210",
+    "city": "Binghamton",
+    "state": "NY",
+    "zip": "13901",
+    "latitude": 42.0989488,
+    "longitude": -75.9155213,
+    "phone": "607-242-0200"
+   },
+   {
+    "id": "R000622-leeds",
+    "address": "49 Gilfeather Park Rd",
+    "suite": "Unit 1",
+    "city": "Leeds",
+    "state": "NY",
+    "zip": "12451",
+    "latitude": 42.2548652,
+    "longitude": -73.9051562,
+    "phone": "518-625-2100"
+   }
+  ],
+  "nickname": null
+ },
+ {
+  "bioguide": "M001231",
+  "name": "John W. Mannion",
+  "first": "John",
+  "last": "Mannion",
+  "chamber": "house",
+  "district": 22,
+  "party": "Democrat",
+  "url": "https://mannion.house.gov",
+  "contact_form": null,
+  "dc_address": "1516 Longworth House Office Building Washington DC 20515-3222",
+  "dc_phone": "202-225-3701",
+  "ids": {
+   "govtrack": 457013,
+   "votesmart": 185053,
+   "opensecrets": "N00053112",
+   "ballotpedia": "John Mannion",
+   "wikipedia": "John Mannion (American politician)",
+   "thomas": null,
+   "fec": [
+    "H4NY22085"
+   ]
+  },
+  "offices": [
+   {
+    "id": "M001231-syracuse",
+    "address": "440 South Warren St",
+    "suite": "Suite 706",
+    "city": "Syracuse",
+    "state": "NY",
+    "zip": "13202",
+    "latitude": 43.0460543,
+    "longitude": -76.1543099,
+    "phone": "315-233-4333"
+   }
+  ],
+  "nickname": null
+ }
+]

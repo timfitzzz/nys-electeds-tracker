@@ -1,0 +1,54 @@
+{
+ "bioguide": "M000317",
+ "name": "Nicole Malliotakis",
+ "verified_at": "2026-10-19",
+ "offices": [
+  {
+   "name": "Staten Island",
+   "address": "1698 Victory Blvd",
+   "suite": "Suite 2L",
+   "city": "Staten Island",
+   "zip": "10314",
+   "phone": "718-568-2870",
+   "hours": null,
+   "kind": "district",
+   "latitude": null,
+   "longitude": null
+  },
+  {
+   "name": "Brooklyn (Bay Ridge)",
+   "address": "7716 Third Avenue",
+   "suite": null,
+   "city": "Brooklyn",
+   "zip": "11209",
+   "phone": "718-306-1620",
+   "hours": null,
+   "kind": "district",
+   "latitude": null,
+   "longitude": null
+  }
+ ],
+ "contact": {
+  "email_public": null,
+  "webform_url": "https://malliotakis.house.gov/contact",
+  "webform_requires_zip_verification": true,
+  "phone": true,
+  "meeting_request_url": "https://malliotakis.house.gov/contact/request-an-appearance",
+  "in_person": true,
+  "in_person_notes": "Two district offices; hours not published on offices page.",
+  "mobile_office_hours": null,
+  "casework_url": "https://malliotakis.house.gov/services/help-federal-agency"
+ },
+ "schedule": {
+  "publishes_daily_schedule": false,
+  "schedule_url": null,
+  "notes": "No schedule found.",
+  "recent_meetings": []
+ },
+ "scorecards_extra": [],
+ "sources": [
+  "https://malliotakis.house.gov/contact",
+  "https://malliotakis.house.gov/contact/offices"
+ ],
+ "notes": "Fetched official site pages via WebFetch (curl blocked by proxy). Office hours are generally not published on the site. Contact page asks for ZIP before email form. Constituent services page: https://malliotakis.house.gov/about/constituent-services. Brooklyn office lat/long not in base (null). Re-election status not checked."
+}

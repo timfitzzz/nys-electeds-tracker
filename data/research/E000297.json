@@ -1,0 +1,65 @@
+{
+ "bioguide": "E000297",
+ "name": "Adriano Espaillat",
+ "verified_at": "2026-10-19",
+ "offices": [
+  {
+   "name": "Harlem",
+   "address": "163 West 125th Street",
+   "suite": "#508 (Harlem State Office Building)",
+   "city": "New York",
+   "zip": "10027",
+   "phone": "212-663-3900",
+   "hours": null,
+   "kind": "district",
+   "latitude": 40.8091589,
+   "longitude": -73.9473251
+  },
+  {
+   "name": "Washington Heights",
+   "address": "720 West 181st Street",
+   "suite": "Suite 2",
+   "city": "New York",
+   "zip": "10033",
+   "phone": "212-497-5959",
+   "hours": null,
+   "kind": "district",
+   "latitude": 40.8502935,
+   "longitude": -73.9368293
+  },
+  {
+   "name": "Bronx",
+   "address": "3107 Kingsbridge Avenue",
+   "suite": null,
+   "city": "Bronx",
+   "zip": "10463",
+   "phone": "646-740-3632",
+   "hours": "By appointment only",
+   "kind": "district",
+   "latitude": 40.8801727,
+   "longitude": -73.9090502
+  }
+ ],
+ "contact": {
+  "email_public": null,
+  "webform_url": "https://espaillat.house.gov/email",
+  "webform_requires_zip_verification": null,
+  "phone": true,
+  "meeting_request_url": null,
+  "in_person": true,
+  "in_person_notes": "Bronx office by appointment only; other offices' hours not listed.",
+  "mobile_office_hours": null,
+  "casework_url": "https://espaillat.house.gov/services/help-federal-agency"
+ },
+ "schedule": {
+  "publishes_daily_schedule": false,
+  "schedule_url": null,
+  "notes": "No public daily schedule page found on the contact page; not exhaustively searched. No meeting request form; only 'Invite Me to Speak' (https://espaillat.house.gov/contact/request-appearance).",
+  "recent_meetings": []
+ },
+ "scorecards_extra": [],
+ "sources": [
+  "https://espaillat.house.gov/contact"
+ ],
+ "notes": "Site lists Bronx office as 'Bronx, NY 10463' with no street; street address 3107 Kingsbridge Ave kept from congress-legislators base data (unconfirmed on site). Member serving as of fetch; all seven listed as current NY representatives (not independently checked for post-2026-primary changes). Fetched via WebFetch of house.gov pages; webform ZIP requirement null unless stated."
+}

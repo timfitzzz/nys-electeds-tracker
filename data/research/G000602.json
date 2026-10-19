@@ -1,0 +1,42 @@
+{
+ "bioguide": "G000602",
+ "name": "Laura Gillen",
+ "verified_at": "2026-10-19",
+ "offices": [
+  {
+   "name": "Garden City",
+   "address": "229 7th St",
+   "suite": "Suite 102",
+   "city": "Garden City",
+   "zip": "11530",
+   "phone": "516-739-3008",
+   "hours": null,
+   "kind": "district",
+   "latitude": 40.7258464,
+   "longitude": -73.6355645
+  }
+ ],
+ "contact": {
+  "email_public": null,
+  "webform_url": "https://gillen.house.gov/contact/email-me",
+  "webform_requires_zip_verification": null,
+  "phone": true,
+  "meeting_request_url": null,
+  "in_person": null,
+  "in_person_notes": "No hours or walk-in policy published.",
+  "mobile_office_hours": null,
+  "casework_url": "https://gillen.house.gov/services/help-federal-agency"
+ },
+ "schedule": {
+  "publishes_daily_schedule": null,
+  "schedule_url": null,
+  "notes": "No public/daily schedule page found linked from the member's contact/help pages; could not exhaustively verify (no dedicated search of the site). ",
+  "recent_meetings": []
+ },
+ "scorecards_extra": [],
+ "sources": [
+  "https://gillen.house.gov/contact",
+  "https://gillen.house.gov/contact/office-locations"
+ ],
+ "notes": "Still in office status not independently confirmed by a dedicated source; official website live and listing offices as of fetch. No meeting-request form found on contact page (the request-an-appearance URL guess failed to fetch, unverified). Hours not listed on office page."
+}

@@ -1,0 +1,54 @@
+{
+ "bioguide": "M001137",
+ "name": "Gregory W. Meeks",
+ "verified_at": "2026-10-19",
+ "offices": [
+  {
+   "name": "Arverne",
+   "address": "67-12 Rockaway Beach Blvd.",
+   "suite": null,
+   "city": "Arverne",
+   "zip": "11692",
+   "phone": "347-230-4032",
+   "hours": null,
+   "kind": "district",
+   "latitude": 40.5907811,
+   "longitude": -73.798273
+  },
+  {
+   "name": "Jamaica",
+   "address": "153-01 Jamaica Ave.",
+   "suite": "2nd floor",
+   "city": "Jamaica",
+   "zip": "11432",
+   "phone": "718-725-6000",
+   "hours": null,
+   "kind": "district",
+   "latitude": 40.7030995,
+   "longitude": -73.80205
+  }
+ ],
+ "contact": {
+  "email_public": null,
+  "webform_url": "https://meeks.house.gov/contact",
+  "webform_requires_zip_verification": true,
+  "phone": true,
+  "meeting_request_url": "https://meeks.house.gov/contact/request-an-appearance",
+  "in_person": null,
+  "in_person_notes": "Walk-in/appointment policy not published.",
+  "mobile_office_hours": null,
+  "casework_url": "https://meeks.house.gov/services/help-federal-agency"
+ },
+ "schedule": {
+  "publishes_daily_schedule": null,
+  "schedule_url": null,
+  "notes": "No public/daily schedule page found linked from the member's contact/help pages; could not exhaustively verify (no dedicated search of the site). ",
+  "recent_meetings": []
+ },
+ "scorecards_extra": [],
+ "sources": [
+  "https://meeks.house.gov/contact",
+  "https://meeks.house.gov/contact/office-locations"
+ ],
+ "notes": "Still in office status not independently confirmed by a dedicated source; official website live and listing offices as of fetch. Site lists the district as NY-5 (Jamaica and Rockaway offices); base.json confirms. Hours not listed on office page."
+}

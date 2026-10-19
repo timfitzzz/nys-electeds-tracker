@@ -1,0 +1,66 @@
+{
+ "bioguide": "R000579",
+ "name": "Patrick Ryan",
+ "verified_at": "2026-10-19",
+ "offices": [
+  {
+   "name": "Poughkeepsie",
+   "address": "29 N Hamilton Street",
+   "suite": "Suites 112 and 113",
+   "city": "Poughkeepsie",
+   "zip": "12601",
+   "phone": "845-443-2930",
+   "hours": null,
+   "kind": "district",
+   "latitude": null,
+   "longitude": null
+  },
+  {
+   "name": "Newburgh",
+   "address": "245 Liberty Street",
+   "suite": null,
+   "city": "Newburgh",
+   "zip": "12550",
+   "phone": "845-275-6390",
+   "hours": "By appointment only",
+   "kind": "district",
+   "latitude": null,
+   "longitude": null
+  },
+  {
+   "name": "Kingston",
+   "address": "20 Broadway",
+   "suite": "Second Floor",
+   "city": "Kingston",
+   "zip": "12401",
+   "phone": "845-443-2980",
+   "hours": "By appointment only",
+   "kind": "district",
+   "latitude": null,
+   "longitude": null
+  }
+ ],
+ "contact": {
+  "email_public": null,
+  "webform_url": "https://patryan.house.gov/contact/email-me",
+  "webform_requires_zip_verification": true,
+  "phone": true,
+  "meeting_request_url": "https://patryan.house.gov/meeting-request",
+  "in_person": true,
+  "in_person_notes": "Newburgh and Kingston by appointment only.",
+  "mobile_office_hours": null,
+  "casework_url": "https://patryan.house.gov/services/help-federal-agency"
+ },
+ "schedule": {
+  "publishes_daily_schedule": false,
+  "schedule_url": null,
+  "notes": "No public daily schedule page found on the contact page; not exhaustively searched. ",
+  "recent_meetings": []
+ },
+ "scorecards_extra": [],
+ "sources": [
+  "https://patryan.house.gov/contact",
+  "https://patryan.house.gov/contact/offices"
+ ],
+ "notes": "All three offices moved from base.json addresses (307 Wall St Kingston, 605 Broadway Newburgh, 12 Raymond Ave Poughkeepsie); new addresses from official site, lat/long null. ZIP requirement inferred from site wording. Member serving as of fetch; all seven listed as current NY representatives (not independently checked for post-2026-primary changes). Fetched via WebFetch of house.gov pages; webform ZIP requirement null unless stated."
+}

@@ -1,0 +1,41 @@
+{
+ "bioguide": "M001206",
+ "name": "Joseph Morelle",
+ "verified_at": "2026-10-19",
+ "offices": [
+  {
+   "name": "Rochester",
+   "address": "255 East Ave.",
+   "suite": "Suite 150",
+   "city": "Rochester",
+   "zip": "14604",
+   "phone": "585-232-4850",
+   "hours": null,
+   "kind": "district",
+   "latitude": 43.1556322,
+   "longitude": -77.5982307
+  }
+ ],
+ "contact": {
+  "email_public": null,
+  "webform_url": "https://morelleforms.house.gov/contact/?form=/contact/email-me",
+  "webform_requires_zip_verification": null,
+  "phone": true,
+  "meeting_request_url": "https://morelleforms.house.gov/forms/meetingrequest/",
+  "in_person": true,
+  "in_person_notes": "District offices; walk-in/appointment policy not stated on site",
+  "mobile_office_hours": null,
+  "casework_url": "https://morelle.house.gov/services/help-federal-agency"
+ },
+ "schedule": {
+  "publishes_daily_schedule": false,
+  "schedule_url": null,
+  "notes": "No public daily schedule found on site."
+ },
+ "scorecards_extra": [],
+ "sources": [
+  "https://morelle.house.gov/contact",
+  "https://morelle.house.gov/contact/offices"
+ ],
+ "notes": "Single Rochester office confirmed. Hours not listed. Base.json fax 771-200-5554 appears on site too."
+}

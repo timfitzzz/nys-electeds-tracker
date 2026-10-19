@@ -1,0 +1,76 @@
+{
+ "bioguide": "T000478",
+ "name": "Claudia Tenney",
+ "verified_at": "2026-10-19",
+ "offices": [
+  {
+   "name": "Oswego",
+   "address": "46 E Bridge Street",
+   "suite": "Suite 102",
+   "city": "Oswego",
+   "zip": "13126",
+   "phone": "315-236-7088",
+   "hours": "Mon-Fri 9-5",
+   "kind": "district",
+   "latitude": 43.4575811,
+   "longitude": -76.50610979999999
+  },
+  {
+   "name": "Watertown",
+   "address": "317 Washington Street",
+   "suite": "Suite 418",
+   "city": "Watertown",
+   "zip": "13601",
+   "phone": null,
+   "hours": "Tuesday 9-1, appointments when available",
+   "kind": "satellite",
+   "latitude": 43.9716937,
+   "longitude": -75.9104875
+  },
+  {
+   "name": "Lockport",
+   "address": "169 Niagara Street",
+   "suite": null,
+   "city": "Lockport",
+   "zip": "14094",
+   "phone": "716-514-5130",
+   "hours": "Mon-Fri 9-5",
+   "kind": "district",
+   "latitude": 43.1702744,
+   "longitude": -78.7007964
+  },
+  {
+   "name": "Canandaigua",
+   "address": "2375 Rochester Road",
+   "suite": "Suite 250",
+   "city": "Canandaigua",
+   "zip": "14424",
+   "phone": "585-869-2060",
+   "hours": "Mon-Fri 9-5",
+   "kind": "district",
+   "latitude": 42.9162118,
+   "longitude": -77.3054724
+  }
+ ],
+ "contact": {
+  "email_public": null,
+  "webform_url": "https://tenney.house.gov/contact",
+  "webform_requires_zip_verification": true,
+  "phone": true,
+  "meeting_request_url": "https://tenney.house.gov/services/meeting-request",
+  "in_person": true,
+  "in_person_notes": "Offices open Mon-Fri 9-5; Watertown satellite Tuesdays by appointment",
+  "mobile_office_hours": null,
+  "casework_url": "https://tenney.house.gov/services/help-federal-agency"
+ },
+ "schedule": {
+  "publishes_daily_schedule": false,
+  "schedule_url": null,
+  "notes": "No public daily schedule found on site."
+ },
+ "scorecards_extra": [],
+ "sources": [
+  "https://tenney.house.gov/contact"
+ ],
+ "notes": "All four offices confirmed. Watertown has no listed phone. Also has request-an-appearance at https://tenney.house.gov/contact/request-an-appearance."
+}

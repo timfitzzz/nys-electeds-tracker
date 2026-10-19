@@ -1,0 +1,129 @@
+{
+ "bioguide": "G000555",
+ "name": "Kirsten E. Gillibrand",
+ "verified_at": "2026-10-19",
+ "offices": [
+  {
+   "name": "Albany",
+   "address": "11A Clinton Avenue",
+   "suite": "Room 821",
+   "city": "Albany",
+   "zip": "12207",
+   "phone": "518-431-0120",
+   "hours": null,
+   "kind": "district",
+   "latitude": 42.655222,
+   "longitude": -73.7492819
+  },
+  {
+   "name": "Buffalo",
+   "address": "726 Exchange St.",
+   "suite": "Suite 511",
+   "city": "Buffalo",
+   "zip": "14210",
+   "phone": "716-854-9725",
+   "hours": null,
+   "kind": "district",
+   "latitude": 42.8747911,
+   "longitude": -78.851165
+  },
+  {
+   "name": "Lowville",
+   "address": "PO Box 273",
+   "suite": null,
+   "city": "Lowville",
+   "zip": "13367",
+   "phone": "315-376-6118",
+   "hours": null,
+   "kind": "satellite",
+   "latitude": 43.7880969,
+   "longitude": -75.4938177
+  },
+  {
+   "name": "New York",
+   "address": "885 Third Avenue",
+   "suite": "Suite 2402",
+   "city": "New York",
+   "zip": "10022",
+   "phone": "212-688-6262",
+   "hours": null,
+   "kind": "district",
+   "latitude": null,
+   "longitude": null
+  },
+  {
+   "name": "Melville",
+   "address": "155 Pinelawn Rd.",
+   "suite": "Suite 250 North",
+   "city": "Melville",
+   "zip": "11747",
+   "phone": "631-249-2825",
+   "hours": null,
+   "kind": "district",
+   "latitude": 40.7707877,
+   "longitude": -73.41024759999999
+  },
+  {
+   "name": "Rochester",
+   "address": "100 State St.",
+   "suite": "Room 4195",
+   "city": "Rochester",
+   "zip": "14614",
+   "phone": "585-263-6250",
+   "hours": null,
+   "kind": "district",
+   "latitude": 43.1576631,
+   "longitude": -77.613515
+  },
+  {
+   "name": "Syracuse",
+   "address": "100 S. Clinton St.",
+   "suite": "Room 1470",
+   "city": "Syracuse",
+   "zip": "13261",
+   "phone": "315-448-0470",
+   "hours": null,
+   "kind": "district",
+   "latitude": 43.0501042,
+   "longitude": -76.1543204
+  },
+  {
+   "name": "Yonkers",
+   "address": "PO Box 749",
+   "suite": null,
+   "city": "Yonkers",
+   "zip": "10710-0749",
+   "phone": "845-875-4585",
+   "hours": null,
+   "kind": "satellite",
+   "latitude": 40.9188505,
+   "longitude": -73.8596689
+  }
+ ],
+ "contact": {
+  "email_public": null,
+  "webform_url": "https://www.gillibrand.senate.gov/contact/email-me/",
+  "webform_requires_zip_verification": null,
+  "phone": true,
+  "meeting_request_url": "https://www.gillibrand.senate.gov/help/scheduling-request/",
+  "in_person": null,
+  "in_person_notes": "Hours/walk-in policy not published on office page; call ahead. No mobile office hours listed.",
+  "mobile_office_hours": null,
+  "casework_url": "https://www.gillibrand.senate.gov/help/help-for-new-yorkers/"
+ },
+ "schedule": {
+  "publishes_daily_schedule": null,
+  "schedule_url": null,
+  "notes": "Gillibrand historically published schedules (2009 Sunlight Foundation report), but the current contact and help pages list only a Scheduling Request form (meeting/event invite), no public calendar. No public/daily schedule page found linked from the member's contact/help pages; could not exhaustively verify (no dedicated search of the site). ",
+  "recent_meetings": []
+ },
+ "scorecards_extra": [],
+ "sources": [
+  "https://www.gillibrand.senate.gov/office-locations/",
+  "https://www.gillibrand.senate.gov/contact",
+  "https://www.gillibrand.senate.gov/help",
+  "https://www.gillibrand.senate.gov/?p=517",
+  "https://sunlightfoundation.com/2009/04/02/gillibrands-sunlight-report-pulls-back-the-curtain/"
+ ],
+ "notes": "Still in office status not independently confirmed by a dedicated source; official website live and listing offices as of fetch. Senate site blocked direct fetch at some URLs (/contact/offices/); used /office-locations/ which worked. NYC office: site lists 885 Third Ave Suite 2402 (10022) but its directions link and base.json use 780 Third Ave Suite 2601 (10017); used site text, lat/long null, confirm by phone (212-688-6262). Yonkers and Lowville are PO boxes (listed as satellite); Yonkers directions link points to 941 McLean Ave, Yonkers. Hours not listed for any office."
+}

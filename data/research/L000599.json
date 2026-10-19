@@ -1,0 +1,54 @@
+{
+ "bioguide": "L000599",
+ "name": "Michael Lawler",
+ "verified_at": "2026-10-19",
+ "offices": [
+  {
+   "name": "Carmel/Mahopac",
+   "address": "60 McAlpin Ave",
+   "suite": null,
+   "city": "Mahopac",
+   "zip": "10541",
+   "phone": "845-743-7130",
+   "hours": "By appointment only",
+   "kind": "district",
+   "latitude": 41.3774662,
+   "longitude": -73.7236307
+  },
+  {
+   "name": "Pearl River",
+   "address": "One Blue Hill Plaza",
+   "suite": "Third Floor (P.O. Box 1645)",
+   "city": "Pearl River",
+   "zip": "10965",
+   "phone": "845-201-2060",
+   "hours": "By appointment only",
+   "kind": "district",
+   "latitude": 41.0468845,
+   "longitude": -74.0076878
+  }
+ ],
+ "contact": {
+  "email_public": null,
+  "webform_url": "https://lawler.house.gov/contact",
+  "webform_requires_zip_verification": true,
+  "phone": true,
+  "meeting_request_url": "https://lawler.house.gov/forms/meetingrequest/",
+  "in_person": true,
+  "in_person_notes": "Both district offices by appointment only.",
+  "mobile_office_hours": null,
+  "casework_url": "https://lawler.house.gov/forms/casework/"
+ },
+ "schedule": {
+  "publishes_daily_schedule": false,
+  "schedule_url": null,
+  "notes": "No public daily schedule page found on the contact page; not exhaustively searched. ",
+  "recent_meetings": []
+ },
+ "scorecards_extra": [],
+ "sources": [
+  "https://lawler.house.gov/contact",
+  "https://lawler.house.gov/forms/meetingrequest/"
+ ],
+ "notes": "Site calls the Mahopac office the 'Carmel Office'. Meeting form's location option lists 'DC District'. Member serving as of fetch; all seven listed as current NY representatives (not independently checked for post-2026-primary changes). Fetched via WebFetch of house.gov pages; webform ZIP requirement null unless stated."
+}
