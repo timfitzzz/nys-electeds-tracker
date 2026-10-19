@@ -7,7 +7,7 @@ const channels = [
     key: "call",
     label: "Call",
     rateLabel: "Callback rate",
-    how: "We connect your call to the office through a tracked number, then check whether they call you back.",
+    how: "We connect your call to the office through a tracked number, log whether anyone answers or there's voicemail, then check whether they call you back.",
   },
   {
     key: "email",

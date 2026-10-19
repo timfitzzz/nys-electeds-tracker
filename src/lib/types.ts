@@ -39,6 +39,27 @@ export interface ContactProfile {
   caseworkUrl: string | null;
 }
 
+export type PhoneCheckOutcome =
+  | "answered_live"
+  | "voicemail"
+  | "voicemail_full"
+  | "recorded_message"
+  | "redirected"
+  | "no_voicemail"
+  | "line_off"
+  | "busy";
+
+export interface PhoneCheck {
+  /** Null when the report didn't say which office was called. */
+  officeSlug: string | null;
+  phoneNumber: string | null;
+  /** ISO date or timestamp. */
+  checkedAt: string;
+  outcome: PhoneCheckOutcome;
+  inSession: boolean | null;
+  notes: string | null;
+}
+
 export interface Meeting {
   date: string;
   who: string;
@@ -81,6 +102,8 @@ export interface Official {
   jurisdiction: Jurisdiction;
   offices: Office[];
   contact: ContactProfile;
+  /** Most recent first. */
+  phoneChecks: PhoneCheck[];
   schedule: Schedule;
   scorecards: Scorecard[];
   sources: string[];

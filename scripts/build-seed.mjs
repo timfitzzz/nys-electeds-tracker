@@ -7,6 +7,7 @@
 //   data/districts.json                land area and population per area represented
 //   data/status-notes.json             retirements, primary losses and other status changes
 //   data/display-names.json            common names where they differ from legal first names
+//   data/phone-checks.json             curated calls to office lines and what happened
 //
 // Usage: node scripts/build-seed.mjs
 import { readFileSync, writeFileSync, readdirSync } from "node:fs";
@@ -19,6 +20,7 @@ const base = read("data/congress-legislators-ny.json");
 const districts = read("data/districts.json");
 const statusNotes = read("data/status-notes.json");
 const displayNames = read("data/display-names.json");
+const phoneChecks = read("data/phone-checks.json").checks;
 const research = Object.fromEntries(
   readdirSync(join(root, "data/research"))
     .filter((f) => f.endsWith(".json"))
@@ -115,6 +117,22 @@ const officials = base
       longitude: null,
     });
 
+    const checks = phoneChecks
+      .filter((c) => c.bioguide === m.bioguide)
+      .map((c) => {
+        const office = c.office === null ? null : offices.find((o) => o.name === c.office);
+        if (office === undefined) throw new Error(`Unknown office "${c.office}" in phone check for ${m.bioguide}`);
+        return {
+          officeSlug: office?.slug ?? null,
+          phoneNumber: c.phone ?? office?.phone ?? null,
+          checkedAt: c.checked_at,
+          outcome: c.outcome,
+          inSession: c.in_session ?? null,
+          notes: c.notes ?? null,
+        };
+      })
+      .sort((a, b) => b.checkedAt.localeCompare(a.checkedAt));
+
     return {
       slug: slugify(name),
       bioguide: m.bioguide,
@@ -141,6 +159,7 @@ const officials = base
         mobileOfficeHours: r.contact.mobile_office_hours,
         caseworkUrl: r.contact.casework_url,
       },
+      phoneChecks: checks,
       schedule: {
         // No member was found to publish a daily schedule; "not found" is recorded as false.
         publishesDailySchedule: r.schedule.publishes_daily_schedule ?? false,

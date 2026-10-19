@@ -2,6 +2,7 @@ import Link from "next/link";
 import { OfficialsTable, type TableRow } from "@/components/OfficialsTable";
 import { getOfficials, getResponseRates } from "@/lib/data";
 import { officeMetrics } from "@/lib/metrics";
+import { phoneStatus, toneClass } from "@/lib/phone";
 
 export default async function Home() {
   const [officials, rates] = await Promise.all([getOfficials(), getResponseRates()]);
@@ -23,7 +24,16 @@ export default async function Home() {
       landAreaSqMi: o.jurisdiction.landAreaSqMi,
       population: o.jurisdiction.population,
       email: o.contact.emailPublic ? true : false,
-      phone: o.contact.phone,
+      phone: (() => {
+        const p = phoneStatus(o);
+        return {
+          label: p.label,
+          className: toneClass[p.tone],
+          title: p.latest
+            ? `Last called ${p.latest.checkedAt.slice(0, 10)}${p.latest.notes ? `: ${p.latest.notes}` : ""}`
+            : "Number listed, but no call has been logged yet",
+        };
+      })(),
       webform: o.contact.webformUrl ? true : null,
       inPerson: o.contact.inPerson,
       callbackRate: r?.call ?? null,
@@ -48,7 +58,7 @@ export default async function Home() {
           actually respond when you contact them through this site.
         </p>
         <p className="text-xs text-slate-500">
-          Office counts exclude Washington, DC offices and mailing-only addresses. Response rates appear once enough
+          Office counts exclude Washington, DC offices and mailing-only addresses. Phone shows what happened the last time someone called, not just whether a number is listed. Response rates appear once enough
           tracked contacts have come in. Facts last verified {verified}. <Link href="/methodology" className="underline">How this is measured</Link>.
         </p>
       </section>

@@ -151,6 +151,51 @@ export const scorecards = pgTable("scorecards", {
   period: text("period"), // e.g. "2025"
 });
 
+/**
+ * What happened when someone called an office line. Having a number listed says
+ * little; this records whether calling it reaches anyone.
+ *
+ * answered_live: a person picked up
+ * voicemail: no answer, but you can leave a message
+ * voicemail_full: voicemail box exists but is full or not accepting messages
+ * recorded_message: a recording only (e.g. "office closed for recess"), no way to leave a message
+ * redirected: forwarded or told to call another office (often DC)
+ * no_voicemail: rings out, no voicemail
+ * line_off: line disconnected, turned off or not ringing
+ * busy: busy signal
+ */
+export const phoneCheckOutcome = pgEnum("phone_check_outcome", [
+  "answered_live",
+  "voicemail",
+  "voicemail_full",
+  "recorded_message",
+  "redirected",
+  "no_voicemail",
+  "line_off",
+  "busy",
+]);
+
+/**
+ * One call to an office line and its outcome. Rows come from curated checks in
+ * data/phone-checks.json (source "curated"), user reports, and later from calls
+ * placed through the site (source "call_through").
+ */
+export const phoneChecks = pgTable("phone_checks", {
+  id: serial("id").primaryKey(),
+  officialId: integer("official_id")
+    .notNull()
+    .references(() => officials.id, { onDelete: "cascade" }),
+  // Null when the report didn't say which office was called.
+  officeId: integer("office_id").references(() => offices.id, { onDelete: "set null" }),
+  phoneNumber: text("phone_number"),
+  checkedAt: timestamp("checked_at", { withTimezone: true }).notNull(),
+  outcome: phoneCheckOutcome("outcome").notNull(),
+  // Whether the legislature was in session when the call was made, since some offices shut lines during recess.
+  inSession: boolean("in_session"),
+  source: text("source").notNull(), // curated, user_report, call_through
+  notes: text("notes"),
+});
+
 /** Third-party reviews of an office (Yelp, Google). Placeholder until a review source is chosen. */
 export const reviewSources = pgTable("review_sources", {
   id: serial("id").primaryKey(),

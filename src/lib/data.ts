@@ -3,14 +3,14 @@ import { count, eq, inArray, sql } from "drizzle-orm";
 import { db } from "@/db";
 import * as t from "@/db/schema";
 import seed from "@/data/seed.json";
-import type { Official, OfficeKind, ResponseRates } from "./types";
+import type { Official, OfficeKind, PhoneCheckOutcome, ResponseRates } from "./types";
 
 /** Minimum completed contacts on a channel before a response rate is shown. */
 export const MIN_SAMPLE = 10;
 
 async function loadFromDb(): Promise<Official[]> {
   if (!db) throw new Error("DATABASE_URL is not set");
-  const [officials, jurisdictions, offices, contacts, schedules, meetings, scorecards] = await Promise.all([
+  const [officials, jurisdictions, offices, contacts, schedules, meetings, scorecards, phoneChecks] = await Promise.all([
     db.select().from(t.officials).where(eq(t.officials.inOffice, true)),
     db.select().from(t.jurisdictions),
     db.select().from(t.offices),
@@ -18,6 +18,7 @@ async function loadFromDb(): Promise<Official[]> {
     db.select().from(t.schedules),
     db.select().from(t.meetings),
     db.select().from(t.scorecards),
+    db.select().from(t.phoneChecks),
   ]);
   const byOfficial = <R extends { officialId: number }>(rows: R[]) => {
     const m = new Map<number, R[]>();
@@ -28,6 +29,8 @@ async function loadFromDb(): Promise<Official[]> {
   const officesBy = byOfficial(offices);
   const meetingsBy = byOfficial(meetings);
   const scorecardsBy = byOfficial(scorecards);
+  const phoneChecksBy = byOfficial(phoneChecks);
+  const officeSlugById = new Map(offices.map((f) => [f.id, f.slug]));
   const contactBy = new Map(contacts.map((c) => [c.officialId, c]));
   const scheduleBy = new Map(schedules.map((s) => [s.officialId, s]));
 
@@ -86,6 +89,16 @@ async function loadFromDb(): Promise<Official[]> {
         mobileOfficeHours: c?.mobileOfficeHours ?? null,
         caseworkUrl: c?.caseworkUrl ?? null,
       },
+      phoneChecks: (phoneChecksBy.get(o.id) ?? [])
+        .sort((a, b) => b.checkedAt.getTime() - a.checkedAt.getTime())
+        .map((p) => ({
+          officeSlug: p.officeId ? (officeSlugById.get(p.officeId) ?? null) : null,
+          phoneNumber: p.phoneNumber,
+          checkedAt: p.checkedAt.toISOString(),
+          outcome: p.outcome,
+          inSession: p.inSession,
+          notes: p.notes,
+        })),
       schedule: {
         publishesDailySchedule: s?.publishesDailySchedule ?? null,
         scheduleUrl: s?.scheduleUrl ?? null,
@@ -109,6 +122,7 @@ function loadFromSeed(): Official[] {
   return seed.officials.map((o) => ({
     ...o,
     offices: o.offices.map((off) => ({ ...off, kind: off.kind as OfficeKind })),
+    phoneChecks: o.phoneChecks.map((p) => ({ ...p, outcome: p.outcome as PhoneCheckOutcome })),
   })) as Official[];
 }
 

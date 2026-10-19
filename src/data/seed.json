@@ -166,6 +166,7 @@
         "mobileOfficeHours": null,
         "caseworkUrl": "https://www.gillibrand.senate.gov/help/help-for-new-yorkers/"
       },
+      "phoneChecks": [],
       "schedule": {
         "publishesDailySchedule": false,
         "scheduleUrl": null,
@@ -378,6 +379,16 @@
         "mobileOfficeHours": null,
         "caseworkUrl": "https://www.schumer.senate.gov/services#help"
       },
+      "phoneChecks": [
+        {
+          "officeSlug": null,
+          "phoneNumber": null,
+          "checkedAt": "2026-10-19",
+          "outcome": "line_off",
+          "inSession": false,
+          "notes": "Phone turned off and no voicemail box while the Senate is out of session. Reported by the site's maintainer; which office was called wasn't recorded."
+        }
+      ],
       "schedule": {
         "publishesDailySchedule": false,
         "scheduleUrl": null,
@@ -503,6 +514,7 @@
         "mobileOfficeHours": true,
         "caseworkUrl": "https://lalota.house.gov/services/help-federal-agency"
       },
+      "phoneChecks": [],
       "schedule": {
         "publishesDailySchedule": false,
         "scheduleUrl": null,
@@ -614,6 +626,7 @@
         "mobileOfficeHours": null,
         "caseworkUrl": "https://garbarino.house.gov/services/help-federal-agency"
       },
+      "phoneChecks": [],
       "schedule": {
         "publishesDailySchedule": false,
         "scheduleUrl": null,
@@ -739,6 +752,7 @@
         "mobileOfficeHours": null,
         "caseworkUrl": "https://suozzi.house.gov/services/help-federal-agency"
       },
+      "phoneChecks": [],
       "schedule": {
         "publishesDailySchedule": false,
         "scheduleUrl": null,
@@ -849,6 +863,7 @@
         "mobileOfficeHours": null,
         "caseworkUrl": "https://gillen.house.gov/services/help-federal-agency"
       },
+      "phoneChecks": [],
       "schedule": {
         "publishesDailySchedule": false,
         "scheduleUrl": null,
@@ -974,6 +989,7 @@
         "mobileOfficeHours": null,
         "caseworkUrl": "https://meeks.house.gov/services/help-federal-agency"
       },
+      "phoneChecks": [],
       "schedule": {
         "publishesDailySchedule": false,
         "scheduleUrl": null,
@@ -1099,6 +1115,7 @@
         "mobileOfficeHours": null,
         "caseworkUrl": "https://meng.house.gov/services/help-federal-agency"
       },
+      "phoneChecks": [],
       "schedule": {
         "publishesDailySchedule": false,
         "scheduleUrl": null,
@@ -1225,6 +1242,7 @@
         "mobileOfficeHours": null,
         "caseworkUrl": "https://velazquez.house.gov/services/help-with-a-federal-agency"
       },
+      "phoneChecks": [],
       "schedule": {
         "publishesDailySchedule": false,
         "scheduleUrl": null,
@@ -1351,6 +1369,7 @@
         "mobileOfficeHours": null,
         "caseworkUrl": "https://jeffries.house.gov/serving-you/help-with-a-federal-agency/"
       },
+      "phoneChecks": [],
       "schedule": {
         "publishesDailySchedule": false,
         "scheduleUrl": null,
@@ -1462,6 +1481,7 @@
         "mobileOfficeHours": null,
         "caseworkUrl": "https://clarke.house.gov/services/correspondence-requests/"
       },
+      "phoneChecks": [],
       "schedule": {
         "publishesDailySchedule": false,
         "scheduleUrl": null,
@@ -1586,6 +1606,7 @@
         "mobileOfficeHours": null,
         "caseworkUrl": "https://goldman.house.gov/services/help-federal-agency"
       },
+      "phoneChecks": [],
       "schedule": {
         "publishesDailySchedule": false,
         "scheduleUrl": null,
@@ -1713,6 +1734,7 @@
         "mobileOfficeHours": null,
         "caseworkUrl": "https://malliotakis.house.gov/services/help-federal-agency"
       },
+      "phoneChecks": [],
       "schedule": {
         "publishesDailySchedule": false,
         "scheduleUrl": null,
@@ -1824,6 +1846,7 @@
         "mobileOfficeHours": null,
         "caseworkUrl": "https://nadler.house.gov/serving-you/casework/casework-zip-authentication.htm"
       },
+      "phoneChecks": [],
       "schedule": {
         "publishesDailySchedule": false,
         "scheduleUrl": null,
@@ -1964,6 +1987,7 @@
         "mobileOfficeHours": null,
         "caseworkUrl": "https://espaillat.house.gov/services/help-federal-agency"
       },
+      "phoneChecks": [],
       "schedule": {
         "publishesDailySchedule": false,
         "scheduleUrl": null,
@@ -2088,6 +2112,7 @@
         "mobileOfficeHours": null,
         "caseworkUrl": "https://ocasio-cortez.house.gov/services/help-federal-agency"
       },
+      "phoneChecks": [],
       "schedule": {
         "publishesDailySchedule": false,
         "scheduleUrl": null,
@@ -2199,6 +2224,7 @@
         "mobileOfficeHours": null,
         "caseworkUrl": "https://ritchietorres.house.gov/agencies"
       },
+      "phoneChecks": [],
       "schedule": {
         "publishesDailySchedule": false,
         "scheduleUrl": null,
@@ -2323,6 +2349,7 @@
         "mobileOfficeHours": null,
         "caseworkUrl": "https://latimer.house.gov/services/help-federal-agency"
       },
+      "phoneChecks": [],
       "schedule": {
         "publishesDailySchedule": false,
         "scheduleUrl": null,
@@ -2448,6 +2475,7 @@
         "mobileOfficeHours": null,
         "caseworkUrl": "https://lawler.house.gov/forms/casework/"
       },
+      "phoneChecks": [],
       "schedule": {
         "publishesDailySchedule": false,
         "scheduleUrl": null,
@@ -2587,6 +2615,7 @@
         "mobileOfficeHours": null,
         "caseworkUrl": "https://patryan.house.gov/services/help-federal-agency"
       },
+      "phoneChecks": [],
       "schedule": {
         "publishesDailySchedule": false,
         "scheduleUrl": null,
@@ -2726,6 +2755,7 @@
         "mobileOfficeHours": true,
         "caseworkUrl": "https://riley.house.gov/services/help-with-federal-agency/"
       },
+      "phoneChecks": [],
       "schedule": {
         "publishesDailySchedule": false,
         "scheduleUrl": null,
@@ -2851,6 +2881,7 @@
         "mobileOfficeHours": null,
         "caseworkUrl": null
       },
+      "phoneChecks": [],
       "schedule": {
         "publishesDailySchedule": false,
         "scheduleUrl": null,
@@ -2975,6 +3006,7 @@
         "mobileOfficeHours": null,
         "caseworkUrl": "https://stefanik.house.gov/help-with-a-federal-agency"
       },
+      "phoneChecks": [],
       "schedule": {
         "publishesDailySchedule": false,
         "scheduleUrl": null,
@@ -3102,6 +3134,7 @@
         "mobileOfficeHours": null,
         "caseworkUrl": "https://mannion.house.gov/services/help-federal-agency"
       },
+      "phoneChecks": [],
       "schedule": {
         "publishesDailySchedule": false,
         "scheduleUrl": null,
@@ -3255,6 +3288,7 @@
         "mobileOfficeHours": null,
         "caseworkUrl": "https://langworthy.house.gov/services/help-federal-agency"
       },
+      "phoneChecks": [],
       "schedule": {
         "publishesDailySchedule": false,
         "scheduleUrl": null,
@@ -3407,6 +3441,7 @@
         "mobileOfficeHours": null,
         "caseworkUrl": "https://tenney.house.gov/services/help-federal-agency"
       },
+      "phoneChecks": [],
       "schedule": {
         "publishesDailySchedule": false,
         "scheduleUrl": null,
@@ -3517,6 +3552,7 @@
         "mobileOfficeHours": null,
         "caseworkUrl": "https://morelle.house.gov/services/help-federal-agency"
       },
+      "phoneChecks": [],
       "schedule": {
         "publishesDailySchedule": false,
         "scheduleUrl": null,
@@ -3642,6 +3678,7 @@
         "mobileOfficeHours": null,
         "caseworkUrl": "https://kennedy.house.gov/forms/casework"
       },
+      "phoneChecks": [],
       "schedule": {
         "publishesDailySchedule": false,
         "scheduleUrl": "https://kennedy.house.gov/calendar",

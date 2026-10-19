@@ -48,8 +48,21 @@ const items: { term: string; body: React.ReactNode }[] = [
     body: (
       <>
         Email means a publicly listed email address; nearly every office instead uses a web form, which is listed
-        separately. In person means the office takes walk-ins or appointments, or holds town halls or mobile office
+        separately. Phone is covered below. In person means the office takes walk-ins or appointments, or holds town halls or mobile office
         hours. A question mark means we haven&apos;t verified it yet.
+      </>
+    ),
+  },
+  {
+    term: "Phone",
+    body: (
+      <>
+        A listed number isn&apos;t the same as a phone someone answers. For each office line we log what happened when
+        someone called: answered live, voicemail, voicemail full, a recording only, redirected to another office, no
+        voicemail, line off, or busy, with the date and whether the legislature was in session (some offices turn
+        their lines off during recess). The table shows the best recent result across an official&apos;s lines, and
+        &quot;Untested&quot; when nobody has logged a call yet. Calls placed through this site will add to the log
+        once that feature is live.
       </>
     ),
   },
